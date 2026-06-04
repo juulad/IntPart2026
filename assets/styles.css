@@ -215,6 +215,13 @@ label {
   font-weight: 700;
 }
 
+.field-note {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
 input,
 select {
   width: 100%;
@@ -398,6 +405,25 @@ td.num {
   margin-top: 16px;
 }
 
+.project-economics-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.project-economics-grid article {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  padding: 20px;
+}
+
+.project-economics-grid h3 {
+  margin: 0 0 8px;
+  font-size: 20px;
+}
+
 .risk-list {
   display: grid;
   gap: 10px;
@@ -532,6 +558,7 @@ footer {
   .metric-strip,
   .result-grid,
   .compare-grid,
+  .project-economics-grid,
   .owners,
   .document-grid,
   .two-col,

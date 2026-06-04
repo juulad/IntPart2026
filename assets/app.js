@@ -50,6 +50,15 @@ const debtDefaults = {
   monthsOutstanding: 18,
   loanTermMonths: 24,
   repaymentType: "bullet",
+  devLandCost: 1100000,
+  devLandImprovements: 250000,
+  devHardCosts: 450000,
+  devSoftCosts: 100000,
+  devAdminCosts: 30000,
+  devContingency: 40000,
+  devCarryingCosts: 30000,
+  devSaleMode: "targetProfit",
+  devSaleProceeds: 2600000,
   debtOperatingProfitPct: 30,
   interestWithholdingRate: 30,
   debtDividendWithholdingRate: 30,
@@ -275,6 +284,17 @@ function readDebtInputs() {
     monthsOutstanding: readNumber("monthsOutstanding"),
     loanTermMonths: readNumber("loanTermMonths"),
     repaymentType: byId("repaymentType").value,
+    development: {
+      land: readNumber("devLandCost"),
+      improvements: readNumber("devLandImprovements"),
+      hardCosts: readNumber("devHardCosts"),
+      softCosts: readNumber("devSoftCosts"),
+      admin: readNumber("devAdminCosts"),
+      contingency: readNumber("devContingency"),
+      carrying: readNumber("devCarryingCosts"),
+      saleMode: byId("devSaleMode").value,
+      saleProceeds: readNumber("devSaleProceeds")
+    },
     operatingProfitPct: pct(readNumber("debtOperatingProfitPct")),
     interestWithholdingRate: pct(readNumber("interestWithholdingRate")),
     dividendWithholdingRate: pct(readNumber("debtDividendWithholdingRate")),
@@ -307,6 +327,15 @@ function calculateDebtScenario() {
   const jasonRatio = input.jasonEquity / ownershipFactor;
   const adamRatio = input.adamEquity / ownershipFactor;
   const holdcoRatio = input.holdcoEquity / ownershipFactor;
+  const developmentCost = Object.keys(input.development).reduce(function(sum, key) {
+    return typeof input.development[key] === "number" && key !== "saleProceeds" ? sum + input.development[key] : sum;
+  }, 0);
+  const impliedSaleProceeds = developmentCost * (1 + input.operatingProfitPct);
+  const saleProceeds = input.development.saleMode === "manualSale" && input.development.saleProceeds > 0
+    ? input.development.saleProceeds
+    : impliedSaleProceeds;
+  const operatingProfit = Math.max(0, saleProceeds - developmentCost);
+  const operatingProfitPct = developmentCost > 0 ? operatingProfit / developmentCost : 0;
   const debtPrincipal = input.holdcoInfusion * input.debtFundingPct;
   const equityContribution = input.holdcoInfusion - debtPrincipal;
   const months = Math.max(0, Math.min(input.monthsOutstanding, input.loanTermMonths));
@@ -314,7 +343,6 @@ function calculateDebtScenario() {
     ? debtPrincipal * Math.max(0, 1 - months / Math.max(input.loanTermMonths, 1) / 2)
     : debtPrincipal;
   const interestExpense = averagePrincipal * input.interestRate * months / 12;
-  const operatingProfit = capital * input.operatingProfitPct;
   const interestCap = input.applyInterestLimit ? operatingProfit * input.interestLimitPct : interestExpense;
   const deductibleInterest = Math.min(interestExpense, interestCap);
   const nondeductibleInterest = Math.max(0, interestExpense - deductibleInterest);
@@ -387,6 +415,10 @@ function calculateDebtScenario() {
   return {
     input: input,
     ownershipTotal: ownershipTotal,
+    developmentCost: developmentCost,
+    saleProceeds: saleProceeds,
+    impliedSaleProceeds: impliedSaleProceeds,
+    operatingProfitPct: operatingProfitPct,
     debtPrincipal: debtPrincipal,
     equityContribution: equityContribution,
     operatingProfit: operatingProfit,
@@ -448,6 +480,28 @@ function renderDebtSummary(result) {
     "<dt>Holdco participating dividend</dt><dd>" + money.format(result.holdcoParticipatingDividend) + "</dd>" +
     "<dt>Common dividend pool</dt><dd>" + money.format(result.commonDividendPool) + "</dd>" +
     "<dt>Holding company equity contribution</dt><dd>" + money.format(result.equityContribution) + "</dd>";
+
+  byId("developmentSummary").innerHTML =
+    "<dt>Land acquisition price</dt><dd>" + money.format(result.input.development.land) + "</dd>" +
+    "<dt>Land additions / site work</dt><dd>" + money.format(result.input.development.improvements) + "</dd>" +
+    "<dt>Building / development</dt><dd>" + money.format(result.input.development.hardCosts) + "</dd>" +
+    "<dt>Soft costs / professional fees</dt><dd>" + money.format(result.input.development.softCosts) + "</dd>" +
+    "<dt>Permits / legal / admin</dt><dd>" + money.format(result.input.development.admin) + "</dd>" +
+    "<dt>Contingency</dt><dd>" + money.format(result.input.development.contingency) + "</dd>" +
+    "<dt>Holding / carrying costs</dt><dd>" + money.format(result.input.development.carrying) + "</dd>" +
+    "<dt>Total development cost</dt><dd>" + money.format(result.developmentCost) + "</dd>" +
+    "<dt>Sale proceeds mode</dt><dd>" + (result.input.development.saleMode === "manualSale" ? "Manual sale proceeds" : "Profit % target") + "</dd>" +
+    "<dt>Modeled sale proceeds</dt><dd>" + money.format(result.saleProceeds) + "</dd>";
+
+  byId("capitalMappingSummary").innerHTML =
+    "<dt>Reference sale proceeds at selected profit %</dt><dd>" + money.format(result.impliedSaleProceeds) + "</dd>" +
+    "<dt>Operating profit before interest</dt><dd>" + money.format(result.operatingProfit) + "</dd>" +
+    "<dt>Profit on development cost</dt><dd>" + percent.format(result.operatingProfitPct) + "</dd>" +
+    "<dt>Debt principal funding</dt><dd>" + money.format(result.debtPrincipal) + "</dd>" +
+    "<dt>Holding company equity contribution</dt><dd>" + money.format(result.equityContribution) + "</dd>" +
+    "<dt>U.S. corporate tax after interest</dt><dd>" + money.format(result.corpTax) + "</dd>" +
+    "<dt>After-tax dividend pool</dt><dd>" + money.format(result.distributableProfit) + "</dd>" +
+    "<dt>Total modeled net to parties</dt><dd>" + money.format(result.modeledNet) + "</dd>";
 
   const quality = [
     {
