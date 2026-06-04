@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Real Estate JV Tax Feasibility App</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Atlas Tax Advisory</p>
+        <h1>Real Estate JV Feasibility Calculator</h1>
+      </div>
+      <nav aria-label="Document navigation">
+        <a href="#calculator">Calculator</a>
+        <a href="#comparison">Comparison</a>
+        <a href="#documents">Documents</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="summary-band" aria-labelledby="summary-title">
+        <div>
+          <h2 id="summary-title">Cross-border profit model</h2>
+          <p>
+            Model a U.S. real estate flipping venture with U.S. corporate tax, U.S. dividend withholding,
+            Dubai/UAE corporate tax on foreign-owner distributions, adjustable deal costs, and editable owner splits.
+          </p>
+        </div>
+        <div class="metric-strip" aria-live="polite">
+          <div>
+            <span>Required pre-tax profit</span>
+            <strong id="heroPretax">$0</strong>
+          </div>
+          <div>
+            <span>Gross sale proceeds</span>
+            <strong id="heroProceeds">$0</strong>
+          </div>
+          <div>
+            <span>Modeled net profit</span>
+            <strong id="heroNet">$0</strong>
+          </div>
+        </div>
+      </section>
+
+      <section id="calculator" class="layout">
+        <aside class="control-panel" aria-label="Calculator inputs">
+          <div class="panel-head">
+            <h2>Inputs</h2>
+            <button id="resetBtn" type="button">Reset</button>
+          </div>
+
+          <fieldset>
+            <legend>Scenario</legend>
+            <label>
+              <span>Calculation mode</span>
+              <select id="mode">
+                <option value="legal">Straight legal split</option>
+                <option value="equalized">Tax-equalized net split</option>
+              </select>
+            </label>
+            <div class="two-col">
+              <label>
+                <span>Capital base</span>
+                <input id="capital" type="number" min="0" step="10000" value="2000000">
+              </label>
+              <label>
+                <span>Net profit target %</span>
+                <input id="targetNetPct" type="number" min="0" step="0.1" value="30">
+              </label>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Tax rates</legend>
+            <div class="two-col">
+              <label>
+                <span>State corporate %</span>
+                <input id="stateTax" type="number" min="0" step="0.1" value="7.9">
+              </label>
+              <label>
+                <span>Federal corporate %</span>
+                <input id="federalTax" type="number" min="0" step="0.1" value="21">
+              </label>
+              <label>
+                <span>Foreign withholding %</span>
+                <input id="withholdingTax" type="number" min="0" step="0.1" value="30">
+              </label>
+              <label>
+                <span>Dubai / UAE corp %</span>
+                <input id="uaeTax" type="number" min="0" step="0.1" value="9">
+              </label>
+            </div>
+            <label class="check-row">
+              <input id="stateDeductible" type="checkbox" checked>
+              <span>Deduct state tax before federal corporate tax</span>
+            </label>
+            <label>
+              <span>Dubai tax base</span>
+              <select id="uaeTaxBase">
+                <option value="afterWithholding">After U.S. withholding</option>
+                <option value="beforeWithholding">Before U.S. withholding</option>
+              </select>
+            </label>
+          </fieldset>
+
+          <fieldset>
+            <legend>Deal costs</legend>
+            <div class="two-col">
+              <label>
+                <span>Acquisition</span>
+                <input id="acquisitionCost" type="number" min="0" step="10000" value="1490000">
+              </label>
+              <label>
+                <span>Renovation</span>
+                <input id="renovationCost" type="number" min="0" step="10000" value="350000">
+              </label>
+              <label>
+                <span>Closing costs</span>
+                <input id="closingCost" type="number" min="0" step="1000" value="30000">
+              </label>
+              <label>
+                <span>Holding costs</span>
+                <input id="holdingCost" type="number" min="0" step="1000" value="70000">
+              </label>
+              <label>
+                <span>Admin / legal</span>
+                <input id="adminCost" type="number" min="0" step="1000" value="30000">
+              </label>
+              <label>
+                <span>Selling costs</span>
+                <input id="sellingCost" type="number" min="0" step="1000" value="169628">
+              </label>
+            </div>
+          </fieldset>
+        </aside>
+
+        <section class="workspace" aria-label="Calculator results">
+          <div class="status-row">
+            <div>
+              <span>Split total</span>
+              <strong id="splitTotal">100.0%</strong>
+            </div>
+            <p id="splitWarning" class="warning" role="status"></p>
+          </div>
+
+          <div class="owners" id="owners"></div>
+
+          <div class="result-grid">
+            <article>
+              <span>Target net profit</span>
+              <strong id="targetNet">$0</strong>
+            </article>
+            <article>
+              <span>After-corporate-tax distributable profit</span>
+              <strong id="distributableProfit">$0</strong>
+            </article>
+            <article>
+              <span>U.S. corporate tax</span>
+              <strong id="corpTaxTotal">$0</strong>
+            </article>
+            <article>
+              <span>Required pre-tax profit on capital</span>
+              <strong id="pretaxPct">0.0%</strong>
+            </article>
+          </div>
+
+          <div class="table-wrap">
+            <table>
+              <caption>Owner-level profit mapping</caption>
+              <thead>
+                <tr>
+                  <th>Person</th>
+                  <th>Status</th>
+                  <th>Split</th>
+                  <th>Distribution</th>
+                  <th>U.S. withholding</th>
+                  <th>Dubai tax</th>
+                  <th>Modeled net</th>
+                </tr>
+              </thead>
+              <tbody id="ownerRows"></tbody>
+            </table>
+          </div>
+        </section>
+      </section>
+
+      <section id="comparison" class="comparison-band" aria-labelledby="comparison-title">
+        <div class="section-title">
+          <p class="eyebrow">Scenario comparison</p>
+          <h2 id="comparison-title">Straight split vs. tax-equalized split</h2>
+        </div>
+        <div class="compare-grid">
+          <article>
+            <h3>Straight legal split</h3>
+            <p>Profit is distributed by the stated percentages before owner-side withholding and Dubai tax.</p>
+            <dl id="legalSummary"></dl>
+          </article>
+          <article>
+            <h3>Tax-equalized net split</h3>
+            <p>After-tax net dollars are forced to match the stated percentages, so foreign distributions gross up.</p>
+            <dl id="equalizedSummary"></dl>
+          </article>
+        </div>
+      </section>
+
+      <section id="documents" class="documents-band" aria-labelledby="documents-title">
+        <div class="section-title">
+          <p class="eyebrow">Research file links</p>
+          <h2 id="documents-title">Documents and source materials</h2>
+        </div>
+        <div class="document-grid">
+          <article>
+            <h3>Working documents</h3>
+            <a href="research/real-estate-jv-tax-2026-06-03/feasibility-study-20pct-net-profit.html">Feasibility study</a>
+            <a href="research/real-estate-jv-tax-2026-06-03/feasibility-study-20pct-net-profit.md">Feasibility study Markdown</a>
+            <a href="research/real-estate-jv-tax-2026-06-03/feasibility-study-20pct-net-profit-model.csv">Feasibility model CSV</a>
+            <a href="research/real-estate-jv-tax-2026-06-03/structuring-memo.html">Structuring memo</a>
+            <a href="research/real-estate-jv-tax-2026-06-03/project-plan.html">Setup project plan</a>
+            <a href="research/real-estate-jv-tax-2026-06-03/foreign-investor-decision-tree.html">Foreign investor decision tree</a>
+          </article>
+          <article>
+            <h3>U.S. tax and reporting</h3>
+            <a href="https://www.irs.gov/pub/irs-pdf/p515.pdf">IRS Publication 515</a>
+            <a href="https://www.irs.gov/pub/irs-pdf/p519.pdf">IRS Publication 519</a>
+            <a href="https://www.irs.gov/pub/irs-pdf/f1120.pdf">Form 1120</a>
+            <a href="https://www.irs.gov/pub/irs-pdf/f5472.pdf">Form 5472</a>
+            <a href="https://www.irs.gov/pub/irs-pdf/f1042.pdf">Form 1042</a>
+            <a href="https://www.irs.gov/pub/irs-pdf/f1042s.pdf">Form 1042-S</a>
+            <a href="https://www.irs.gov/pub/irs-pdf/fw8ben.pdf">Form W-8BEN</a>
+            <a href="https://www.irs.gov/pub/irs-pdf/fw8bene.pdf">Form W-8BEN-E</a>
+          </article>
+          <article>
+            <h3>Treaties and foreign issues</h3>
+            <a href="https://home.treasury.gov/system/files/131/Treaty-UK-7-24-2001.pdf">U.S.-U.K. treaty</a>
+            <a href="https://www.irs.gov/pub/irs-trty/uktech.pdf">U.K. treaty technical explanation</a>
+            <a href="https://www.irs.gov/pub/irs-trty/belgium.pdf">U.S.-Belgium treaty</a>
+            <a href="https://www.irs.gov/pub/irs-trty/belgtech.pdf">Belgium treaty technical explanation</a>
+            <a href="https://tax.gov.ae/en/taxes/corporate.tax.aspx">UAE corporate tax source</a>
+            <a href="https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z">IRS treaty list</a>
+          </article>
+          <article>
+            <h3>Entity setup and state files</h3>
+            <a href="https://www.irs.gov/pub/irs-pdf/fss4.pdf">Form SS-4</a>
+            <a href="https://www.irs.gov/pub/irs-pdf/f8832.pdf">Form 8832</a>
+            <a href="https://www.irs.gov/pub/irs-pdf/p542.pdf">Publication 542</a>
+            <a href="https://www.irs.gov/pub/irs-pdf/p583.pdf">Publication 583</a>
+            <a href="https://wdfi.org/corporations/forms/">Wisconsin business entity forms</a>
+            <a href="https://www.revenue.wi.gov/Pages/Businesses/New-Business-home.aspx">Wisconsin new business registration</a>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>This app is a feasibility model. It does not replace U.S., UAE, Belgian, U.K., or state tax counsel.</p>
+    </footer>
+
+    <script src="assets/app.js"></script>
+  </body>
+</html>
