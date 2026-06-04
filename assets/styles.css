@@ -99,9 +99,9 @@ main {
 
 .summary-band {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(320px, 680px);
-  gap: 28px;
-  align-items: end;
+  grid-template-columns: 1fr;
+  gap: 22px;
+  align-items: start;
   border-bottom: 1px solid var(--line);
   background: linear-gradient(180deg, #ffffff 0%, #f4f7f8 100%);
 }
@@ -128,8 +128,12 @@ main {
 
 .metric-strip {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 10px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.comparable-metrics {
+  max-width: 100%;
 }
 
 .metric-strip div,
@@ -159,7 +163,7 @@ main {
 .metric-strip strong {
   display: block;
   margin-top: 8px;
-  font-size: clamp(20px, 2.5vw, 30px);
+  font-size: clamp(20px, 2.2vw, 28px);
 }
 
 .layout {
@@ -529,7 +533,6 @@ footer {
 
 @media (max-width: 1180px) {
   .layout,
-  .summary-band,
   .debt-layout {
     grid-template-columns: 1fr;
   }

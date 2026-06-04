@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Real Estate JV Tax Feasibility App</title>
-    <link rel="stylesheet" href="assets/styles.css?v=20260604-dev-economics">
+    <link rel="stylesheet" href="assets/styles.css?v=20260604-cross-border-metrics">
   </head>
   <body>
     <header class="topbar">
@@ -30,18 +30,38 @@
             Dubai/UAE corporate tax on foreign-owner distributions, adjustable deal costs, and editable owner splits.
           </p>
         </div>
-        <div class="metric-strip" aria-live="polite">
+        <div class="metric-strip comparable-metrics" aria-live="polite">
           <div>
-            <span>Required pre-tax profit</span>
-            <strong id="heroPretax">$0</strong>
+            <span>Split total</span>
+            <strong id="heroSplitTotal">100.0%</strong>
           </div>
           <div>
-            <span>Gross sale proceeds</span>
+            <span>Capital base</span>
+            <strong id="heroCapital">$2,000,000</strong>
+          </div>
+          <div>
+            <span>U.S. corporate tax</span>
+            <strong id="heroCorpTax">$0</strong>
+          </div>
+          <div>
+            <span>Total modeled net to parties</span>
+            <strong id="heroNet">$0</strong>
+          </div>
+          <div>
+            <span>Total development cost</span>
+            <strong id="heroProjectCost">$0</strong>
+          </div>
+          <div>
+            <span>Modeled sale proceeds</span>
             <strong id="heroProceeds">$0</strong>
           </div>
           <div>
-            <span>Modeled net profit</span>
-            <strong id="heroNet">$0</strong>
+            <span>Required pre-tax operating profit</span>
+            <strong id="heroPretax">$0</strong>
+          </div>
+          <div>
+            <span>Profit on development cost</span>
+            <strong id="heroProjectProfitPct">0.0%</strong>
           </div>
         </div>
       </section>
@@ -560,6 +580,6 @@
       <p>This app is a feasibility model. It does not replace U.S., UAE, Belgian, U.K., or state tax counsel.</p>
     </footer>
 
-    <script src="assets/app.js?v=20260604-dev-economics"></script>
+    <script src="assets/app.js?v=20260604-cross-border-metrics"></script>
   </body>
 </html>

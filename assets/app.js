@@ -550,10 +550,16 @@ function calculateAndRender() {
   const legal = calculate("legal");
   const equalized = calculate("equalized");
   const capital = readNumber("capital");
+  const projectProfitPct = active.projectCost > 0 ? active.preTaxProfit / active.projectCost : 0;
 
-  byId("heroPretax").textContent = money.format(active.preTaxProfit);
-  byId("heroProceeds").textContent = money.format(active.grossSaleProceeds);
+  byId("heroSplitTotal").textContent = active.splitTotal.toFixed(1) + "%";
+  byId("heroCapital").textContent = money.format(capital);
+  byId("heroCorpTax").textContent = money.format(active.corpTax);
   byId("heroNet").textContent = money.format(active.modeledNet);
+  byId("heroProjectCost").textContent = money.format(active.projectCost);
+  byId("heroProceeds").textContent = money.format(active.grossSaleProceeds);
+  byId("heroPretax").textContent = money.format(active.preTaxProfit);
+  byId("heroProjectProfitPct").textContent = percent.format(projectProfitPct);
   byId("targetNet").textContent = money.format(active.targetNet);
   byId("distributableProfit").textContent = money.format(active.distributable);
   byId("corpTaxTotal").textContent = money.format(active.corpTax);
