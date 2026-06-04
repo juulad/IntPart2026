@@ -455,6 +455,10 @@ function renderDebtSummary(result) {
   byId("interestExpense").textContent = money.format(result.interestExpense);
   byId("taxShield").textContent = money.format(result.taxShield);
   byId("debtModeledNet").textContent = money.format(result.modeledNet);
+  byId("devTotalCost").textContent = money.format(result.developmentCost);
+  byId("devModeledSale").textContent = money.format(result.saleProceeds);
+  byId("devOperatingProfit").textContent = money.format(result.operatingProfit);
+  byId("devProfitPct").textContent = percent.format(result.operatingProfitPct);
 
   debtRows.innerHTML = result.rows.map(function(row) {
     return "<tr>" +
