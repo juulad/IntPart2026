@@ -14,6 +14,7 @@
       </div>
       <nav aria-label="Document navigation">
         <a href="#calculator">Calculator</a>
+        <a href="#debt-scenario">Debt Scenario</a>
         <a href="#comparison">Comparison</a>
         <a href="#documents">Documents</a>
       </nav>
@@ -184,6 +185,201 @@
             </table>
           </div>
         </section>
+      </section>
+
+      <section id="debt-scenario" class="debt-band" aria-labelledby="debt-title">
+        <div class="section-title">
+          <p class="eyebrow">Alternative scenario</p>
+          <h2 id="debt-title">8% holding company equity with real debt financing</h2>
+          <p>
+            Model Jason and Adam controlling the U.S. C corp while the Dubai holding company owns a minority
+            equity stake and separately lends capital under documented debt terms.
+          </p>
+        </div>
+
+        <div class="debt-layout">
+          <aside class="control-panel debt-panel" aria-label="Debt scenario inputs">
+            <div class="panel-head">
+              <h2>Debt Inputs</h2>
+              <button id="debtResetBtn" type="button">Reset</button>
+            </div>
+
+            <fieldset>
+              <legend>Voting / equity ownership</legend>
+              <div class="three-col">
+                <label>
+                  <span>Jason equity %</span>
+                  <input id="debtJasonEquity" type="number" min="0" step="0.1" value="87">
+                </label>
+                <label>
+                  <span>Adam equity %</span>
+                  <input id="debtAdamEquity" type="number" min="0" step="0.1" value="5">
+                </label>
+                <label>
+                  <span>Holding company equity %</span>
+                  <input id="debtHoldcoEquity" type="number" min="0" step="0.1" value="8">
+                </label>
+              </div>
+            </fieldset>
+
+            <fieldset>
+              <legend>Holding company funding</legend>
+              <div class="two-col">
+                <label>
+                  <span>Total cash infusion</span>
+                  <input id="holdcoInfusion" type="number" min="0" step="10000" value="1500000">
+                </label>
+                <label>
+                  <span>Infusion treated as debt %</span>
+                  <input id="debtFundingPct" type="number" min="0" max="100" step="1" value="90">
+                </label>
+                <label>
+                  <span>Annual interest rate %</span>
+                  <input id="interestRate" type="number" min="0" step="0.1" value="8">
+                </label>
+                <label>
+                  <span>Months outstanding</span>
+                  <input id="monthsOutstanding" type="number" min="1" step="1" value="18">
+                </label>
+                <label>
+                  <span>Loan term months</span>
+                  <input id="loanTermMonths" type="number" min="1" step="1" value="24">
+                </label>
+                <label>
+                  <span>Repayment type</span>
+                  <select id="repaymentType">
+                    <option value="bullet">Bullet principal at maturity</option>
+                    <option value="amortizing">Level principal amortization</option>
+                  </select>
+                </label>
+              </div>
+            </fieldset>
+
+            <fieldset>
+              <legend>Tax treatment</legend>
+              <div class="two-col">
+                <label>
+                  <span>Operating profit before interest %</span>
+                  <input id="debtOperatingProfitPct" type="number" min="0" step="0.1" value="30">
+                </label>
+                <label>
+                  <span>U.S. interest withholding %</span>
+                  <input id="interestWithholdingRate" type="number" min="0" step="0.1" value="30">
+                </label>
+                <label>
+                  <span>Foreign dividend withholding %</span>
+                  <input id="debtDividendWithholdingRate" type="number" min="0" step="0.1" value="30">
+                </label>
+                <label>
+                  <span>Dubai / UAE corp %</span>
+                  <input id="debtUaeTaxRate" type="number" min="0" step="0.1" value="9">
+                </label>
+                <label>
+                  <span>163(j) interest cap % of ATI</span>
+                  <input id="interestLimitPct" type="number" min="0" step="1" value="30">
+                </label>
+                <label>
+                  <span>U.S. corporate tax base</span>
+                  <select id="debtStateDeductible">
+                    <option value="yes">State tax deductible federally</option>
+                    <option value="no">State tax not deductible federally</option>
+                  </select>
+                </label>
+              </div>
+              <label class="check-row">
+                <input id="applyInterestLimit" type="checkbox" checked>
+                <span>Apply Section 163(j)-style interest limit</span>
+              </label>
+              <label class="check-row">
+                <input id="portfolioInterestExemption" type="checkbox" checked>
+                <span>Model portfolio interest exemption when debt terms qualify</span>
+              </label>
+            </fieldset>
+
+            <fieldset>
+              <legend>Debt-form requirements</legend>
+              <label class="check-row">
+                <input id="fixedPrincipal" type="checkbox" checked>
+                <span>Fixed principal amount in a signed note</span>
+              </label>
+              <label class="check-row">
+                <input id="fixedMaturity" type="checkbox" checked>
+                <span>Fixed maturity date and repayment schedule</span>
+              </label>
+              <label class="check-row">
+                <input id="creditorRights" type="checkbox" checked>
+                <span>Creditor remedies if the U.S. C corp defaults</span>
+              </label>
+              <label class="check-row">
+                <input id="nonContingentInterest" type="checkbox" checked>
+                <span>Interest is fixed and not contingent on profits</span>
+              </label>
+              <label class="check-row">
+                <input id="actualPaymentIntent" type="checkbox" checked>
+                <span>Payments are intended to be made or accrued on schedule</span>
+              </label>
+            </fieldset>
+          </aside>
+
+          <section class="workspace" aria-label="Debt scenario results">
+            <div class="status-row">
+              <div>
+                <span>Ownership total</span>
+                <strong id="debtOwnershipTotal">100.0%</strong>
+              </div>
+              <p id="debtWarning" class="warning" role="status"></p>
+            </div>
+
+            <div class="result-grid debt-results">
+              <article>
+                <span>Debt principal</span>
+                <strong id="debtPrincipal">$0</strong>
+              </article>
+              <article>
+                <span>Interest expense</span>
+                <strong id="interestExpense">$0</strong>
+              </article>
+              <article>
+                <span>Estimated U.S. tax shield</span>
+                <strong id="taxShield">$0</strong>
+              </article>
+              <article>
+                <span>Total modeled net to parties</span>
+                <strong id="debtModeledNet">$0</strong>
+              </article>
+            </div>
+
+            <div class="table-wrap">
+              <table>
+                <caption>Debt scenario cash and tax mapping</caption>
+                <thead>
+                  <tr>
+                    <th>Party</th>
+                    <th>Role</th>
+                    <th>Equity / voting</th>
+                    <th>Interest</th>
+                    <th>Dividend</th>
+                    <th>U.S. withholding</th>
+                    <th>Dubai tax</th>
+                    <th>Modeled net</th>
+                  </tr>
+                </thead>
+                <tbody id="debtRows"></tbody>
+              </table>
+            </div>
+
+            <div class="compare-grid debt-detail-grid">
+              <article>
+                <h3>U.S. corporation</h3>
+                <dl id="debtCorpSummary"></dl>
+              </article>
+              <article>
+                <h3>Debt-quality checks</h3>
+                <ul id="debtQualityList" class="risk-list"></ul>
+              </article>
+            </div>
+          </section>
+        </div>
       </section>
 
       <section id="comparison" class="comparison-band" aria-labelledby="comparison-title">

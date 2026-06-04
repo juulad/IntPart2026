@@ -92,7 +92,8 @@ main {
 
 .summary-band,
 .comparison-band,
-.documents-band {
+.documents-band,
+.debt-band {
   padding: 34px clamp(18px, 4vw, 48px);
 }
 
@@ -116,6 +117,12 @@ main {
   max-width: 760px;
   color: var(--muted);
   font-size: 17px;
+  line-height: 1.55;
+}
+
+.section-title p:not(.eyebrow) {
+  max-width: 850px;
+  color: var(--muted);
   line-height: 1.55;
 }
 
@@ -229,6 +236,12 @@ select:focus {
 .two-col {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.three-col {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 10px;
 }
 
@@ -361,6 +374,58 @@ td.num {
   background: #f6f8fa;
 }
 
+.debt-band {
+  border-top: 1px solid var(--line);
+  background: #ffffff;
+}
+
+.debt-layout {
+  display: grid;
+  grid-template-columns: 430px minmax(0, 1fr);
+  gap: 22px;
+  align-items: start;
+}
+
+.debt-panel {
+  top: 94px;
+}
+
+.debt-results {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.debt-detail-grid {
+  margin-top: 16px;
+}
+
+.risk-list {
+  display: grid;
+  gap: 10px;
+  margin: 16px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.risk-list li {
+  border-left: 4px solid var(--line);
+  padding: 10px 12px;
+  background: #f8fafb;
+  color: var(--muted);
+  font-weight: 650;
+  line-height: 1.4;
+}
+
+.risk-list li.ok {
+  border-left-color: var(--accent);
+  color: var(--ink);
+}
+
+.risk-list li.risk {
+  border-left-color: var(--danger);
+  color: var(--danger);
+  background: #fff7f5;
+}
+
 .section-title {
   margin-bottom: 18px;
 }
@@ -438,7 +503,8 @@ footer {
 
 @media (max-width: 1180px) {
   .layout,
-  .summary-band {
+  .summary-band,
+  .debt-layout {
     grid-template-columns: 1fr;
   }
 
@@ -468,7 +534,8 @@ footer {
   .compare-grid,
   .owners,
   .document-grid,
-  .two-col {
+  .two-col,
+  .three-col {
     grid-template-columns: 1fr;
   }
 

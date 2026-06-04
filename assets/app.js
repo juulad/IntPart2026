@@ -40,8 +40,36 @@ const ids = [
   "sellingCost"
 ];
 
+const debtDefaults = {
+  debtJasonEquity: 87,
+  debtAdamEquity: 5,
+  debtHoldcoEquity: 8,
+  holdcoInfusion: 1500000,
+  debtFundingPct: 90,
+  interestRate: 8,
+  monthsOutstanding: 18,
+  loanTermMonths: 24,
+  repaymentType: "bullet",
+  debtOperatingProfitPct: 30,
+  interestWithholdingRate: 30,
+  debtDividendWithholdingRate: 30,
+  debtUaeTaxRate: 9,
+  interestLimitPct: 30,
+  debtStateDeductible: "yes",
+  applyInterestLimit: true,
+  portfolioInterestExemption: true,
+  fixedPrincipal: true,
+  fixedMaturity: true,
+  creditorRights: true,
+  nonContingentInterest: true,
+  actualPaymentIntent: true
+};
+
+const debtIds = Object.keys(debtDefaults);
+
 const ownerContainer = document.getElementById("owners");
 const ownerRows = document.getElementById("ownerRows");
+const debtRows = document.getElementById("debtRows");
 let owners = JSON.parse(JSON.stringify(defaults.owners));
 
 const money = new Intl.NumberFormat("en-US", {
@@ -234,6 +262,202 @@ function renderSummaryList(elementId, result) {
     "<dt>Dubai tax</dt><dd>" + money.format(result.uae) + "</dd>";
 }
 
+function readDebtInputs() {
+  return {
+    jasonEquity: readNumber("debtJasonEquity"),
+    adamEquity: readNumber("debtAdamEquity"),
+    holdcoEquity: readNumber("debtHoldcoEquity"),
+    holdcoInfusion: readNumber("holdcoInfusion"),
+    debtFundingPct: pct(readNumber("debtFundingPct")),
+    interestRate: pct(readNumber("interestRate")),
+    monthsOutstanding: readNumber("monthsOutstanding"),
+    loanTermMonths: readNumber("loanTermMonths"),
+    repaymentType: byId("repaymentType").value,
+    operatingProfitPct: pct(readNumber("debtOperatingProfitPct")),
+    interestWithholdingRate: pct(readNumber("interestWithholdingRate")),
+    dividendWithholdingRate: pct(readNumber("debtDividendWithholdingRate")),
+    uaeTaxRate: pct(readNumber("debtUaeTaxRate")),
+    interestLimitPct: pct(readNumber("interestLimitPct")),
+    stateDeductible: byId("debtStateDeductible").value === "yes",
+    applyInterestLimit: byId("applyInterestLimit").checked,
+    portfolioInterestExemption: byId("portfolioInterestExemption").checked,
+    fixedPrincipal: byId("fixedPrincipal").checked,
+    fixedMaturity: byId("fixedMaturity").checked,
+    creditorRights: byId("creditorRights").checked,
+    nonContingentInterest: byId("nonContingentInterest").checked,
+    actualPaymentIntent: byId("actualPaymentIntent").checked
+  };
+}
+
+function calculateDebtScenario() {
+  const input = readDebtInputs();
+  const baseInput = getInputs();
+  const corpRate = effectiveCorpTax({
+    stateTax: baseInput.stateTax,
+    federalTax: baseInput.federalTax,
+    stateDeductible: input.stateDeductible
+  });
+  const capital = readNumber("capital");
+  const ownershipTotal = input.jasonEquity + input.adamEquity + input.holdcoEquity;
+  const ownershipFactor = ownershipTotal > 0 ? ownershipTotal : 100;
+  const jasonRatio = input.jasonEquity / ownershipFactor;
+  const adamRatio = input.adamEquity / ownershipFactor;
+  const holdcoRatio = input.holdcoEquity / ownershipFactor;
+  const debtPrincipal = input.holdcoInfusion * input.debtFundingPct;
+  const equityContribution = input.holdcoInfusion - debtPrincipal;
+  const months = Math.max(0, Math.min(input.monthsOutstanding, input.loanTermMonths));
+  const averagePrincipal = input.repaymentType === "amortizing"
+    ? debtPrincipal * Math.max(0, 1 - months / Math.max(input.loanTermMonths, 1) / 2)
+    : debtPrincipal;
+  const interestExpense = averagePrincipal * input.interestRate * months / 12;
+  const operatingProfit = capital * input.operatingProfitPct;
+  const interestCap = input.applyInterestLimit ? operatingProfit * input.interestLimitPct : interestExpense;
+  const deductibleInterest = Math.min(interestExpense, interestCap);
+  const nondeductibleInterest = Math.max(0, interestExpense - deductibleInterest);
+  const taxableIncome = Math.max(0, operatingProfit - deductibleInterest);
+  const stateTax = taxableIncome * baseInput.stateTax;
+  const federalBase = input.stateDeductible ? taxableIncome - stateTax : taxableIncome;
+  const federalTax = Math.max(0, federalBase) * baseInput.federalTax;
+  const corpTax = stateTax + federalTax;
+  const distributableProfit = Math.max(0, operatingProfit - interestExpense - corpTax);
+  const taxWithoutDebt = operatingProfit * corpRate;
+  const taxShield = Math.max(0, taxWithoutDebt - corpTax);
+  const debtFormQualified = input.fixedPrincipal &&
+    input.fixedMaturity &&
+    input.creditorRights &&
+    input.nonContingentInterest &&
+    input.actualPaymentIntent;
+  const portfolioInterestApplies = input.portfolioInterestExemption &&
+    debtFormQualified &&
+    input.holdcoEquity < 10;
+  const interestWithholdingRate = portfolioInterestApplies ? 0 : input.interestWithholdingRate;
+  const interestWithholding = interestExpense * interestWithholdingRate;
+  const holdcoDividend = distributableProfit * holdcoRatio;
+  const holdcoDividendWithholding = holdcoDividend * input.dividendWithholdingRate;
+  const holdcoUaeBase = Math.max(0, interestExpense - interestWithholding + holdcoDividend - holdcoDividendWithholding);
+  const holdcoUaeTax = holdcoUaeBase * input.uaeTaxRate;
+  const rows = [
+    {
+      party: "Jason",
+      role: "U.S. citizen shareholder",
+      equity: jasonRatio,
+      interest: 0,
+      dividend: distributableProfit * jasonRatio,
+      withholding: 0,
+      uae: 0,
+      net: distributableProfit * jasonRatio
+    },
+    {
+      party: "Adam",
+      role: "U.S. citizen shareholder",
+      equity: adamRatio,
+      interest: 0,
+      dividend: distributableProfit * adamRatio,
+      withholding: 0,
+      uae: 0,
+      net: distributableProfit * adamRatio
+    },
+    {
+      party: "Dubai holding company",
+      role: "8% shareholder and lender",
+      equity: holdcoRatio,
+      interest: interestExpense,
+      dividend: holdcoDividend,
+      withholding: interestWithholding + holdcoDividendWithholding,
+      uae: holdcoUaeTax,
+      net: interestExpense + holdcoDividend - interestWithholding - holdcoDividendWithholding - holdcoUaeTax
+    }
+  ];
+
+  return {
+    input: input,
+    ownershipTotal: ownershipTotal,
+    debtPrincipal: debtPrincipal,
+    equityContribution: equityContribution,
+    operatingProfit: operatingProfit,
+    interestExpense: interestExpense,
+    deductibleInterest: deductibleInterest,
+    nondeductibleInterest: nondeductibleInterest,
+    taxableIncome: taxableIncome,
+    corpTax: corpTax,
+    stateTax: stateTax,
+    federalTax: federalTax,
+    distributableProfit: distributableProfit,
+    taxShield: taxShield,
+    portfolioInterestApplies: portfolioInterestApplies,
+    debtFormQualified: debtFormQualified,
+    interestCap: interestCap,
+    rows: rows,
+    modeledNet: rows.reduce(function(sum, row) {
+      return sum + row.net;
+    }, 0)
+  };
+}
+
+function renderDebtSummary(result) {
+  byId("debtOwnershipTotal").textContent = result.ownershipTotal.toFixed(1) + "%";
+  byId("debtWarning").textContent = Math.abs(result.ownershipTotal - 100) > 0.05
+    ? "Ownership percentages are normalized for calculation because they do not total 100%."
+    : "";
+  byId("debtPrincipal").textContent = money.format(result.debtPrincipal);
+  byId("interestExpense").textContent = money.format(result.interestExpense);
+  byId("taxShield").textContent = money.format(result.taxShield);
+  byId("debtModeledNet").textContent = money.format(result.modeledNet);
+
+  debtRows.innerHTML = result.rows.map(function(row) {
+    return "<tr>" +
+      "<td>" + row.party + "</td>" +
+      "<td>" + row.role + "</td>" +
+      "<td class=\"num\">" + percent.format(row.equity) + "</td>" +
+      "<td class=\"num\">" + money.format(row.interest) + "</td>" +
+      "<td class=\"num\">" + money.format(row.dividend) + "</td>" +
+      "<td class=\"num\">" + money.format(row.withholding) + "</td>" +
+      "<td class=\"num\">" + money.format(row.uae) + "</td>" +
+      "<td class=\"num\">" + money.format(row.net) + "</td>" +
+      "</tr>";
+  }).join("");
+
+  byId("debtCorpSummary").innerHTML =
+    "<dt>Operating profit before interest</dt><dd>" + money.format(result.operatingProfit) + "</dd>" +
+    "<dt>Deductible interest</dt><dd>" + money.format(result.deductibleInterest) + "</dd>" +
+    "<dt>Nondeductible / carried interest</dt><dd>" + money.format(result.nondeductibleInterest) + "</dd>" +
+    "<dt>Taxable income after interest</dt><dd>" + money.format(result.taxableIncome) + "</dd>" +
+    "<dt>U.S. corporate tax</dt><dd>" + money.format(result.corpTax) + "</dd>" +
+    "<dt>After-tax dividend pool</dt><dd>" + money.format(result.distributableProfit) + "</dd>" +
+    "<dt>Holding company equity contribution</dt><dd>" + money.format(result.equityContribution) + "</dd>";
+
+  const quality = [
+    {
+      ok: result.debtFormQualified,
+      text: result.debtFormQualified
+        ? "Core debt-form terms are selected: principal, maturity, remedies, fixed interest, and scheduled payments."
+        : "Missing one or more debt-form terms. Recharacterization risk increases materially."
+    },
+    {
+      ok: result.portfolioInterestApplies,
+      text: result.portfolioInterestApplies
+        ? "Interest withholding is modeled at 0% under the portfolio interest assumption."
+        : "Interest withholding uses the stated withholding rate because the exemption is off or debt terms do not qualify."
+    },
+    {
+      ok: result.input.holdcoEquity < 10,
+      text: result.input.holdcoEquity < 10
+        ? "Holding company equity is below 10%, supporting the portfolio-interest ownership requirement."
+        : "Holding company equity is 10% or higher, which is a major portfolio-interest problem."
+    },
+    {
+      ok: result.nondeductibleInterest <= 0,
+      text: result.nondeductibleInterest <= 0
+        ? "The selected interest amount fits within the modeled interest limitation."
+        : "Some interest is modeled as nondeductible or carried because of the selected limitation."
+    }
+  ];
+
+  byId("debtQualityList").innerHTML = quality.map(function(item) {
+    return "<li class=\"" + (item.ok ? "ok" : "risk") + "\">" + item.text + "</li>";
+  }).join("");
+}
+
 function calculateAndRender() {
   const active = calculate();
   const legal = calculate("legal");
@@ -266,6 +490,7 @@ function calculateAndRender() {
 
   renderSummaryList("legalSummary", legal);
   renderSummaryList("equalizedSummary", equalized);
+  renderDebtSummary(calculateDebtScenario());
 }
 
 function reset() {
@@ -282,12 +507,30 @@ function reset() {
   calculateAndRender();
 }
 
+function resetDebtScenario() {
+  debtIds.forEach(function(id) {
+    const element = byId(id);
+    if (element.type === "checkbox") {
+      element.checked = debtDefaults[id];
+    } else {
+      element.value = debtDefaults[id];
+    }
+  });
+  calculateAndRender();
+}
+
 ids.forEach(function(id) {
   byId(id).addEventListener("input", calculateAndRender);
   byId(id).addEventListener("change", calculateAndRender);
 });
 
 byId("resetBtn").addEventListener("click", reset);
+byId("debtResetBtn").addEventListener("click", resetDebtScenario);
+
+debtIds.forEach(function(id) {
+  byId(id).addEventListener("input", calculateAndRender);
+  byId(id).addEventListener("change", calculateAndRender);
+});
 
 renderOwnerInputs();
 calculateAndRender();

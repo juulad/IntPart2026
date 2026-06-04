@@ -26,5 +26,8 @@ The app links to the research documents in `research/real-estate-jv-tax-2026-06-
 - Whether state corporate tax is deductible before federal tax.
 - Whether Dubai/UAE corporate tax is applied before or after U.S. withholding.
 - Acquisition, renovation, closing, holding, admin, and selling costs.
+- Separate 8% Dubai holding company scenario where Jason owns 87%, Adam owns 5%, and the holding company funds the U.S. C corp through a mix of equity and documented debt.
+- Debt scenario variables including holding company cash infusion, debt percentage, fixed interest rate, loan term, months outstanding, amortization style, interest withholding, dividend withholding, UAE corporate tax, and Section 163(j)-style interest limitation.
+- Debt-form checks for fixed principal, signed note, fixed maturity, creditor remedies, non-contingent interest, and scheduled payment intent.
 
 This is a feasibility model only. It does not replace U.S., UAE, Belgian, U.K., or state tax counsel.
