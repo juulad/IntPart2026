@@ -59,7 +59,7 @@ const debtDefaults = {
   devCarryingCosts: 30000,
   devSaleMode: "targetProfit",
   devSaleProceeds: 2600000,
-  debtOperatingProfitPct: 30,
+  debtOperatingProfitPct: 27,
   interestWithholdingRate: 30,
   debtDividendWithholdingRate: 0,
   debtUaeTaxRate: 9,
