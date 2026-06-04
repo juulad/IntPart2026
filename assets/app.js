@@ -54,6 +54,8 @@ const debtDefaults = {
   interestWithholdingRate: 30,
   debtDividendWithholdingRate: 30,
   debtUaeTaxRate: 9,
+  preferredReturnRate: 8,
+  preferredParticipationPct: 75,
   interestLimitPct: 30,
   debtStateDeductible: "yes",
   applyInterestLimit: true,
@@ -277,6 +279,8 @@ function readDebtInputs() {
     interestWithholdingRate: pct(readNumber("interestWithholdingRate")),
     dividendWithholdingRate: pct(readNumber("debtDividendWithholdingRate")),
     uaeTaxRate: pct(readNumber("debtUaeTaxRate")),
+    preferredReturnRate: pct(readNumber("preferredReturnRate")),
+    preferredParticipationPct: pct(readNumber("preferredParticipationPct")),
     interestLimitPct: pct(readNumber("interestLimitPct")),
     stateDeductible: byId("debtStateDeductible").value === "yes",
     applyInterestLimit: byId("applyInterestLimit").checked,
@@ -332,34 +336,45 @@ function calculateDebtScenario() {
     input.holdcoEquity < 10;
   const interestWithholdingRate = portfolioInterestApplies ? 0 : input.interestWithholdingRate;
   const interestWithholding = interestExpense * interestWithholdingRate;
-  const holdcoDividend = distributableProfit * holdcoRatio;
+  const preferredBase = equityContribution;
+  const preferredReturn = preferredBase * input.preferredReturnRate * months / 12;
+  const preferredPaid = Math.min(distributableProfit, preferredReturn);
+  const residualDividendPool = Math.max(0, distributableProfit - preferredPaid);
+  const holdcoParticipatingDividend = residualDividendPool * input.preferredParticipationPct;
+  const commonDividendPool = Math.max(0, residualDividendPool - holdcoParticipatingDividend);
+  const commonOwnership = jasonRatio + adamRatio;
+  const jasonCommonShare = commonOwnership > 0 ? jasonRatio / commonOwnership : 0;
+  const adamCommonShare = commonOwnership > 0 ? adamRatio / commonOwnership : 0;
+  const holdcoDividend = preferredPaid + holdcoParticipatingDividend;
   const holdcoDividendWithholding = holdcoDividend * input.dividendWithholdingRate;
   const holdcoUaeBase = Math.max(0, interestExpense - interestWithholding + holdcoDividend - holdcoDividendWithholding);
   const holdcoUaeTax = holdcoUaeBase * input.uaeTaxRate;
+  const jasonDividend = commonDividendPool * jasonCommonShare;
+  const adamDividend = commonDividendPool * adamCommonShare;
   const rows = [
     {
       party: "Jason",
       role: "U.S. citizen shareholder",
       equity: jasonRatio,
       interest: 0,
-      dividend: distributableProfit * jasonRatio,
+      dividend: jasonDividend,
       withholding: 0,
       uae: 0,
-      net: distributableProfit * jasonRatio
+      net: jasonDividend
     },
     {
       party: "Adam",
       role: "U.S. citizen shareholder",
       equity: adamRatio,
       interest: 0,
-      dividend: distributableProfit * adamRatio,
+      dividend: adamDividend,
       withholding: 0,
       uae: 0,
-      net: distributableProfit * adamRatio
+      net: adamDividend
     },
     {
       party: "Dubai holding company",
-      role: "8% shareholder and lender",
+      role: "8% voting holder, lender, participating preferred",
       equity: holdcoRatio,
       interest: interestExpense,
       dividend: holdcoDividend,
@@ -383,6 +398,11 @@ function calculateDebtScenario() {
     stateTax: stateTax,
     federalTax: federalTax,
     distributableProfit: distributableProfit,
+    preferredBase: preferredBase,
+    preferredReturn: preferredReturn,
+    preferredPaid: preferredPaid,
+    holdcoParticipatingDividend: holdcoParticipatingDividend,
+    commonDividendPool: commonDividendPool,
     taxShield: taxShield,
     portfolioInterestApplies: portfolioInterestApplies,
     debtFormQualified: debtFormQualified,
@@ -424,6 +444,9 @@ function renderDebtSummary(result) {
     "<dt>Taxable income after interest</dt><dd>" + money.format(result.taxableIncome) + "</dd>" +
     "<dt>U.S. corporate tax</dt><dd>" + money.format(result.corpTax) + "</dd>" +
     "<dt>After-tax dividend pool</dt><dd>" + money.format(result.distributableProfit) + "</dd>" +
+    "<dt>Preferred return paid</dt><dd>" + money.format(result.preferredPaid) + "</dd>" +
+    "<dt>Holdco participating dividend</dt><dd>" + money.format(result.holdcoParticipatingDividend) + "</dd>" +
+    "<dt>Common dividend pool</dt><dd>" + money.format(result.commonDividendPool) + "</dd>" +
     "<dt>Holding company equity contribution</dt><dd>" + money.format(result.equityContribution) + "</dd>";
 
   const quality = [
@@ -444,6 +467,12 @@ function renderDebtSummary(result) {
       text: result.input.holdcoEquity < 10
         ? "Holding company equity is below 10%, supporting the portfolio-interest ownership requirement."
         : "Holding company equity is 10% or higher, which is a major portfolio-interest problem."
+    },
+    {
+      ok: result.input.preferredParticipationPct <= 0.75,
+      text: result.input.preferredParticipationPct <= 0.75
+        ? "Participating preferred economics are modeled separately from voting control; counsel should draft the preferred class carefully."
+        : "Participating preferred share is above the foreign investors' 75% target economics and may be harder to support commercially."
     },
     {
       ok: result.nondeductibleInterest <= 0,
