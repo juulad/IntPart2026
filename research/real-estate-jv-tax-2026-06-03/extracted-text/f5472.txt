@@ -1,0 +1,1174 @@
+Form
+
+5472
+
+(Rev. December 2023)
+
+Information Return of a 25% Foreign-Owned U.S. Corporation or a
+Foreign Corporation Engaged in a U.S. Trade or Business
+(Under Sections 6038A and 6038C of the Internal Revenue Code)
+
+OMB No. 1545-0123
+
+Go to www.irs.gov/Form5472 for instructions and the latest information.
+Department of the Treasury
+Internal Revenue Service
+
+Part I
+
+For tax year of the reporting corporation beginning
+
+,
+
+, and ending
+
+,
+
+Note: Enter all information in English and money items in U.S. dollars.
+
+Reporting Corporation (see instructions). All reporting corporations must complete Part I.
+
+1a Name of reporting corporation
+
+1b Employer identification number
+1c Total assets
+
+Number, street, and room or suite no. (If a P.O. box, see instructions.)
+City or town, state, and ZIP code (If a foreign address, see instructions.)
+1d Principal business activity
+1f Total value of gross payments made or received
+reported on this Form 5472. See instructions.
+$
+1i Check here if this is a
+consolidated filing of
+Form 5472
+. .
+1m Date of incorporation
+
+1g Total number of Forms 5472
+filed for the tax year
+
+1j Check here if this is the initial year for
+which the U.S. reporting corporation
+is filing a Form 5472 . . . .
+
+$
+1e Principal business activity code
+1h Total value of gross payments made or received
+reported on all Forms 5472. See instructions.
+
+$
+1k Total number of Parts VIII
+attached to Form 5472
+
+1n Country(ies) under whose laws the reporting
+corporation files an income tax return as a resident
+
+1l Country of incorporation
+
+1o Principal country(ies) where business is conducted
+
+2
+
+Check here if, at any time during the tax year, any foreign person owned, directly or indirectly, at least 50% of (a) the total voting power of all
+classes of the stock of the reporting corporation entitled to vote, or (b) the total value of all classes of stock of the reporting corporation
+.
+
+3
+
+Check here if the reporting corporation is a foreign-owned domestic disregarded entity (foreign-owned U.S. DE) treated as a corporation for
+purposes of section 6038A. See instructions
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Part II
+
+25% Foreign Shareholder (see instructions)
+Check here if any direct (or ultimate indirect) 25% foreign shareholder listed in Part II is a surrogate foreign
+corporation under section 7874(a)(2)(B).
+
+4a Name and address of direct 25% foreign shareholder
+4b(1) U.S. identifying number, if any
+
+4b(2) Reference ID number (see instructions)
+
+4c Principal country(ies) where
+business is conducted
+
+4d Country of citizenship,
+organization, or incorporation
+
+4b(3) Foreign taxpayer identification number (FTIN), if any
+(see instructions)
+
+4e Country(ies) under whose laws the direct 25% foreign
+shareholder files an income tax return as a resident
+
+5a Name and address of direct 25% foreign shareholder
+5b(1) U.S. identifying number, if any
+
+5b(2) Reference ID number (see instructions)
+
+5c Principal country(ies) where
+business is conducted
+
+5d Country of citizenship,
+organization, or incorporation
+
+5b(3) FTIN, if any (see instructions)
+
+5e Country(ies) under whose laws the direct 25% foreign
+shareholder files an income tax return as a resident
+
+6a Name and address of ultimate indirect 25% foreign shareholder
+6b(1) U.S. identifying number, if any
+
+6b(2) Reference ID number (see instructions)
+
+6c Principal country(ies) where
+business is conducted
+
+6d Country of citizenship,
+organization, or incorporation
+
+6b(3) FTIN, if any (see instructions)
+
+6e Country(ies) under whose laws the ultimate indirect 25% foreign
+shareholder files an income tax return as a resident
+
+7a Name and address of ultimate indirect 25% foreign shareholder
+7b(1) U.S. identifying number, if any
+
+7b(2) Reference ID number (see instructions)
+
+7c Principal country(ies) where
+business is conducted
+
+7d Country of citizenship,
+organization, or incorporation
+
+For Paperwork Reduction Act Notice, see instructions.
+
+7b(3) FTIN, if any (see instructions)
+
+7e Country(ies) under whose laws the ultimate indirect 25% foreign
+shareholder files an income tax return as a resident
+Cat. No. 49987Y
+
+Form 5472 (Rev. 12-2023)
+
+Page 2
+Related Party (see instructions). All reporting corporations must complete this question and the rest of Part III.
+Check applicable box: Is the related party a
+foreign person or
+U.S. person?
+
+Form 5472 (Rev. 12-2023)
+
+Part III
+
+8a Name and address of related party
+8b(1) U.S. identifying number, if any
+
+8b(2) Reference ID number (see instructions)
+
+8b(3) FTIN, if any (see instructions)
+
+8c Principal business activity
+
+8d Principal business activity code
+
+8e Relationship—Check boxes that apply:
+Related to reporting corporation
+Related to 25% foreign shareholder
+25% foreign shareholder
+8f Principal country(ies) where business is conducted
+8g Country(ies) under whose laws the related party files an income tax return as a
+resident
+
+Part IV
+
+Monetary Transactions Between Reporting Corporations and Foreign Related Party (see instructions)
+Caution: Part IV must be completed if the “foreign person” box is checked in the heading for Part III.
+If estimates are used, check here.
+
+9
+10
+
+Sales of stock in trade (inventory) . . . . . .
+Sales of tangible property other than stock in trade .
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+9
+10
+
+11
+12
+13a
+
+Platform contribution transaction payments received .
+Cost sharing transaction payments received . . . .
+Rents received (for other than intangible property rights)
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+11
+12
+13a
+
+14
+15
+
+Royalties received (for other than intangible property rights) . . . . . . . . . . . . . . .
+Sales, leases, licenses, etc., of intangible property rights (for example, patents, trademarks, secret formulas) .
+Consideration received for technical, managerial, engineering, construction, scientific, or like services . . .
+
+.
+.
+.
+
+13b
+14
+15
+
+16
+17
+18
+
+Commissions received . . . . . . . . . .
+Amounts borrowed (see instructions) a Beginning balance
+Interest received . . . . . . . . . . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . . . . . . . . .
+b Ending balance or monthly average
+. . . . . . . . . . . .
+
+16
+17b
+18
+
+19
+20
+21
+22
+
+Premiums received for insurance or reinsurance .
+Loan guarantee fees received . . . . . .
+Other amounts received (see instructions) . . .
+Total. Combine amounts on lines 9 through 21 .
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+19
+20
+21
+
+23
+24
+
+Purchases of stock in trade (inventory) . . . . . .
+Purchases of tangible property other than stock in trade
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+22
+23
+24
+
+25
+26
+27a
+
+Platform contribution transaction payments paid . .
+Cost sharing transaction payments paid . . . .
+Rents paid (for other than intangible property rights) .
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+25
+26
+27a
+
+28
+29
+
+Royalties paid (for other than intangible property rights) . . . . . . . . . . . . . . . . . .
+Purchases, leases, licenses, etc., of intangible property rights (for example, patents, trademarks, secret formulas)
+Consideration paid for technical, managerial, engineering, construction, scientific, or like services . . . . .
+
+27b
+28
+29
+
+30
+31
+32
+
+Commissions paid
+. . . . . . . . . . .
+Amounts loaned (see instructions) a Beginning balance
+Interest paid . . . . . . . . . . . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . . . . . . . . .
+b Ending balance or monthly average
+. . . . . . . . . . . .
+
+30
+31b
+32
+
+33
+34
+35
+36
+
+Premiums paid for insurance or reinsurance . .
+Loan guarantee fees paid
+. . . . . . .
+Other amounts paid (see instructions) . . . .
+Total. Combine amounts on lines 23 through 35 .
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+33
+34
+35
+
+b
+
+b
+
+Part V
+
+Part VI
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+36
+
+Reportable Transactions of a Reporting Corporation That Is a Foreign-Owned U.S. DE (see instructions)
+Describe on an attached separate sheet any other transaction as defined by Regulations section 1.482-1(i)(7),
+such as amounts paid or received in connection with the formation, dissolution, acquisition, and disposition
+of the entity, including contributions to and distributions from the entity, and check here.
+Nonmonetary and Less-Than-Full Consideration Transactions Between the Reporting Corporation
+and the Foreign Related Party (see instructions)
+Describe these transactions on an attached separate sheet and check here.
+Form 5472 (Rev. 12-2023)
+
+Page 3
+
+Form 5472 (Rev. 12-2023)
+
+Part VII
+37
+38a
+b
+c
+39
+
+Additional Information. All reporting corporations must complete Part VII.
+
+Does the reporting corporation import goods from a foreign related party? . . . . . . . . . . . . .
+If “Yes,” is the basis or inventory cost of the goods valued at greater than the customs value of the imported goods?
+If “Yes,” attach a statement explaining the reason or reasons for such difference.
+
+.
+.
+
+Yes
+Yes
+
+No
+No
+
+If the answers to questions 37 and 38a are “Yes,” were the documents used to support this treatment of the imported
+goods in existence and available in the United States at the time of filing Form 5472? . . . . . . . . . . .
+
+Yes
+
+No
+
+During the tax year, was the foreign parent corporation a participant in any cost sharing arrangement (CSA)? .
+
+.
+
+Yes
+
+No
+
+During the tax year, did the reporting corporation pay or accrue any interest or royalty for which the deduction is not
+allowed under section 267A? See instructions . . . . . . . . . . . . . . . . . . . . . . .
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+.
+
+.
+
+If “Yes,” complete Part VIII as instructed below.
+40a
+b
+
+If “Yes,” enter the total amount of the disallowed deductions .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+$
+
+41a
+
+Is the reporting corporation claiming a foreign-derived intangible income (FDII) deduction (under section 250) with respect
+to any transactions with the foreign related party? If “Yes,” complete lines 41b, 41c, and 41d. See instructions
+. . .
+
+b
+
+Enter the amount of gross receipts derived from all sales of general property to the foreign related party that the reporting
+corporation included in its computation of foreign-derived deduction eligible income (FDDEI). See instructions . . . $
+
+c
+
+Enter the amount of gross receipts derived from all sales of intangible property to the foreign related party that the
+reporting corporation included in its computation of FDDEI. See instructions . . . . . . . . . . . . . $
+
+d
+
+Enter the amount of gross receipts derived from all services provided to the foreign related party that the reporting
+corporation included in its computation of FDDEI. See instructions . . . . . . . . . . . . . . . $
+Did the reporting corporation have any loan to or from the related party to which the safe-haven rate rules of Regulations
+section 1.482-2(a)(2)(iii)(B) are applicable, and for which the reporting corporation used a rate of interest within the relevant
+safe-haven range (100% to 130% of the applicable Federal rate (AFR) for the relevant term)? . . . . . . . . .
+Did the reporting corporation have any loan to or from the related party to which the safe-haven rate rules of Regulations
+section 1.482-2(a)(2)(iii)(B) are applicable, and for which the reporting corporation used a rate of interest outside the
+relevant safe-haven range (100% to 130% of the AFR for the relevant term)? . . . . . . . . . . . . . .
+Did the reporting corporation issue a covered debt instrument in any of the transactions described in Regulations section
+1.385-3(b)(2) during the tax year with respect to a related party that is a corporation, or, did the reporting corporation issue
+or refinance indebtedness owed to a related party that is a corporation during the 36 months before or after the date of a
+distribution or acquisition described in Regulations section 1.385-3(b)(3)(i) made by the reporting corporation, and either
+the issuance or refinance of indebtedness, or the distribution or acquisition, occurred during the tax year? . . . . .
+If the answer to question 43a is “Yes,” provide the following.
+(1) The amount of such transaction(s), distribution(s), and acquisition(s) . . . . . . . . . . . . . . $
+
+42a
+
+b
+
+43a
+
+b
+
+(2) The amount of such related party indebtedness .
+
+Part VIII
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+$
+
+Cost Sharing Arrangement (CSA)
+
+Note: Complete a separate Part VIII for each CSA in which the reporting corporation was a participant during the tax year. Report all amounts in U.S.
+dollars. (See instructions.)
+44
+
+Provide a brief description of the CSA with respect to which this Part VIII is being completed.
+
+45
+46
+
+During the course of the tax year, did the reporting corporation become a participant in the CSA?
+Was the CSA in effect before January 5, 2009? . . . . . . . . . . . . . . .
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+47
+48a
+
+What was the reporting corporation’s share of reasonably anticipated benefits for the CSA? . . . .
+Enter the total amount of stock-based compensation deductions claimed by the reporting corporation .
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+$
+
+b
+c
+
+49a
+b
+
+.
+.
+
+Enter the total amount of deductions for the tax year for stock-based compensation that was granted during the term of the CSA
+and is directly identified with, or reasonably allocable to, the intangible development activity under the CSA . . . . . $
+Was there any stock-based compensation granted during the term of the CSA to individuals who performed functions in
+business activities that generate cost shared intangibles that was not treated as directly identified with, or reasonably
+allocable to, the intangible development activity?
+. . . . . . . . . . . . . . . . . . . . .
+Enter the total amount of intangible development costs for the CSA . . . . . . . . . . . . . . . $
+
+Yes
+
+No
+
+Yes
+
+No
+%
+
+Yes
+
+No
+
+Enter the amount of intangible development costs allocable to the reporting corporation based on the reporting corporation’s
+reasonably anticipated benefits share . . . . . . . . . . . . . . . . . . . . . . . . $
+
+Part IX
+
+Base Erosion Payments and Base Erosion Tax Benefits Under Section 59A (see instructions)
+
+50
+51
+
+Amounts defined as base erosion payments under section 59A(d) .
+Amount of base erosion tax benefits under section 59A(c)(2) . .
+
+.
+.
+
+.
+.
+
+$
+$
+
+52
+53
+
+Amount of total qualified derivative payments as described in section 59A(h) made by the reporting corporation .
+Reserved for future use . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+.
+.
+
+$
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+Form 5472 (Rev. 12-2023)
+
+

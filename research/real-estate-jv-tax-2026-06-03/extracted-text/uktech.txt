@@ -1,0 +1,2470 @@
+TECHNICAL EXPLANATION OF THE CONVENTION BETWEEN THE GOVERNMENT
+OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
+FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL
+EVASION WITH RESPECT TO TAXES ON INCOME AND CAPITAL GAINS
+SIGNED AT LONDON, ON DECEMBER 31, 1975, AS AMENDED BY THE NOTES
+EXCHANGED AT LONDON ON APRIL 13, 1976,
+THE PROTOCOL SIGNED AT LONDON ON AUGUST 26, 1976, AND
+THE SECOND PROTOCOL SIGNED AT LONDON ON MARCH 31, 1977
+GENERAL EFFECTIVE DATE UNDER ARTICLE 28: 1 JANUARY 1975
+It is the practice of the Treasury Department to prepare for the use of the Senate and other
+interested persons a Technical Explanation of the tax conventions and protocols, which are
+submitted to the Senate for its advice and consent to ratification. This technical Explanation was
+submitted to the Senate Foreign Relations Committee at hearings held on July 19-20, testimony
+of the Treasury Department before the same Committee on June 6, 1979 (Treasury News Release
+M-145, dated October 25, 1979) and to make minor corrections.
+An Income Tax Convention with the United Kingdom of Great Britain and Northern
+Ireland was signed April 13, 1976, and an Exchange of Notes was signed April 13, 1976, and
+submitted by the President to the Senate on June 24, 1976. Two Income Tax Protocols to the
+Convention were signed August 26, 1976 and March 31, 1977. The Senate voted its advice and
+consent on June 27, 1978 and instruments of ratification were exchanged on March 25, 1980.
+
+TABLE OF ARTICLES
+Article 1----------------------------------Personal Scope
+Article 2----------------------------------Taxes Covered
+Article 3----------------------------------General Definitions
+Article 4 ---------------------------------Fiscal Residence
+Article 5 ---------------------------------Permanent Establishment
+Article 6 ---------------------------------Income from Immovable Property (Real Property)
+Article 7 ---------------------------------Business Profits
+Article 8 ---------------------------------Shipping and Air Transport
+Article 9 ---------------------------------Associated Enterprises
+Article 10 -------------------------------Dividends
+Article 11 -------------------------------Interest
+Article 12 -------------------------------Royalties
+Article 13 -------------------------------Capital Gains
+Article 14 -------------------------------Independent Personal Services
+Article 15 -------------------------------Dependent Personal Services
+Article 16 -------------------------------Investment or Holding Companies
+Article 17 -------------------------------Artistes and Athletes
+Article 18 -------------------------------Pensions
+
+Article 19 -------------------------------Government Service
+Article 20 -------------------------------Teachers
+Article 21--------------------------------Students and Trainees
+Article 22 -------------------------------Other Income
+Article 23 -------------------------------Elimination of Double Taxation
+Article 24 -------------------------------Non-discrimination
+Article 25 -------------------------------Mutual Agreement Procedure
+Article 26 -------------------------------Exchange of Information and Administrative Assistance
+Article 27 -------------------------------Effect on Diplomatic and Consular Officials
+and Domestic Laws
+Article 28 -------------------------------Entry into Force
+Article 29 -------------------------------Termination
+Technical Explanation ----------------Protocol 3
+ARTICLE 1
+Personal Scope
+This Article delineates the persons who come within the scope of the Convention.
+Paragraph (1) states the general rule that the Convention is applicable to residents of one or both
+of the Contracting States, The term "resident" of a Contracting State is defined in Article 4
+(Fiscal Residence). In several cases, the Convention is also applicable to residents of third states
+because of their relationship with a resident of a Contracting State. For example, Articles 9
+(Associated Enterprises), 25 (Mutual Agreement Procedure) or 26 (Exchange of Information and
+Administrative Assistance), may apply with respect to persons who are residents of neither
+Contracting State, and paragraph 5 of Article 10 (Dividends) and paragraph 6 of Article 11
+(Interest) apply to dividends and interest derived by residents of third countries.
+This paragraph is similar to Article 1 of the Draft Double Taxation Convention on
+Income and Capital developed by the Fiscal Committee of the Organization for Economic
+Cooperation and Development as published in 1963 and as thereafter revised (hereinafter
+referred to as the "OECD Model Convention").
+Paragraph (2) deals with the treatment of a corporation which is a resident of both the
+United Kingdom within the meaning of paragraph (1)(a)(ii) of Article 4 (Fiscal Residence) and
+the United States (under paragraph (1)(b)(ii) of Article 4). Under those paragraphs, a corporation
+which is a United States corporation as defined by paragraph (1)(b) of Article 3 (General
+Definitions) and is managed and controlled in the United Kingdom would be a resident of both
+states. This Article clarifies the status of such corporations (hereinafter referred to as "dualresident" corporations) for purposes of the Convention by providing that dual-resident
+corporations may not claim the benefits of this Convention which are otherwise available to
+residents of a Contracting State, including the benefits of Articles 7 (Business Profits), 10
+(Dividends), 11 (Interest), 12 (Royalties), 22 (Other Income) or 23 (Elimination of Double
+Taxation). However, a dual-resident corporation may claim the benefits of paragraph (2) of
+Article 8 (Shipping and Air Transport) with respect to profits derived from operating ships or
+aircraft, and of Article 23 (Elimination of Double Taxation) with respect to paragraph 1(c)
+thereof and with respect to payments of the United Kingdom petroleum revenue tax. A dual-
+
+resident corporation may also claim the benefits of Articles 24 (Non-discrimination), and 28
+(Entry Into Force), and the provisions of paragraph (7) of Article 11 (Interest) relating to the
+character of certain interest payments will apply to it. Thus, for example, a dual-resident
+corporation may not claim the exemption from tax with respect to interest derived from the
+United States under Article 11 (Interest) or claim a refund of advance corporation tax with
+respect to dividend received from a corporation which is a resident of the United Kingdom. In
+these cases, the dual-resident corporation is treated as a resident of neither Contracting State for
+purposes of the Convention.
+On the other hand, interest, royalties, and dividends derived by a resident of a
+Contracting State from a dual-resident corporation will qualify for the exemptions or reductions
+in tax allowed by the Convention. For example, dividends received by a resident of the United
+Kingdom from a dual-resident corporation will qualify for the reductions in United States tax
+withholding under paragraph (1) of Article 10 (Dividends) and, a United States resident
+receiving dividends from a dual-resident corporation which, under the internal law of the United
+Kingdom, is a resident of the United Kingdom, will qualify for the refunds or credits of advance
+corporation tax under paragraph (2) of that Article.
+Paragraph (3) contains the traditional "saving clause" under which each Contracting
+States reserves the right to tax its nationals (as defined by paragraph (1)(k) of Article 3 (General
+Definitions)) and residents (as determined under Article 4 (Fiscal Residence)) as if the
+Convention had not come into effect. A similar provision exists in Article XIII of the Convention
+now in effect (hereinafter referred to as the "1945 Convention") [T.D. 5569, 1945-2 C.B. 100].
+The saving clause is of principal importance to the United States because the United States taxes
+its citizens, residents, and corporations on a worldwide basis, regardless of where they reside or
+derive income.
+Paragraph (4) sets forth certain exceptions to the application of the saving clause where
+other provisions of the Convention reflect overriding policies. Thus, the saving clause does not
+affect the provisions dealing with the determination of domicile for United Kingdom tax
+purposes (paragraph (4) of Article 4), the exemption from United Kingdom tax of profits derived
+by United States nationals and corporations from operating ships or aircraft (paragraph (2) of
+Article 8), associated enterprises (Article 9), the elimination of double taxation (Article 23), nondiscrimination (Article 24) or the mutual agreement procedure (Article 25). Moreover, the saving
+clause does not affect benefits of the Convention which are extended to an individual performing
+functions as an employee of a government of a Contracting State, as a teacher, as a student or
+trainee, or as diplomatic and consular official, who is neither a national (as defined in Article 3)
+of, nor has immigrant status in, the Contracting State imposing the tax. See Articles 19
+(Government Service), 20 (Teachers), 21 (Students and Trainees), and 27 (Effect on Diplomatic
+and Consular Officials and Domestic Laws). In the case of the United States, "immigrant status"
+means the individual has been admitted to the United States for permanent residence.
+Although Article 1 is entitled "Personal Scope", the Convention is applicable to
+corporations and other persons as well as to individuals.
+
+ARTICLE 2
+Taxes Covered
+Paragraph (1) of this Article states the general rule that the Convention applies to taxes
+on income imposed by the governments of the Contracting States. The Convention also applies
+to taxes on income imposed by political subdivisions or local authorities of a Contracting State
+(as defined in paragraph (1) (i) of Article 3 (General Definitions)) where paragraph (4) of Article
+9 (Associated Enterprises) applies. This Article is important because the relief from double
+taxation (i.e., tax credits) accorded by Article 23 (Elimination of Double Taxation) only extends
+to taxes covered by this Convention. Thus, credits for taxes paid to a Contracting State may be
+claimed under this Convention only with respect to the taxes specified in paragraphs (2) and (3)
+of this Article.
+Paragraph (2) designates the existing taxes on income which are the subject of the
+Convention. In the case of the United States, the taxes on income included (referred to as
+"United States tax") are the Federal income taxes imposed by the Internal Revenue Code
+("Code") and the tax under Code section 4371 on insurance company premiums paid to foreign
+insurers. The tax under Code section 4371 is not covered by the 1945 Convention. The
+Convention only applies to taxes on income contained in the Internal Revenue Code. Thus, the
+Convention does not, for example, apply to the excise tax under Code section 1491.
+The Convention also does not apply to the taxes imposed under Code sections 531
+(Accumulated Earnings Tax) or 541 (Personal Holding Company Tax), except as specified by
+paragraph (6) of Article 10 (Dividends). Under paragraph (6) of Article 10, a corporation which
+is a resident of the United Kingdom shall be exempt from the accumulated earnings or personal
+holding company tax if individuals (other than nationals of the United States) who are residents
+of the United Kingdom control, directly or indirectly, more than 50 percent of the voting power
+of such corporation.
+In the case of the United Kingdom, paragraph (2) provides that the existing taxes on
+income covered by the Convention (referred to as "United Kingdom tax") are the income tax, the
+capital gains tax, the corporation tax, and the petroleum revenue tax.
+For purposes of paragraph (4) of Article 9 (Associated Enterprises), this Convention also
+applies to taxes imposed on income by political subdivisions or local authorities of a Contracting
+State. For this purpose, the income taxes referred to include any franchise taxes measured by
+income which are imposed by a political subdivision or local authority of a Contracting State.
+Under paragraph (3), the Convention will also apply to taxes substantially similar to those
+covered by paragraph (2), which are imposed in addition to, or in place of, the taxes referred to
+in paragraph (2) after the date of signature of the Convention (December 31, 1975).
+The competent authorities of the Contracting States are to notify each other of any
+amendments of the laws imposing the existing taxes and of the adoption of any taxes which are
+imposed subsequent to the date of signature of the Convention.
+
+For purposes of Article 24 (Non-discrimination), the Convention will also apply to taxes
+of every kind and description (whether or not the taxes are on income) imposed by the
+Contracting States, political subdivisions or local authorities thereof.
+
+ARTICLE 3
+General Definitions
+Paragraph (1) defines the principal terms used throughout the Convention. Unless the
+context otherwise requires, the terms defined in this paragraph shall have a uniform meaning
+throughout the Convention. It should be noted that a number of important terms are defined
+elsewhere in the Convention. For example, the term "resident" of a Contracting State and
+"permanent establishment" are defined in Articles 4 (Fiscal Residence) and 5 (Permanent
+Establishment), respectively. Moreover, certain terms which appear in Articles dealing with
+special categories of income, e.g., "Immovable Property" (Article 6), "Dividends" (Article 10),
+"Interest" (Article 11), and "Royalties" (Article 12), are defined within those Articles.
+The Article defines the term "corporation" in subparagraph (a) as a United States
+corporation (defined in subparagraph (b)(i)) or a United Kingdom corporation (defined in
+subparagraph (b)(ii)), or any body corporate or entity of a third state which is treated as a body
+corporate for tax purposes by both Contracting States. Whether an entity is a corporation is
+relevant for purposes of paragraph (6) of Article 5 (Permanent Establishment), Article 10
+(Dividends), Article 16 (Investment or holding companies), and Article 23 (Elimination of
+Double Taxation).
+The term "United States corporation" means a corporation (or any unincorporated entity
+which is treated as a United States corporation for United States tax purposes) which is created
+or organized under the laws of the United States, any state thereof, or the District of Columbia.
+A "United Kingdom corporation" is defined as any body corporate or unincorporated
+association created or organized under the laws of the United Kingdom, excluding for this
+purpose a partnership, a local authority, or a local authority association.
+Whether a United States or United Kingdom corporation or any other corporation is a
+resident of a Contracting State for purposes of this Convention, or neither of them, or both of
+them, is to be determined in accordance with Article 4 (Fiscal Residence).
+The term "person" includes an individual, a corporation, a partnership, an estate, a trust,
+or any other body of persons.
+The term "enterprise of a Contracting State" means an industrial or commercial
+undertaking carried on by a resident of a Contracting State (as defined by Article 4).
+The term "international traffic" is defined as any transport by a ship or aircraft operated
+by an enterprise of one of the Contracting States, except when the ship or aircraft is operated
+solely between places within a Contracting State. Thus, for example, coastal shipping along the
+
+Atlantic coast of the United States is not international traffic. However, if a ship operated by an
+enterprise of the United Kingdom transports goods from Canada to the United States, leaving
+some of the goods In New York and the remainder in Norfolk, the portion of the transport
+between New York and Norfolk is international traffic. The definition of this term is relevant for
+purposes of Article 8 (Shipping and Air Transport) which provides that profits derived by an
+enterprise of a Contracting State from the operation in international traffic of ships or aircraft
+shall be taxable only in that State.
+With respect to the United States, the term "competent authority" means the Secretary of
+the Treasury or his delegate. With respect to the United Kingdom, the term "competent
+authority" refers to the Commissioners of Inland Revenue or their authorized representative.
+The term "United States" means the United States of America. When used in the
+geographical sense, the term means the states thereof and the District of Columbia. Thus, the
+Convention does not apply to possessions of the United States or the Commonwealth of Puerto
+Rico. The term "United States" also includes the territorial sea and, in general accord with the
+principles of section 638 of the Code, the continental shelf of the United States.
+The term "United Kingdom" means Great Britain and Northern Ireland, including the
+area of the continental shelf which has or may be designated by the United Kingdom, in
+accordance with international law, as an area within which the rights of the United Kingdom
+relating to the seabed and subsoil and their natural resources may be exercised. The Convention
+does not apply to the Channel Islands or the Isle of Man.
+The 1945 Convention does not include the continental shelf areas in the definition of the
+terms United States or United Kingdom. It is understood that when compared to the 1945
+Convention, the United Kingdom regards the reference to its continental shelf in this Convention
+as an expansion of the scope of the Convention with respect to operations in these areas.
+The term "Contracting State" means the United States or the United Kingdom, as the
+context of the Convention requires.
+The term "third State" means any State or territory other than the United States or the
+United Kingdom and the term "enterprise of a third State" is to be construed accordingly.
+In relation to the United States, the term "national" means an individual who is a citizen
+of the United States. In relation to the United Kingdom, the term "national" means all citizens of
+the United Kingdom and colonies, British subjects under sections 2, 13(1) or 16 of the British
+Nationality Act of 1948, and British subjects by virtue of section 1 of the British Nationality Act
+of 1965, provided they are patrial within the meaning of the Immigration Act of 1971, so far as
+these provisions are in force on the date of entry into force of this Convention or have been
+modified in minor respects so as not to affect their general character.
+Paragraph (2) provides that any term used in the Convention which is not defined therein
+shall, unless the context otherwise requires or unless the competent authorities agree to a
+definition of the term pursuant to Article 25 (Mutual Agreement Procedure), have the meaning
+
+which it has under the laws of the Contracting State where a tax is being determined. Under
+Article 25, where a term which is not defined in the Convention has a different meaning under
+the laws of the United Kingdom and the United States or where the meaning under the laws of
+one of the Contracting States is not readily determinable, the competent authorities may, for
+purposes of the Convention, establish a common meaning of the term in order to prevent double
+taxation or to further any other purpose of the Convention.
+
+ARTICLE 4
+Fiscal Residence
+This Article sets forth rules for determining the residence of individuals, corporations,
+and other persons for purposes of the Convention. Residence is important because, except as
+otherwise provided in the Convention, only a resident may claim the benefits of the Convention.
+The term "resident of the United Kingdom" is defined as a corporation (as defined in
+paragraph 1(a) of Article 3 (General Definitions)) whose business is managed and controlled in
+the United Kingdom, and any other person (except a corporation as defined in paragraph (1)(a)
+of Article 3), resident in the United Kingdom for purposes of its tax.
+Similarly, the term "resident of the United States" is defined as a person (except a
+corporation as defined in paragraph (1)(a) of Article 3) who is resident in the United States for
+purposes of its tax. This includes a resident alien individual who is subject to tax in the United
+States on his worldwide income and a resident citizen. The term also includes a corporation (as
+defined in paragraph (1)(b)(i) of Article 3). A foreign corporation, regardless of the extent to
+which its income is effectively connected with the conduct of a United States trade or business,
+is not a resident of the United States.
+It should especially be noted that an individual is not automatically a resident of the
+United States or the United Kingdom for the purposes of this Convention if he is a citizen of
+either country. To be a resident of a Contracting State, he must be subject to tax in that State on
+account of his residence therein. In the case of the United States, an individual will be considered
+to be a resident if, without regard to his citizenship, he would be taxable in the United States on
+his worldwide income as a resident. Residence for this purpose is to be determined in accordance
+with the principles of Treasury regulations under section 871 of the Internal Revenue Code.
+The definition of a resident of a Contracting State in the Convention differs from the
+definition of a resident in the 1945 Convention. Under paragraph (1)(g) of Article II of the 1956
+Convention a resident of the United Kingdom is defined, in pertinent part, as "any person (other
+than a citizen of the United States or a United States corporation) who is resident in the United
+Kingdom for purposes of United Kingdom tax...." and under paragraph (1)(h) of Article II a
+resident of the United States is defined, in pertinent part, as "any individual who is resident in the
+United States for the purposes of United States tax and not resident in the United Kingdom for
+the purposes of United Kingdom tax. . . ." In the case of Strathalmond (Lord) v. Inland Revenue
+(Ch. D. June 23, 1972), a British court interpreted this definition, in applying Article XV of the
+1945 Convention, to prevent the United Kingdom from taxing the United States source dividend
+
+income of a United States citizen residing in the United Kingdom. This result is inconsistent with
+the principles of the OECD Model Convention. Accordingly, under this Article, a United States
+citizen who resides in the United Kingdom for purposes of its tax will be taxable therein as a
+resident and, subject to the provisions of United Kingdom law, the United Kingdom will be
+permitted to tax those citizens on their dividend and interest income regardless of the source of
+that income. However, where the income of the United States citizen has a source in the United
+States (as determined under the laws of the United Kingdom) the United Kingdom will allow a
+credit against the United Kingdom tax for any United States tax payable (on the basis of that
+person's United States citizenship) with respect to that income. See the discussion of paragraph
+(3) of Article 23 (Elimination of Double Taxation).
+A corporation which is a resident of both Contracting States under this Article (i.e., a
+United States corporation whose business is managed or controlled in the United Kingdom), is
+dealt with by paragraph (2) of Article 1 (Personal Scope), and such a corporation may not claim
+any benefit under this Convention except as provided therein.
+Paragraph (1) of this Article also provides that a partnership, estate, or trust is a resident
+of a Contracting State only to the extent that the income derived by such person is subject to tax
+in such Contracting State as the income of a resident. For example, under United States law, a
+partnership is never, and an estate or trust is often not, taxed as such. Under the Convention,
+income received by a partnership, estate, or trust will be treated for purposes of the Convention
+as income received by a resident of the United States only to the extent such income is subject to
+tax in the United States as the income of a resident. Thus, for United States tax purposes, the
+question of whether income received by a partnership is received by a resident will be
+determined by the residence of its partners rather than by whether the partnership is resident in
+the United States by reason of engaging in a trade or business here. To the extent the partners are
+subject to United States tax as residents of the United States, the income received by a
+partnership will be treated as income received by a resident of the United States. Similarly, the
+treatment of income received by a trust or estate will be determined by the residence and taxation
+of the person subject to tax on such income, which may be the grantor, the beneficiaries or the
+trust or estate itself, as the case may be.
+The fact that a charitable organization or pension fund is exempt from tax in the country
+in which it is otherwise resident is not to be construed to deny such organization or fund resident
+status under this Convention.
+Paragraph (2) provides that an individual who is a resident of both Contracting States
+under paragraph (1) will, for purposes of the Convention, be deemed to be a resident of the
+Contracting State in which he has a permanent home available to him (e.g., where an individual
+dwells with his family), his center of vital interests (e.g., close economic and personal relations),
+an habitual abode, or the State of which he is a national, in that order. If the issue cannot be
+settled by the application of these tests, the competent authorities shall decide by mutual
+agreement the one Contracting State of which he will be considered to be a resident. Thus, for
+purposes of the Convention, including paragraph (3) of Article 1 (Personal Scope) (the saving
+clause) an individual may be a resident of the United States or the United Kingdom, but not both.
+
+Paragraph (3) provides that if an estate or trust (taxable as such) is a resident of both
+Contracting States under the provisions of paragraph (1), the competent authorities may settle the
+issue by mutual agreement.
+Since the definitions of residence in this Article apply for purposes of the entire
+Convention, an individual who is deemed to be a resident of one Contracting State and not a
+resident of the other Contracting State by reason of paragraph (2) will be deemed to be a resident
+of the first-mentioned Contracting State for all purposes of the Convention. For example; if an
+individual is determined to be a resident of the United Kingdom under paragraph (2) but would
+apart from that paragraph also be considered a resident of the United States under the laws of the
+United States, such individual would continue to receive the exemptions and special benefits
+granted by the Convention to residents of the United Kingdom, unless the individual is a citizen
+of the United States (see the saving clause of paragraph (3) of Article 1 (Personal Scope)).
+Paragraph (4) provides that for United Kingdom tax purposes the domicile, on or after
+April 6, 1976, of a woman who is a United States national and who was married before January
+1, 1974 to a man domiciled in the United Kingdom will be determined as though such marriage
+had taken place on January 1, 1974. The foreign source income of a United Kingdom resident is
+subject to taxation in the United Kingdom to a different extent depending on the domicile of the
+resident. Thus, a United Kingdom resident domiciled in the United Kingdom is subject to full
+United Kingdom taxation on all income, whereas a United Kingdom resident domiciled outside
+the United Kingdom is generally subject to tax on foreign source income only to the extent that it
+is remitted to the United Kingdom.
+Under United Kingdom law prior to January 1, 1974, the domicile of a woman was the
+same as the domicile of her husband. This rule has been repealed for future years. However, as a
+transitional rule, United Kingdom law treats a woman married before 1974 as retaining her
+husband's domicile unless and until she changes her domicile by acquisition or revival of another
+domicile after 1973.
+As a consequence, under United Kingdom law a United States citizen woman married to
+a man domiciled in the United Kingdom prior to January 1, 1974 does not have the same
+opportunity to prove a domicile outside the United Kingdom as does a United States citizen man
+married to a woman domiciled in the United Kingdom. Paragraph (4) of the Convention puts the
+United States citizen woman in the same position as the United States citizen man.
+Paragraph (5) provides a special rule for cases where income dealt with by this
+Convention (e.g., under Articles 7 (Business Profits), 8 (Shipping and Air Transport), 10
+(Dividends), 11 (Interest), 12 (Royalties), and 22 (Other Income)), is taxable to a resident of a
+Contracting State only if, and to the extent, it is remitted to or received by that person. In certain
+cases, individuals who are residents of the United Kingdom are not taxable on foreign source
+investment income, unless it is remitted to or received by them in the United Kingdom. If such
+income is received outside of the United Kingdom, or accumulated by the payer, a United
+Kingdom resident may not be subject to tax on that income. If the reductions in rates or
+exemptions from tax were to apply to those items of income, the United States would be
+foregoing tax where double taxation does not in fact occur. Thus, this paragraph provides that if
+
+under the law in the other Contracting State income would only be taxed on a remittance basis,
+then any reduced rates of tax (e.g., as provided by Articles 10 (Dividends) ), or relief from
+taxation (e.g., Articles 7 (Business Profits) and 8 (Shipping and Air Transport), 11 (Interest), or
+12 (Royalties)) provided by this Convention shall apply only to the extent such income is
+remitted to or received by the person in the year in which it accrues to the benefit of that
+taxpayer. This rule applies to all persons, including individuals, corporations, partnerships and
+trusts or estates taxable as such.
+This provision is similar to paragraph (4) of Article II of the 1945 Convention.
+
+ARTICLE 5
+Permanent Establishment
+This Article defines the term "permanent establishment." The existence of a permanent
+establishment is relevant under Article 7 (Business Profits) where it is provided that the business
+profits of an enterprise of a Contracting State shall be taxable only in that State unless it carries
+on business in the other Contracting State through a permanent establishment situated therein.
+Under paragraph (1), the term "permanent establishment" means a fixed place of business
+through which an enterprise of one of the Contracting States wholly or partly carries on business.
+Illustrations in paragraph (2) of a permanent establishment include a branch; an office; a factory;
+a workshop; a mine, oil or gas well, quarry or other place of extraction of natural resources; and
+a building site, or construction or installation project which exists for more than twelve months.
+Under the construction or installation project rule the twelve month period begins only when
+work physically commences in the other Contracting State. A series of contracts or projects
+which are interdependent both commercially and geographically is to be treated as a single
+project for the purpose of applying the twelve months test. As a general rule, any fixed facility or
+premises through which a resident carries on business for an indefinite or substantial period of
+time will be treated as a permanent establishment unless it is used only for one or more of the
+activities described in paragraph (3) of this Article.
+Paragraph (3) specifically provides that a permanent establishment does not include a
+fixed place of business if it is used solely for one or more of the following activities:
+"(a) the storage, display, or delivery of goods or merchandise belonging to the
+enterprise;
+"(b) the maintenance of a stock of goods or merchandise belonging to the
+enterprise for the purpose of storage, display or delivery;
+"(c) the maintenance of a stock of goods or merchandise belonging to the
+enterprise for the purpose of processing by another person;
+"(d) the maintenance of a fixed place of business for the purpose of purchasing
+goods or merchandise, or for collecting information, for the enterprise;
+"(e) the maintenance of a fixed place of business for the purpose of advertising,
+for the supply of information, for scientific research, or for similar activities which have a
+preparatory or auxiliary character, for the enterprise; or
+"(f) a building or construction or installation project which does not exist for more
+
+than 12 months."
+As noted, these exceptions are cumulative and a fixed place of business used only for one or
+more of these purposes will not be considered a permanent establishment under the Convention.
+Under paragraph (4), a person acting in one Contracting State on behalf of a resident of
+the other Contracting State, other than an agent of an independent status to whom paragraph (5)
+applies, will be deemed to constitute a permanent establishment if such person has, and
+habitually exercises in that first-mentioned Contracting State, an authority to conclude contracts
+in the name of the resident, unless the contracts are limited to the activities described in
+paragraph (3) of this Article.
+On the other hand, paragraph (5) provides that an enterprise of one Contracting State will
+not be deemed to have a permanent establishment in the other Contracting State merely because
+such enterprise carries on business in such other Contracting State through a broker, general
+commission agent, or any other agent of an independent status; where such broker or agent is
+acting in the ordinary course of his business.
+Under paragraph (6), the fact that a corporation which is a resident of a Contracting State
+controls or is controlled by a corporation of the other Contracting State, or which carries on
+business in the other Contracting State, through a permanent establishment or otherwise shall not
+of itself constitute either corporation a permanent establishment of the other.
+
+ARTICLE 6
+Income from Immovable Property (Real Property)
+Paragraph (1) provides that income from immovable property including income from
+agriculture or forestry, may be taxed in the Contracting State where the property is situated. This
+rule does not confer an exclusive right of taxation to the State where the property is located, but
+only confirms that the situs State has the primary right to tax such income regardless of whether
+the income is derived through a permanent establishment in that State.
+Paragraph (2) provides that the term "immovable property" is to be defined under the
+laws of the Contracting State where the property is located. Generally, the term "immovable
+property" refers to real property for purposes of United States and United Kingdom law.
+Moreover, paragraph (2) also defines the term "immovable property" to include usufruct of
+immovable property and rights to variable or fixed payments (e.g., royalties) as consideration for
+the working of, or the right to work, mineral deposits, sources, and other natural resources (e.g.,
+oil or gas wells). Ships, boats and aircraft shall not be regarded as immovable property.
+This Article shall apply to income derived from the use in any form of immovable
+property, including income from leases of immovable property, but it does not include interest on
+indebtedness secured by real property (e.g., mortgages).
+Where income is derived from immovable property through a permanent establishment in
+
+a Contracting State, such income may be taxed in accordance with Article 7 (Business Profits).
+Income from immovable property does not include gains from the sale of immovable
+property. Where those gains are capital gains within the meaning of Article 13 (Capital Gains),
+that Article shall apply.
+This Article differs from the provisions of Article IX of the 1945 Convention. During the
+years since that Convention was ratified both the United States and the United Kingdom have
+enacted statutes permitting the taxpayer to elect to treat income in respect of real property, wells,
+mines and other natural resources, as income from a trade or business. In these cases, the
+taxpayer is taxed only on net income rather on the gross income derived from such operations.
+Thus, it was determined that this Convention need not continue the terms of the 1945
+Convention.
+
+ARTICLE 7
+Business Profits
+Paragraph (1) provides that business profits (as defined in paragraph (7) of this Article) of
+an enterprise of one Contracting State shall be taxable only in that State unless the enterprise
+carries on business in the other Contracting State through a permanent establishment situated
+therein, except where the enterprise is a national of that other Contracting State. (See the saving
+clause in paragraph (3) of Article 1 (Personal Scope).) The term "permanent establishment" is
+defined in Article 5 (Permanent Establishment). Where business is carried on through a
+permanent establishment in the other Contracting State, the business profits attributable to the
+permanent establishment can be taxed by that other Contracting State.
+Business profits may be attributable to a permanent establishment which an enterprise of
+one Contracting State has in the other Contracting State, whether from sources within or without
+a Contracting State. Thus, items of income described in section 864(c)(4)(B) of the Code which
+are attributable to a permanent establishment situated in the United States will be subject to tax
+by the United States.
+In determining the proper attribution of business profits under the Convention to a
+permanent establishment, paragraph (2) provides that both Contracting States will attribute to the
+permanent establishment such profits as it would reasonably be expected to derive if it were an
+independent entity engaged in the same or similar activities under the same or similar conditions
+and dealing wholly independently with the enterprise of which it is a permanent establishment.
+Under paragraph (3), expenses, wherever incurred, which are reasonably connected with
+profits attributable to the permanent establishment, including a reasonable allocation of executive
+and general administrative expenses, research and development expenses, interest, and other
+expenses incurred for the enterprise as a whole (or the part which includes the permanent
+establishment), will be allowed as deductions in determining the business profits of the
+permanent establishment. However, in determining the amount of the deduction under paragraph
+(3) for expenses incurred by the head office, the deduction generally will be limited to the
+
+expense incurred without including a profit element for the head office.
+Under paragraph (4) profits shall not be attributed to a permanent establishment merely
+because of the purchase of goods or merchandise by that permanent establishment for the
+account of the enterprise. Paragraph (2) of the Article does not override paragraph (4). Thus, for
+example, where a permanent establishment purchases goods for its head office, the business
+profits attributed under paragraph (2) to the permanent establishment with respect to its other
+activities will not be increased by adding a national figure for profits from purchasing.
+For purposes of this Article, paragraph (5) provides that the profits attributed to a
+permanent establishment shall be determined by the same method every year unless there is a
+good reason to change such method. The purpose of this provision is to give assurance of
+continuous and consistent tax treatment.
+Paragraph (6) provides that, where the profits of a permanent establishment include items
+of income which are dealt with separately in other Articles of the Convention, the provisions of
+those Articles will not be affected by the provisions of this Article. Thus, for example, the
+taxation of interest income will be controlled by Article 11 (Interest) and not by this Article
+unless, as provided by paragraph (4) of Article 11, the interest is effectively connected with a
+permanent establishment which the recipient, being a resident of one of the Contracting States,
+has in the other State. This same exception applies with respect to items of income dealt with in
+Article 8 (Shipping and Air Transport), dividends under paragraph (4) of Article 10 (Dividends),
+royalties under paragraph (4) of Article 12 (Royalties) or other income under paragraph (2) of
+Article 22 (Other Income).
+Under paragraph (7), the term "business profits" includes, but is not limited to, income
+derived from manufacturing, mercantile, banking, insurance (or reinsurance), agricultural,
+fishing or mining activities, the operation of ships or aircraft, the furnishing of services, the
+rental of tangible personal (movable) property, and the rental or licensing of motion picture films
+or films or tapes used for radio or television broadcasting or from copyrights thereof. Thus, for
+example, income derived by a resident of the United States from the rental of tangible personal
+property to a person in the United Kingdom shall not be subject to tax in the United Kingdom
+unless that lessor has a permanent establishment in the United Kingdom to which such income is
+attributable. The term "business profits" also includes any other income which is effectively
+connected with a permanent establishment which the recipient, being a resident of one of the
+Contracting States, has in the other Contracting State. The term "business profits" does not
+include income from the performance of personal services derived by an individual either as an
+employee or in an independent capacity. Income from such activities is dealt with under Articles
+14 (Independent Personal Services), 15 (Dependent Personal Services) and 17 (Artistes and
+Athletes), as the case may be.
+This Article is substantially similar to Article III of the 1945 Convention and is also
+based on Article 7 (Business Profits) of the OECD Model Convention.
+
+ARTICLE 8
+
+Shipping and Air Transport
+Paragraph (1) provides that profits of an enterprise of a Contracting State from the
+operation of ships or aircraft in international traffic shall be taxable only in that Contracting
+State.
+Paragraph (2) confirms that the United Kingdom grants to nationals of the United States
+and United States corporations the equivalent shipping and aircraft exemption required for
+application of Code sections 872(b) and 883. It should be noted that the exemption provided
+under this paragraph is available only with respect to the profits derived from operating ships
+documented or aircraft registered under the laws of the United States.
+Under paragraph (3), this Article applies to profits derived from the rental of ships or
+aircraft under a bareboat charter if the lessor is engaged in the operation of ships or aircraft in
+international traffic and the rental income is incidental to operations of the lessor described in
+paragraph (1). In these cases the lessee of the property need not be a resident of a Contracting
+State. For example, if an airline which is a resident of one Contracting State has excess
+equipment in the winter months and leases several of its aircraft which are not required by it
+during that period to another airline, the rental profits of the lessor are not subject to tax by that
+other Contracting State, regardless of the state of residence of the lessee.
+Paragraph (4) provides that profits derived by an enterprise of a Contacting State from the
+use, maintenance, or rental of containers (including trailers and related equipment for the
+transport of containers), used to transport goods or merchandise shall be taxable only in that
+State except to the extent that those goods or merchandise are transported solely between places
+within a Contracting State. The income covered by this provision need not be incidental to the
+operation of ships or aircraft. Thus, this Article applies to lessors of containers who do not own
+or operate the ships or aircraft upon which the containers are carried. This paragraph also applies
+to income derived by an enterprise from the use, maintenance, and lease of containers and other
+related equipment in connection with the operation of ships or aircraft described in paragraph
+(1).
+Paragraph (5) provides that this Article shall also apply to profits derived by an enterprise
+of a Contracting State from participation in a pool, a joint business or an international operating
+agency.
+Paragraph (6) provides that gains of an enterprise of a Contracting State from the
+alienation of ships, aircraft or containers owned and operated by the enterprise shall be taxable
+only in that State if the income from such ships, aircraft or containers is taxable only in that
+State.
+Except for paragraph (2), this Article is subject to the saving clause of paragraph (3) of
+Article 1 (Personal Scope). Therefore, a Contracting State may tax income from shipping or air
+transport, or from the use or rental of containers, derived by a resident of the other Contracting
+State without regard to this Article if such resident is a national of the first-mentioned
+Contracting State.
+
+ARTICLE 9
+Associated Enterprises
+Article 9 confirms the authority of the United States under section 482 of the Code. Thus,
+where an enterprise of a Contracting State is related to another enterprise and conditions are
+made or imposed between them in their commercial or financial relations which are different
+from those which would be made between independent enterprises, under paragraph (1) any
+income, deductions, receipts or out-goings which would, but for those conditions, have been
+attributed to one of the enterprises, but by reason of those conditions have not been so attributed,
+may be taken into account in computing the profits and losses of that enterprise and taxed
+accordingly.
+Paragraph (2) sets forth an explicit formulation of the consequence of a redetermination
+made in accordance with paragraph (1) by a Contracting State. In such event, the other
+Contracting State shall make such corresponding adjustment as may be appropriate to the
+amount of tax charged to the related enterprise by the other Contracting State. In the case of the
+United States, assuming application within a reasonable time after notice of such adjustment, any
+refunds of tax in respect of such an adjustment shall be made notwithstanding the statute of
+limitations.
+Under paragraph (3), if a Contracting State disagrees with a redetermination of tax by the
+other Contracting State, the two Contracting States will endeavor to resolve the matter in
+accordance with the mutual agreement procedure in Article 25 (Mutual Agreement Procedure).
+Paragraph (4) deals with the methods by which a Contracting State or a political
+subdivision or local authority thereof may tax an enterprise which is controlled by an enterprise
+of the other Contracting State. Where an enterprise doing business in one Contracting State is a
+resident (as defined in Article 4 (Fiscal Residence)) of the other Contracting State, or is
+controlled, directly or indirectly, by an enterprise which is a resident of the other Contracting
+State, the first-mentioned Contracting State, or political subdivision or local authority thereof, in
+determining the tax liability of the enterprise doing business therein, may not take into account
+the income, deductions, receipts, or outgoings of a related enterprise which is a resident of the
+other Contracting State or of an enterprise of any third State which is related to the enterprise of
+the other Contracting State. (Because a corporation is considered a single enterprise regardless of
+how many branches it has, a State may take into account the income and assets of all branches of
+that corporation, wherever located.) The taxing jurisdiction may, however, attribute income to
+the enterprise under the arm's-length principles contained in the other paragraphs of this Article.
+In addition, where the enterprise which is a resident of the other Contracting State is a
+corporation, the provisions of paragraph (4) of this Article will apply only if such corporation:
+(1) is not a controlled foreign corporation within the meaning of Code section 957;
+(2) is not created or organized under the laws of the first-mentioned Contracting State or
+any third State; and
+(3) is not controlled, directly or indirectly, by a corporation which is a resident of any
+third State.
+
+Finally, the prohibition contained in paragraph (4) will not apply where the enterprise
+doing business in a Contracting State is a resident of that State to the extent that it owns, directly
+or indirectly, the capital of a related enterprise. Thus, this provision does not affect the
+application of the United States "subpart F" rules of Code sections 951-964.
+The following is an illustration of the operation of this paragraph:
+Corporation M, organized under the laws of the United Kingdom, is a resident of
+the United Kingdom, and all of its stock is owned by individuals residing in the United
+Kingdom who are not United States nationals.
+Corporation M controls subsidiaries A, B, and C, which are incorporated in, and
+do business in, respectively, France, Germany, and Belgium.
+Corporation M also controls a United States subsidiary, Z, which is incorporated
+in and conducts its business in X, a state of the United States.
+In determining the tax liability of Z, to X or to the United States, neither X nor the United
+States, are permitted to allocate to, apportion to, or otherwise include in Z’s tax base
+income earned by M, A, B, or C, except to the extent the dealings between Z and those
+persons require the application of the arm's-length principles of the other paragraphs of
+this Article.
+Thus, in these circumstances, the United States or the states will be required to determine Z's tax
+liability solely on the basis of its income. The determination of Z's tax liability under any unitary
+or combined reporting basis is, therefore, prohibited by this Article.
+The broad standard of tax jurisdiction embodied in United States tax treaties provides that
+one Contracting State will not tax the business profits of an enterprise of the other Contracting
+State unless that enterprise does business in the first-mentioned Contracting State through a
+permanent establishment located there. The purpose of this provision is to harmonize the tax
+jurisdiction under this Convention at the national, state and local levels by equating the tax base
+of an enterprise doing business in a state or political subdivision of the United States with the
+enterprise's Federal income tax base.
+Paragraph (5) provides that for purposes of the Convention an enterprise is related to
+another enterprise if either owns or controls directly or indirectly the other, or if a third person or
+persons (related to each other or acting together) own or control, directly or indirectly, both. The
+term "control" is not limited to the ownership of the capital of an enterprise, and includes any
+kind of control, whether or not legally enforceable, and however exercised or exercisable.
+
+ARTICLE 10
+Dividends
+Article 10 deals with the taxation of dividends derived from a corporation which is a
+resident of a Contracting State. Under Article VI of the 1945 Convention, the rate of tax on
+dividends derived by residents of one Contracting State from a corporation of the other
+Contracting State is limited to 15 percent of the gross amount of the dividends. In 1973 the
+
+United Kingdom introduced a system of integrating corporate and shareholder taxation. Under
+the system adopted by the United Kingdom, a special "Advance Corporation Tax" ("ACT"
+hereafter), is collected at the corporate level on a distribution of dividends by the corporation.
+This tax is treated both as an advance payment of a portion of the corporate income tax, and also
+as a payment by an individual United Kingdom resident shareholder in satisfaction of his
+personal tax liabilities on the dividend. The introduction of this system rendered inapplicable the
+current provisions of the Convention relating to United Kingdom dividends. Accordingly, the
+proposed Article provides a mechanism by which United States shareholders of a United
+Kingdom corporation will receive the benefits of the shareholder credits which have heretofore
+not been granted to United States residents.
+This Article contains two alternatives for the taxation of dividends, depending on whether
+the United Kingdom continues to allow a tax credit to individual shareholders in respect of
+dividends derived from a corporation which is a resident of the United Kingdom. Paragraph (1)
+will apply only if the United Kingdom modifies its current system of shareholder credits. This
+paragraph limits the tax on dividends paid by a corporation which is a resident of one
+Contracting State to a resident (who derives and beneficially owns the dividend) of the other
+Contracting State to 15 percent of the gross amount of the dividends. As noted above, this is the
+rule contained in the 1945 Convention.
+Paragraph (2) applies where, as at the present time, an individual resident in the United
+Kingdom is entitled to a credit in respect of dividends paid by a corporation which is a resident
+of the United Kingdom. So long as this system remains in force, only paragraph (2), and not
+paragraph (1), shall apply. With respect to dividends paid by a corporation resident in the United
+Kingdom to a United States corporation which either alone or together with one or more
+associated corporations (defined below) controls, directly or indirectly, at least 10 percent of the
+voting stock of the United Kingdom resident corporation which is paying the dividend, the
+shareholder will be entitled to payment from the United Kingdom of a tax credit (hereinafter
+referred to as a refund) equal to one-half of the tax credit to which an individual resident in the
+United Kingdom would be entitled, less 5 percent of the aggregate amount of the cash dividend
+and the United Kingdom refund.
+For United States tax purposes, the gross amount of the refund (without reduction for the
+tax withheld) will be considered as a dividend (see discussion under Article 23 (Elimination of
+Double Taxation)) and the 5 percent tax withheld will be considered as a tax on the shareholder
+receiving the dividend (see paragraph (1)(b) of Article 23 (Elimination of Double Taxation)).
+The unrefunded portion of the ACT paid in respect of the dividend will be regarded as an income
+tax imposed on the distributing corporation (see paragraph (1)(c) of Article 23).
+In the case of United States shareholders other than corporations which control at least 10
+percent of the voting stock of the United Kingdom resident corporation, the United Kingdom
+refund will equal the full credit payable to an individual resident in the United Kingdom, less 15
+percent of the aggregate amount of the dividend and the U.K. refund. For United States tax
+purposes, the U.K. refund shall be treated as additional gross income and the 15 percent
+withholding shall be considered as a tax on the shareholder. In the case of a $65 dividend, the
+result is as follows:
+
+Dividend for U.S. Tax Purposes
+Dividend
+U.K. refund
+Gross Dividend
+
+$ 65.00
+35.00
+100.00
+
+United Kingdom Withholding Tax
+Foreign Tax Credit
+
+$15.00
+$15.00
+
+With respect to dividends paid by a United States corporation to a corporation which is a
+resident of the United Kingdom, and which controls, directly or indirectly, at least 10 percent of
+the voting stock of the United States corporation paying the dividend, the United States tax shall
+not exceed 5 percent of the gross dividend.
+In all other cases of dividends paid by a United States corporation to any other resident of
+the United Kingdom, the rate of tax imposed by the United States shall not exceed 15 percent.
+For purposes of paragraph (2), two corporations are associated if one controls directly or
+indirectly more than 50 percent of the voting power in the other corporation, or a third
+corporation controls more than 50 percent of the voting power in both of them.
+As noted above, a resident of a Contracting State may benefit from this Article only if he
+derives and beneficially owns the dividend paid by a corporation of one of the Contracting
+States. A nominee or agent which is a resident of a Contracting State may not claim the benefits
+of this Article if the dividend is received on behalf of a person who is not a resident of that
+Contracting State. Similarly, dividends received by a nominee for the benefit of a resident, as, for
+example, with respect to a depositary receipt, would qualify for the benefits of this Article. This
+is generally the case with respect to all income tax conventions of the United States.
+Paragraph (3) defines the term "dividends" to include any item which is treated as a
+distribution under the laws of the United Kingdom for United Kingdom tax purposes or, as a
+distribution out of earnings and profits for United States tax purposes. Distributions which are
+not within this definition of "dividends," or covered by any other provision of this Convention,
+shall be treated as "other income" under Article 22 (Other Income) of this Convention.
+Paragraph (4) provides that paragraphs (1) and (2) of this Article shall not apply if the
+person deriving the dividends, being a resident of a Contracting State, has a permanent
+establishment in the other Contracting State or performs personal services from a fixed base
+situated therein, and the holding in respect of which the dividends are paid is effectively
+connected with the permanent establishment or fixed base. In such a case, the dividend will be
+treated as business profits subject to the provision of Article 7 (Business Profits) or taxable in
+accordance with Articles 14 (Independent Personal Services) or 17 (Artistes and Athletes), as the
+case may be.
+Paragraph (5) provides that dividends paid by a corporation which is a resident of a
+Contracting State, regardless of where it derives its income, to a person other than a resident of
+
+the other Contracting State (and in the case of dividends paid by a corporation which is a resident
+of the United Kingdom, to a person other than a United States citizen), shall be exempt from tax
+by the other Contracting State unless the holding with respect to which such dividends are paid is
+effectively connected with a permanent establishment or a fixed base which the person deriving
+the dividends has in that other State. For example, if a corporation which is a resident of the
+United Kingdom and is doing business in the United States pays dividends to a resident of the
+United Kingdom, or to a resident of a third State, those dividends shall be exempt from United
+States unless they are paid to a citizen or resident of the United States, or unless the holding in
+respect of which the dividends are paid is effectively connected with a permanent establishment
+or fixed base which the United Kingdom resident or resident of a third State maintains in the
+United States. This rule is contained in Article XV of the 1945 Convention. A dual-resident
+corporation which derives dividends from a resident of a Contracting State may not claim the
+benefits of this provision, although dividends received from a dual-resident corporation will
+qualify for the benefits of this Article.
+Paragraph (6) continues the provisions of Article XVI of the 1945 Convention, and
+provides that a corporation which is a resident of the United Kingdom shall be exempt from the
+United States tax on accumulated or undistributed earnings (as provided by Code sections 531
+(the accumulated earnings tax) and 541 (the personal holding company tax)), if individuals, other
+than citizens of the United States, who are residents of the United Kingdom, control, directly or
+indirectly, more than 50 percent of the entire voting power in such corporation.
+Paragraph (7) prevents the application of paragraphs (1) and (2) of this Article in two
+circumstances where tax avoidance may occur. First, under subparagraph (a), where a resident of
+a Contracting State owns 10 percent or more of the shares of a corporation with respect to which
+dividends are paid, paragraphs (1) or (2) of this Article shall not apply to the extent that the
+dividends are paid out of profits which the corporation earned or other income which it received
+in a period ending 12 months or more before the date on which the shareholder became the
+owner of 10 percent or more of the corporation's stock. This rule is designed to prevent
+transactions where a 10 percent stock interest is acquired in order to obtain a distribution of the
+past earnings of a corporation at reduced rates of tax.
+A second rule contained in subparagraph (b) is designed to deny the benefits of the
+Convention to tax exempt organizations if the recipient of a dividend is exempt from tax in the
+United States and the dividends are received in circumstances where if received by an exempt
+organization of the United Kingdom such interest or dividends would not be so exempt. Under
+United Kingdom law, if a resident of the United Kingdom sells securities to an exempt
+organization immediately before the payment of dividends, the organization will be taxable on
+the dividends paid in respect of the securities if the transaction was designed to accord the initial
+seller a preferential rate of tax on his sale. This rule is contained in Article VII A of the 1945
+Convention.
+The rules of paragraph (7), stated above, shall not apply if the beneficial owner of the
+shares satisfies the competent authorities of the respective States that the shares were acquired
+for bona fide commercial purposes and not to secure the benefits of the Convention.
+
+This Article is subject to the saving clause of paragraph (3) of Article 1 (Personal Scope).
+Thus, dividends derived by a citizen of a Contracting State may be taxed by that Contracting
+State without regard to this Article.
+
+ARTICLE 11
+Interest
+Paragraphs (1) and (2) provide that interest derived and beneficially owned by a resident
+of one Contracting State shall be exempt from tax by the other Contracting State. In these cases,
+interest is taxable only in the taxpayer's State of residence. The exemption only applies where the
+person deriving the interest is a resident of a Contracting State (as defined in Article 4 (Fiscal
+Residence)) and is the beneficial owner of the interest. Thus, the exemption does not apply
+where an intermediary, which is a resident of a Contracting State, such as an agent or nominee,
+collects or receives the interest on behalf of a person who is not a resident of that Contracting
+State.
+Paragraph (3) defines the term interest for purposes of this Article as income from
+Government securities, bonds or debentures, whether or not secured by mortgage or whether or
+not carrying a right to participate in profits, and debt claims of every kind, as well as all other
+income (such as original issue discount) which, under the taxation law of the Contracting State in
+which the income has its source, is assimilated to income from money lent. Paragraphs (1) and
+(2) apply to all “interest”, from whatever source derived. Penalty charges and late payment
+penalties shall not be regarded as interest. Such payments shall be regarded as "other income"
+dealt with by Article 22 (Other Income).
+Paragraph (4) provides that the exemption from tax provided by paragraphs (1) and (2)
+shall not apply if the person deriving the interest, being a resident of a Contracting State, has a
+permanent establishment in the other Contracting State or performs personal services from a
+fixed base situated therein, and the indebtedness giving rise to the interest is effectively
+connected with the permanent establishment or fixed base. In such a case, the interest will be
+treated as business profits subject to the provisions of Article 7 (Business Profits) or will be
+taxable in accordance with Article 14 (Independent Personal Services) or 17 (Artistes and
+Athletes), as the case may be.
+If excessive interest is paid pursuant to a special relationship between the payer and the
+person deriving the interest or between both of them and a third person, under paragraph (5) the
+provisions of Article 11 shall not apply to the excess portion of the payment. For this purpose,
+those persons need not be "related" within the meaning of paragraph (5) of Article 9 (Related
+Enterprises). The excessive portion may be taxed by each Contracting State, in accordance with
+its own law, including the Convention where applicable. In the case of the United States, the
+excessive portion may, for example, be taxed as a dividend, in which case the provisions of
+Article 10 (Dividends) will apply.
+Paragraph (6) provides that interest paid by a resident of a Contracting State, regardless
+of where it derives its income, to a person other than a resident of the other Contracting State
+
+(and in the case of interest paid by a resident of the United Kingdom, to a person other than a
+United States citizen), shall be exempt from tax by the other Contracting State unless the debt
+claim in respect of which such interest is paid is effectively connected with a permanent
+establishment or a fixed base which the person deriving the interest has in that other State. For
+example, if a corporation which is a resident of the United Kingdom and is doing business in the
+United States pays interest to a resident of the United Kingdom, or to a resident of a third State,
+that interest shall be exempt from United States tax unless it is paid to a citizen or resident of the
+United States, or unless the debt obligation is effectively connected with a permanent
+establishment or a fixed base which the United Kingdom resident or resident of a third State
+maintains in the United States. A dual-resident corporation may not claim the benefits of this
+provision. A debt obligation is effectively connected with a permanent establishment in the
+United States when interest on that obligation is effectively connected with a trade or business in
+the United States within the meaning of Code section 864(c)(2) or 864(c)(4)(B)(ii), depending on
+the source of the interest under United States law.
+Paragraph (7) is carried over from paragraph (5) of Article VII of the 1945 Convention.
+Under United Kingdom domestic law, interest payments by United Kingdom corporations to
+non-United Kingdom corporations which have 75 percent or more control, directly or indirectly,
+of the United Kingdom corporation are treated as distributions (dividends) rather than as
+deductible interest. This paragraph provides, in reciprocal terms, that this rule shall not apply
+where the payment is to a resident of the other Contracting State. By virtue of paragraph (2) of
+Article 1 (Personal Scope), a dual-resident corporation may claim the benefits of this provision
+with respect to interest payments it makes. However, this paragraph also provides that where the
+interest is paid to a corporation which is a resident of a Contracting State of which more than 50
+percent of the voting power is directly or indirectly controlled by persons who are residents of
+the other Contracting State, the exemption shall not apply.
+Paragraph (8) provides that the exemption from United Kingdom tax under paragraph (2)
+of this Article will not apply if the recipient of the interest is exempt from tax on such income in
+the United States and the recipient sells or makes a contract to sell the holding from which such
+interest is derived within three months after the date the recipient acquired such holding.
+The provisions of this Article are subject to the saving clause of paragraph (3) of Article
+1 (Personal Scope). Thus, interest derived by a citizen of a Contracting State may be taxed by
+that Contracting State without regard to this Article.
+
+ARTICLE 12
+Royalties
+Paragraphs (1) and (2) provide that royalties derived and beneficially owned by a resident
+of a Contracting State shall be exempt from tax by the other Contracting State. Such income,
+therefore, is taxable only in the State of residence. As in Article 10 (Dividends) and 11 (Interest),
+this exemption applies only where the person deriving the royalties is a resident of a Contracting
+State and is the beneficial owner of the royalty. Thus, the exemption does not apply where an
+intermediary, such as an agent or nominee, who is a resident of a Contracting State collects or
+
+receives the royalties on behalf of a non-resident of that Contracting State. This Article deals
+with royalties from sources within a Contracting State or from sources within any third State,
+except as described below.
+Paragraph (3) defines the term "royalties" as payment of any kind made as consideration
+for the use of, or the right to use, copyrights of literary, artistic, or scientific works (but not
+including copyrights of motion picture films or films or tapes used for radio or television
+broadcasting (which are treated as business profits under paragraph (7) of Article 7 (Business
+Profits)), patents, trademark, design or model, plan, secret-formula or process, or, other like right
+or property, or for information concerning industrial, commercial or scientific experience. This
+term includes "know-how" and similar experience or skill, including the supply of assistance of
+an ancillary and subsidiary nature furnished as a means of enabling the application or enjoyment
+of any such right or property. The term also includes gains derived from the alienation (e.g.; the
+exchange, or other disposition) of any such right or property to the extent the amounts realized
+on such alienation are contingent on the productivity, use, or disposition of the right or property.
+If the amounts realized are not so contingent, the provision of Article 13 (Capital Gains) may
+apply. The article does not apply to amounts which are characterized as interest pursuant to
+section 483 of the Code.
+Paragraph (4) provides that paragraphs (1) and (2) will not apply if the royalty recipient,
+being a resident of one Contracting State, carries on business in the other Contracting State
+through a permanent establishment situated therein or performs in that other Contracting State
+personal services from a fixed base situated therein, and the right or property giving rise to the
+royalty is effectively connected with such permanent establishment or fixed base. In such a case,
+the royalty will be treated as business profits subject to Article 7 (Business Profits) or will be
+taxable in accordance with Articles 14 (Independent Personal Services) or 17 (Artistes and
+Athletes) as the case may be.
+If excessive royalties are paid pursuant to a special relationship between the payer and the
+person deriving the royalty or between both of them and a third person, paragraph (5) provides
+that the provisions of this Article shall not apply to the excessive portion of the payment. For this
+purpose, the persons covered by this paragraph need not be "related" within the meaning of
+paragraph (5) of Article 9 (Related Enterprises). The excessive portion may be taxed in each
+Contracting State, in accordance with its own law, including the Convention where applicable. In
+the case of the United States, the excessive portion may, for example, be taxed as a dividend, in
+which case the provisions of Article 10 (Dividends) will apply.
+This Article is subject to the saving clause of paragraph (3) of Article 1 (Personal Scope).
+Therefore, royalties derived by a citizen of a Contracting State may be taxed by the Contracting
+State without regard to this Article.
+
+ARTICLE 13
+Capital Gains
+This Article provides that, except as provided in Article 8 (Shipping and Air Transport)
+
+capital gains are taxable in accordance with the domestic laws of the Contracting States. This
+rule applies to the existing laws of a Contracting State respecting the taxation of capital gains and
+revisions of those laws subsequent to the effective date of this Convention. Thus, for example,
+capital gains in respect of the sale of immovable property described by Article 6 (Immovable
+Property) or the sale of a right or property giving rise to royalties described by Article 12
+(Royalties) (which are not contingent on productivity, etc.,) may be taxed in accordance with the
+respective domestic laws of the Contracting States. The provision of Article 7 (Business Profits)
+shall apply to gains attributable to a permanent establishment. Article 22 (Other Income) does
+not apply to capital gains.
+Under current United States law, contained in Code sections 871 and 872, non-resident
+alien individuals are generally not taxable in the U.S. on their United States source capital gains
+unless they are present in the United States for 183 days or more during a taxable year, or if the
+gains are effectively connected with the conduct of a U.S. trade or business. Under Code sections
+881 and 882 foreign corporations generally are taxable in the U.S. only on capital gains which
+are effectively connected with the conduct of a U.S. trade or business.
+Notwithstanding the foregoing rules, under paragraph (6) of Article 8 (Shipping and Air
+Transport) gains which an enterprise of a Contracting State derives from the sale, exchange or
+other disposition of ships, aircraft or containers which the enterprise owns or operates (dealt with
+by Article 8 (Shipping and Air Transport)), shall be taxable only in the State in which the income
+from the ships, aircraft or containers was taxable.
+Under paragraph (2) of Article 3 (General Definitions), whether an item of income
+constitutes capital gains shall be determined under the laws of the Contracting State seeking to
+tax those gains.
+The representatives of the Contracting States will consult with each other upon the
+enactment or proposed enactment by either State of any laws which substantially change the
+manner in which capital gains derived by non-residents are taxed by the respective States.
+
+ARTICLE 14
+Independent Personal Services
+In dealing with the taxation of income from personal services, the Convention
+distinguishes between "independent" and "dependent" personal services. The Convention also
+provides special treatment for individuals who are "artistes or athletes" and for amounts received
+in certain circumstances in respect of the services of an artiste or athlete.
+Personal services performed in an independent capacity, that is, independent personal
+services, are services performed by an individual for his own account where he receives the
+income and bears the losses arising from such services. If an individual is an independent
+contractor he is considered as rendering independent personal services. Income from services in
+which capital is a material income-producing factor, however, will generally be governed by the
+provisions of Article 7 (Business Profits). Generally, services rendered as a director of a
+
+corporation, or rendered by physicians, lawyers, engineers, architects, dentists, consultants, and
+accountants, performing personal services as sole proprietors or partners, are independent
+personal services, whereas the income earned by the employees of such persons, or as an officer
+of a corporation, is considered to be income from dependent personal services.
+Under this Article income derived by an individual who is a resident of one Contracting
+State from the performance of personal services in an independent capacity may be taxed by that
+Contracting State. Except as permitted by subparagraphs (a) and (b) of this Article, such income
+will be exempt from tax by the other Contracting State.
+Subparagraph (a) provides that income derived from services performed in the other
+Contracting State may also be subject to tax in that other Contracting State if the individual is
+present therein for a period or periods exceeding 183 days in the tax year, but only to the extent
+such income is attributable to services performed in that State. In addition, subparagraph (b)
+provides that income from personal services may be taxed in the other Contracting State if the
+individual has a fixed base regularly available to him for the purpose of performing his activities,
+but only to the extent such income is attributable to services performed in that State. The term
+fixed base is synonymous with the term "permanent establishment" as described in Article 5
+(Permanent Establishment).
+
+ARTICLE 15
+Dependent Personal Services
+This Article deals with the taxation of income in respect of dependent personal services.
+The Article is based on Article 15 (Dependent Personal Services) of the OECD Model
+Convention. Under paragraph (1), subject to Articles 18 (Pensions) and 19 (Government
+Service), salaries, wages and other similar remuneration derived by an individual who is a
+resident of one Contracting State from labor or personal services performed as an employee (of
+any person) shall be taxed only by that Contracting State unless that employment is exercised in
+the other Contracting State. Except as provided by paragraph (2), remuneration derived with
+respect to services performed within the other Contracting State may also be taxed by that other
+Contracting State. It is intended that for purposes of the Convention the term "salaries, wages
+and other similar remuneration" includes income from services performed as an officer of a
+corporation.
+Under paragraph (2), remuneration derived by an individual who is a resident of one
+Contracting State in respect of an employment exercised in the other Contracting State will be
+exempt from tax by the other Contracting State if:
+(a) the individual is present in that other Contracting State for a period or periods
+aggregating less than 183 days in the taxable year;
+(b) the employee's remuneration is paid by or on behalf of an employer who is not
+a resident of that other Contracting State; and
+(c) the remuneration is not borne as such by a permanent establishment or fixed
+base which the employer has in that other Contracting State.
+
+Such income may nevertheless be taxed by that other Contracting State if the individual is a
+citizen or resident of that Contracting State, pursuant to the saving clause of paragraph (3) of
+Article 1 (Personal Scope).
+In the United States, remuneration from the performance of dependent services will be
+viewed as not having been borne by the permanent establishment or fixed base maintained in the
+United States if the employee is performing stewardship or overseeing functions for the benefit
+of a resident of or a permanent establishment maintained in the United Kingdom. However, the
+remuneration will be considered to be borne by the permanent establishment or fixed base
+maintained in the United States if the remuneration is paid for activities other than stewardship
+or overseeing functions and the permanent establishment or fixed base is entitled to claim the
+employee's remuneration as a deduction in computing taxable income for United States purposes
+because the remuneration is definitely related and allocable to its gross income or a class of its
+gross income pursuant to Code section 861 and the regulations thereunder.
+Paragraph (3) provides that, notwithstanding paragraphs (1) and (2) of this Article,
+remuneration derived by an individual employee in respect of an employment as a member of the
+regular complement of a ship or aircraft in international traffic may be taxed by the Contracting
+State of which the employer operating the ship or aircraft is a resident.
+
+ARTICLE 16
+Investment or Holding Companies
+This Article provides that a corporation which is a resident of one Contracting State and
+which derives dividends, interest or royalties arising within the other Contracting State shall not
+be entitled to claim the benefits of Articles 10 (Dividends), 11 (Interest), or 12 (Royalties), if the
+tax imposed by the first-mentioned Contracting State with respect to such dividends, interest or
+royalties is substantially less than the tax generally imposed by that State on corporate profits;
+and 25 percent or more of the capital of such corporation is owned directly or indirectly by
+persons who are not individual residents of the first-mentioned Contracting State and are not
+nationals of the United States.
+This Article also provides that a corporation which is a resident of the United States and
+which derives dividends, interest or royalties arising in the United Kingdom shall not be entitled
+to the benefits of Articles 10 (Dividends), 11 (Interest), or 12 (Royalties) where more than 80
+percent of its gross income (including such dividends, interest, or royalties) is derived from
+sources outside of the United States as determined by and for the purposes of Code Sections
+861(a)(1)(B) and 861(a)(2)(A), and as they may be amended from time to time without changing
+their general principles. This limitation applies only if 25 percent or more of the capital of the
+corporation is owned directly or indirectly by persons who are not individual residents of the
+United States or nationals of the United States.
+Paragraph (2) provides that nothing in this Article will prevent a claim under the
+provisions of Articles 10 (Dividends), 11 (Interest) or 12 (Royalties) by a United States
+corporation; if 75 percent or more of the capital of that corporation is directly or indirectly
+
+owned:
+(a) by another United States corporation which receives 20 percent or more of its
+gross income from sources within the United States as determined by and for the period
+described in sections 861(a)(1)(B) and (a)(2)(A) of the Code, as they may be amended
+from time to time so as not to affect their general principle; or
+(b) by a corporation other than a United States corporation which would not be
+treated as a close company under section 283 of the United Kingdom Income and
+Corporation Taxes Act of 1970 (as may be amended without changing the general
+principle thereof); or
+(c) by a corporation, resident in the United Kingdom, more than 50 percent of the
+voting power of which is controlled directly or indirectly by individuals who are residents
+of the United Kingdom.
+The purposes of this Article are, first, to prevent the potential abuse of the Convention
+which would occur if residents of a third country could take advantage of the reduced rates of
+withholding provided by this treaty in situations where one of the Contracting States provided
+preferential rates of tax for investment or holding companies deriving foreign source income. In
+the absence of this Article, residents of a third country could organize a corporation in the
+Contracting State extending the preferential rates for the purpose of making investments in the
+other Contracting State. The combination of low tax rates in the first Contracting State and the
+reduced rates or exemptions in the other Contracting State would enable the third country
+residents to realize unintended benefits.
+The Article is also intended to prevent the use of United States corporations by residents
+of third countries to take advantage of the reduced rates of tax or exemptions from tax granted by
+the United Kingdom on dividends, interest and royalties paid to residents (including
+corporations) of the United States. Generally, under sections 861(a)(1)(B) and 861(a)(2)(A) of
+the Code, interest and dividends paid by U.S. corporation to non-residents of the United States
+are not subject to tax by the United States if more than 80 percent of the corporation's gross
+income is from sources outside the United States. Accordingly, were it not for this provision, a
+resident of a third country could establish a United States corporation solely to derive interest or
+dividends from the United Kingdom subject to the reduced rates and refunds allowed by the
+Convention. While such income would be subject to normal corporate taxes in the United States,
+the corporation's dividends or interest to the third country residents would be exempt from U.S.
+withholding taxes if the conditions of Code sections 861(a)(1)(B) and (a)(2)(A) are met. The
+Article prevents this abuse where the above mentioned share-ownership requirements apply.
+Since the purpose of this provision is only to prevent the use of United States corporations in
+cases where their income would otherwise qualify for reduced withholding rates in the United
+Kingdom and their distributions to third country residents would not attract United States
+withholding taxes, exceptions to the rule are given where that corporation is owned by another
+United States corporation whose distributions would attract United States withholding taxes;
+where that corporation is owned by a corporation which is not a close company under United
+Kingdom law; and where that corporation is owned by a corporation resident in the United
+Kingdom 50 percent or more of the voting power of which is controlled by United Kingdom
+resident individuals.
+
+ARTICLE 17
+Artistes and Athletes
+This Article deals with the taxation of income derived by entertainers, musicians, and
+athletes (sometimes referred to hereinafter as "artistes and athletes") in respect of the
+performance of services in a Contracting State. The Article applies in cases where an artiste or
+athlete performs services on his own behalf and in cases where services are performed on behalf
+of another person, as an employee or pursuant to any other arrangement.
+Paragraph (1) states the general rule that notwithstanding the provisions of Article 14
+(Independent Personal Services) and Article 15 (Dependent Personal Services), income derived
+by entertainers such as theatre, motion picture, radio, or television artistes, and musicians or
+athletes, for their personal activities as such, may be taxed in the Contracting State where those
+services are exercised. Such income, however, is taxable under this Article only where the gross
+receipts derived by the artiste or athlete, including expenses reimbursed to him or borne on his
+behalf, in respect of such activities, exceed $15,000 or its equivalent in pounds sterling for the
+tax year concerned. In computing the $15,000 limitation, expenses borne on behalf of the
+entertainer include any expenditures for travel, meals and lodging, payments to persons such as
+band members or agents, and other amounts which are generally related to the activities of the
+artiste or athlete. This rule includes expenses borne by persons in the Contracting State where
+services are performed or borne by persons in the other or any third State if borne on behalf of
+the artiste or athlete. If the total of these expenses, including the amounts paid to the artiste or
+athlete, exceed $15,000, the entire amount is taxable in the State where the activities are
+performed. For example, where an entertainer's gross income, including reimbursed expenses
+and expenses borne on his behalf, totals $20,000, the full $20,000 is subject to tax in the State
+where the services are performed.
+Also, in computing the $15,000 limitation, amounts paid in taxable years prior or
+subsequent to the year in which the services were performed shall be included in the
+determination of the amount of income attributable to the year in which the services were
+performed.
+As noted above, this paragraph overrides the provisions of Articles 14 and 15, so that an
+artiste or athlete may be taxed in the State where his activities take place regardless of the period
+of time he is present in that State. Generally, however, income derived from services rendered by
+producers, directors, technicians and others who are not artistes and athletes is taxable in
+accordance with the provisions of Article 14 (Independent Personal Services), or Article 15
+(Dependent Personal Services), as the case may be.
+Paragraph (2) deals with cases where income in respect of the activities of an entertainer
+or athlete accrues to a person other than, or in addition to, the entertainer or athlete. A common
+method employed by foreign entertainers is to perform services in the United States as an
+employee of, or a contractor for, a corporation or other person. That person may act as the
+nominal recipient of the income in respect of the entertainer’s services and the entertainer may
+act as its "employee" or "contractor." In such cases, the corporation may escape taxation in
+
+respect of those services under the provisions of Article 7 (Business Profits) because it does not
+have a permanent establishment in the United States described in Article 5 (Permanent
+Establishment). The entertainer may also escape taxation by being paid a small salary while in
+the United States and by receiving payment in a later year when the income is subject to reduced
+rates of tax or no tax at all, or by liquidating the corporation after the services are performed.
+Paragraph (2) is designed to deal with these situations by providing that where income in
+respect of the personal activities of an artiste or athlete accrues to the benefit of another person
+(including a corporation, trust, or partnership of either Contracting State or any third State), that
+income may, notwithstanding the provisions of Article 7 (Business Profits), 14 (Independent
+Personal Services), and 15 (Dependent Personal Services), be taxed in the Contracting State in
+which the activities of the entertainer or athlete take place. Thus, for example, such other person
+could not claim the permanent establishment protection provided by Articles 5 (Permanent
+Establishment) and 7 (Business Profits).
+For purposes of paragraph (2), income is considered to accrue to the benefit of another
+person where that other person has control over or the right to gross income derived in respect of
+an entertainer or athlete's services as such. This rule applies regardless of whether the other
+person is a "sham" corporation or conduit. Income will not, however, be deemed to accrue to the
+benefit of another person where it is established to the satisfaction of the competent authority of
+the Contracting State in which the services are performed that neither the entertainer or athlete,
+nor persons related thereto, participate directly or indirectly in the profits of such other person, in
+any manner, including the receipt of deferred compensation, bonuses, fees, dividends,
+partnership distributions or other distributions. Persons may be considered to be related to the
+artiste or athlete regardless of whether the persons are considered to be related under the
+provisions of paragraph (5) of Article 9 (Related Enterprises). For this purpose, a person may be
+considered to be related to the artiste or athlete if he is an employee or agent of the artiste or
+athlete, or if he is regularly employed by the artiste or athlete in an advisory capacity, such as his
+attorney, accountant, or investment advisor.
+This section is similar to provisions in other recent Conventions of the United States with
+Japan, Trinidad and Tobago, and Iceland, and follows Article 17 (Artistes and Athletes) of the
+OECD Model Convention. It differs from the 1945 Convention, which under Article XI exempts
+an entertainer or athlete from United States tax where he:
+(a) is present in the United States for a period or periods not exceeding 183 days
+of a taxable year and
+(b) services are performed for or on behalf of a person who is a resident of the
+United Kingdom.
+The application of this section and Article III, regarding the industrial or commercial profits of
+an enterprise furnishing the services of an entertainer, was discussed in detail in Revenue
+Rulings 74-330 and 74-331. Both rulings considered cases where the services of foreign
+entertainers were "loaned" to United Kingdom corporations in order to benefit from the
+provisions of the 1945 Convention and to thereby avoid any taxation of the income derived in
+respect of their activities in the United States.
+
+ARTICLE 18
+Pensions
+Paragraph (1) provides that, subject to the provisions of paragraph (2) of Article 19
+(Government Service), pension payments received in consideration of past employment and
+annuity payments paid to an individual who is a resident of a Contracting State shall be taxable
+only in that State. The term "pension" includes payments from qualified retirement plans as well
+as other forms of retirement benefits paid for services rendered, or by way of compensation for
+injuries or sickness incurred in connection with past employment. A pension does not include
+payments in respect of the cancellation or premature termination of employment contracts (e.g.,
+"golden handshakes" or severance pay). Such payments are taxable under the provisions of
+Articles 14 (Independent Personal Services), 15 (Dependent Personal Services), or 17 (Artistes
+and Athletes), as the case may be.
+Payments which are not covered by any other Article of this Convention (e.g., Article 14
+(Independent Personal Services), 15 (Dependent Personal Services), 17 (Artistes and Athletes),
+or 19 (Government Service) ), are taxable in accordance with Article 22 (Other Income) in the
+recipient's State of residence.
+For purposes of this Article, the term "pension" does not include social security payments
+and other public pensions, e.g., railroad retirement benefits. Such items are taxable pursuant to
+Article 22 (Other Income).
+Paragraph (2) provides that alimony paid to an individual who is a resident of a
+Contracting State is taxable only in that State. The term "alimony" is not defined, but with
+respect to the United States, means periodic payments made pursuant to a decree of divorce,
+separate maintenance agreement, or support or separation agreement which is taxable to the
+recipient under the internal laws of the United States. Thus, for the United States, the term
+"alimony" would not include a payment which would not be taxable to the recipient even though
+such payment is made pursuant to a decree of divorce or of separate maintenance agreement.
+Payments for child support within the meaning of the Code are not covered by this Article and
+are, accordingly, taxable in the State where the recipient resides under Article 22 (Other
+Income). In the case of the United States, under present law, a recipient of child support is not
+taxable on such payments.
+Paragraph (3) defines the term "annuity" to mean a stated sum payable periodically at
+stated times, during life or during a specified or ascertainable period of time, under an obligation
+to make the payments in return for adequate and full consideration in money or money's worth.
+This Article is subject to the saving clause of paragraph (3) of Article 1 (Personal Scope).
+Thus, individuals who are nationals of a Contracting State may be taxed by that Contracting
+State without regard to this Article.
+
+ARTICLE 19
+
+Government Service
+This Article generally follows Article 19 (Government Service) of the OECD Model
+Convention and is similar to Article X of the 1945 Convention.
+Paragraph (1)(a) provides that remuneration, other than a pension, paid by a Contracting
+State to an individual for services rendered to that State will be taxable only in that State. This
+paragraph only applies to individuals who are employees of a Contracting State, and not to
+employees of a political subdivision or local authority of a Contracting State. Under paragraph
+(1)(b), such remuneration will be taxable only in the State in which the services are being
+performed if the recipient is a resident of that State and either is a national of that State or did not
+become a resident of that State solely for the purpose of performing the services.
+Under paragraph (2)(a), any pension paid by a Contracting State or a political subdivision
+or a local authority thereof to any individual in respect of services rendered to that State or
+subdivision or local authority thereof will be taxable only in that State. An exception similar to
+the one contained in paragraph (1)(b) is incorporated in paragraph (2)(b) with respect to
+pensions. That paragraph provides that a pension described in paragraph (2)(a) will be taxable
+only in the other Contracting State if the recipient is both a national of and a resident of that
+State.
+Paragraphs (1) and (2) do not apply if the services are rendered in connection with any
+business carried on by or on behalf of one of the Contracting States or one of its political
+subdivisions, or local authorities paying the remuneration. In such cases, the provisions of
+Articles 14 (Independent Personal Services), 15 (Dependent Personal Services), 17 (Artistes and
+Athletes), and 18 (Pensions), as the case may be, shall apply.
+If an individual acquires immigrant status in the State in which he performs the services
+or receives the pension, that Contracting State may tax the individual without regard to this
+Article. See paragraphs (3) and (4)(b) of Article 1 (Personal Scope).
+
+ARTICLE 20
+Teachers
+Paragraph (1) provides that a professor or teacher who visits one of the Contracting States
+for a period not exceeding two years, for the purpose of teaching or engaging in research at a
+university, college, or other recognized educational institution in that Contracting State, and who
+was immediately before that visit a resident of that other Contracting State, will be exempted
+from tax by the first-mentioned Contracting State on any remuneration for such teaching or
+research for a period not exceeding two years from the date he first visits that State for the
+purpose of teaching or engaging in research. Since this two year period is determined from the
+date he first visits the Contracting State, periodic vacations outside the first-mentioned
+Contracting State, or a brief return to the other Contracting State will not toll the running of the
+two-year period. Unlike the existing Convention, if the two-year period beginning from the date
+of his arrival is exceeded, the exemption will be lost retroactively. Thus, if a person comes to a
+
+Contracting State for the purpose of teaching and stays for a period in excess of two years, the
+exemption will not apply for the first two years. A person who meets the qualifications of this
+provision may again claim its benefits if he first reestablishes his residence in the other
+Contracting State. In such case, the person claiming these benefits on a subsequent occasion
+must first satisfy the competent authority of the first-mentioned Contracting State that he had
+become a bona fide resident of the other State for a substantial period of time (normally at least
+one year).
+Under paragraph (2), the Contracting State in which the teaching or research is performed
+may apply this exemption either to current payments to a professor or teacher in anticipation of
+fulfillment of the requirements of paragraph (1) or by way of withholding and refund. Thus, the
+recipient may be required to report and pay taxes on such income on a current basis and seek a
+refund of taxes paid upon fulfillment of the requirements of paragraph (1).
+If an individual becomes a national of, or acquires immigrant status in, the State where he
+is visiting, that other Contracting State may tax the individual without regard to this Article. See
+paragraphs (3) and (4) (b) of Article 1 (Personal Scope).
+Pursuant to paragraph (3), this Article only applies to income from research undertaken in
+the public interest which is not primarily for the benefit of a private person or persons. For
+example, research projects which are undertaken to discover or perfect product processes,
+designs, etc., which are expected to be commercially exploited by the researcher or his present
+(or former) employer do not qualify under this Article.
+
+ARTICLE 21
+Students and Trainees
+This Article corresponds generally to Article XIX of the 1945 Convention and Article 20
+(Students) of the OECD Model Convention. Under this Article, payments which a student or
+business apprentice, who immediately before Visiting a Contracting State was a resident of the
+other Contracting State receives for his maintenance, education or training, will not be taxed in
+the first-mentioned State if the recipient of the payments is engaged in a full-time education or
+training program and the payments are made from sources outside the State in which the
+education or training takes place. Payments will be considered to have been made from sources
+outside a State when they are borne by a person who is not a resident (as defined in Article 4
+(Fiscal Residence)) of the Contracting State in which the education or training takes place. Like
+other articles referred to in paragraph 4(b) of Article 1, this Article will not apply to payments to
+students or business apprentices who are nationals of or residents with immigrant status in the
+first-mentioned Contracting State.
+
+ARTICLE 22
+Other Income
+This Article follows Article 21 (Other Income) of the OECD Model Convention. It
+
+contains the general rule that income of a resident of a Contracting State, from any source, which
+is not dealt with by any specific Article in the Convention, shall be taxable only in that person's
+State of residence. This is the first United States tax convention to follow this rule. The scope of
+this Article is not confined to income having a source in the other Contracting State, but applies
+to a resident's income from sources in third countries. Moreover, this rule applies irrespective of
+whether the State of residence exercises its right to tax the income covered by this Article.
+Specific items of income not dealt with by other Articles of this Convention include child
+support payments, prizes or awards, and social security payments. These items are subject to the
+provisions of this Article and are taxable only in the State of residence.
+This Article also makes it clear that the United Kingdom may continue to impose its tax
+on discretionary and accumulation trusts. United Kingdom law currently provides that
+discretionary and accumulation trusts are subject to the basic rate of income tax (35 percent) and
+to an additional tax of 15 percent. Trustees are eligible to claim double taxation relief in the
+respect of foreign tax paid on the income. Under United Kingdom law a distribution of income
+from a discretionary or accumulation trust is treated in the hands of the beneficiary as a payment
+from which tax has been deducted at the aggregate of the two rates (35 and 15) in force for the
+year of payment. That is, the distribution is grossed-up by 100 percent and the amount of the
+gross-up is treated as tax paid by, and creditable to, the distributee in the year of distribution.
+Under paragraph (1) of Article 22 (Other Income) and paragraph (3) of Article 25
+(Mutual Agreement Procedure), the United Kingdom will continue to impose its taxes on
+discretionary and accumulation trusts and will not be obligated to refund these taxes at the time
+of distributions to United States residents. However, to give double taxation relief, the United
+Kingdom will treat a United States person taxable on the income as if he were entitled to receive
+the income of the trust directly. Thus, the beneficiary will be given the benefit of relief
+provisions in United Kingdom domestic law (e.g., government securities held by non-residents).
+Additionally, any income covered by the Convention, such as dividends and interest, will receive
+the benefits of the Convention to the extent that the payments from the trust are made out of this
+income.
+This Article is subject to the saving clause provisions of paragraph (3) of Article 1
+(Personal Scope).
+This Article does not apply if the resident deriving the income carries on business in the
+other Contracting State through a permanent establishment situated therein or performs
+independent personal services from a fixed base therein, and the right or property in respect of
+which the income is paid is effectively connected with such permanent establishment or fixed
+base. In such cases, the provisions of Articles 7 (Business Profits), 14 (Independent Personal
+Services), or 17 (Artistes and Athletes) as the case may be, apply. As in the case of paragraph
+(1), this paragraph applies to income from all sources.
+It should be noted that the proposed Convention specifically covers most types of
+income.
+
+ARTICLE 23
+Elimination of Double Taxation
+In order to prevent the double taxation of income covered by this Convention, each
+Contracting State agrees in this Article to provide a credit against its taxes for taxes paid to the
+other Contracting State.
+Under paragraph (1), the United States agrees to allow a United States citizen or resident
+as a credit against United States tax the appropriate amount of taxes paid or accrued to the
+United Kingdom in accordance with the provisions and subject to the limitations of the law of
+the United States (as it may be amended from time to time without changing the general
+principle of paragraph (1)). In addition, in the case of a United States corporation owning at least
+ten percent of the voting stock of a United Kingdom corporation from which it receives
+dividends in any taxable year, the United States will allow credit for the appropriate amount of
+taxes paid or accrued to the United Kingdom by the United Kingdom corporation paying such
+dividends with respect to the profits out of which such dividends are paid. The rules for
+calculating the appropriate amount of taxes creditable in such a case are set forth below.
+However, the amount of tax credit is not to exceed the limitations (for the purpose of limiting the
+credit to the United States tax on income from sources within the United Kingdom or on income
+from sources outside of the United States) provided by United States law for the taxable year.
+This provision does not require the United States to maintain a per-country or overall limitation
+in the future so long as the general principle of a foreign tax credit remains in effect.
+For the purpose of applying the United States credit in relation to taxes paid to the United
+Kingdom, the taxes referred to in paragraphs (2)(b) and (3) of Article 2 (Taxes Covered) shall be
+considered to be income taxes. In the case of dual-resident corporations described by paragraph
+(2) of Article 1 (Personal Scope), the United Kingdom petroleum revenue tax and the unrefunded
+portion of the ACT referred to in paragraph (1)(c) of this Article shall be regarded as an income
+tax for purposes of this Article. (See paragraph (2) of Article 1 (Personal Scope).) Any other
+taxes imposed by the United Kingdom on such corporation shall be treated as income taxes for
+purposes of the United States tax credit only in accordance with the laws of the United States.
+Under paragraphs (2)(a)(i) and (2)(a)(ii) of Article 10 (Dividends), the United Kingdom
+allows residents of the United States certain tax credits or refunds in respect of dividends paid by
+a corporation which is a resident of the United Kingdom, subject to taxes withheld of 5 or 15
+percent on the aggregate amounts received as dividends and tax credits. Subparagraph (1)(b) of
+this Article provides that the amounts withheld (5 or 15 percent) by the United Kingdom
+pursuant to paragraph 2 (a)(i) or (ii) of Article 10 (Dividends) from the refund paid to residents
+of the United States shall be regarded as an income tax imposed on the recipient of the dividend.
+Thus, the United States foreign tax credit with respect to those amounts shall be computed in
+accordance with Code section 901.
+In the case of tax credits allowed to corporate shareholders of a corporation which is a
+resident of the United Kingdom pursuant to subparagraph (2)(a)(i) of Article 10, only one-half of
+the credit otherwise paid to individual shareholders is paid to those corporate shareholders.
+Subparagraph (1)(c) of this Article provides that the portion of the credit not paid to these
+
+corporate shareholders, i.e., one-half of the ACT paid in respect of the distribution, shall be
+treated as an income tax imposed on the corporation paying the dividend.
+In the United Kingdom tax system, ACT serves a dual function. To the extent that it
+offsets the United Kingdom corporate income tax imposed without regard to distributions
+(hereinafter referred to as "mainstream tax"), it is analogous to a payment of regular corporate
+income tax. To the extent that it does not offset main-stream tax, it is more analogous to a tax
+imposed on distributions which are income to the shareholders.
+To reflect this hybrid nature of ACT, ACT which offsets mainstream tax will be
+attributed to the earnings of the year in which it offsets such tax and treated as if it were regular
+corporate tax. ACT which does not offset mainstream tax will generally be attributed to the
+accumulated profits of the year of distribution.
+In order that the derivative foreign tax credit be computed as intended under the
+Convention, corporate shareholders receiving the benefits of subparagraph 2 (a)(i) of Article 10
+(Dividends) must apply the following rules:
+1. ACT paid with respect to a distribution shall be treated as attributable to the
+accumulated profits (determined under U.S. principles) of the year of distribution, except in two
+circumstances:
+(a) to the extent the ACT reduces mainstream tax for a prior or subsequent year
+(see Example 4 below); and
+(b) if, after attribution of ACT which does not reduce mainstream tax,
+accumulated profits would not exceed corporate taxes for the year (see Example 5
+below).
+ACT which reduces mainstream tax in any year or years shall be attributable to any
+accumulated profits of the year or years for which the mainstream tax is reduced. Where ACT is
+used to offset mainstream tax, the offset will be viewed as a refund of the ACT initially allowed
+as a credit and as a tax paid in respect of the year for which the ACT is applied as an offset.
+Consequently, a reduction in the foreign tax credit for the year from which the ACT is carried
+must be made in accordance with section 905(c) of the Code.
+Mainstream tax will be considered offset first by ACT incurred with respect to the current
+distribution. Additional offset will be considered to be attributable to ACT incurred in the
+earliest year from which the ACT can be carried.
+Where attribution to a year of ACT which does not offset mainstream tax leaves no
+accumulated profits for that year, the more exact attribution method set forth in Example 5
+should be used.
+2. A distribution in respect of which the ACT paid reduces mainstream tax for the current
+taxable year may be treated by the Internal Revenue Service as made first out of the entire profits
+of that year (computed as of the close of the year). This rule, which applies regardless of whether
+the distribution is made in the first 60 days of the taxable year, will be applied where necessary
+
+to prevent crediting of a prior year's mainstream tax unreduced by ACT, while at the same time
+using such ACT to reduce the current year's mainstream tax.
+3. Where a United States corporation owns less than all the stock of a corporation
+resident in the United Kingdom, the derivative tax credit will be calculated with reference solely
+to the proportionate interest in accumulated profits attributable to the United States shareholder.
+Thus, for example, the ratio which the distribution to the United States shareholder bears to
+accumulated profits in excess of income taxes, as well as the amount of mainstream tax and ACT
+paid with respect thereto, will be calculated as if the United States shareholder's proportionate
+interest in the accumulated profits were the entire accumulated profits of a corporation of which
+it was the sole owner. The amount of foreign tax credit will not vary according to either
+(1) the status of any other shareholder; or
+(2) the imposition or refund of ACT with respect to a distribution to any other
+shareholder.
+In the case of dividends paid by a United Kingdom corporation wholly owned by a
+United States parent corporation, the determination of the appropriate amount of creditable taxes
+is illustrated by the following examples:
+Example 1.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+11.
+12.
+13.
+14.
+15.
+16.
+
+A United Kingdom resident corporation wholly owned by a United States parent
+corporation has $100 of pre-tax earnings in year 1 and pays a dividend equal to 50
+percent of the amount available for distribution in year 1.
+
+Accumulated profits-----------------------------------------------$100.00
+British mainstream tax at 52% rate------------------------------- 52.00
+Available for distribution------------------------------------------- 48.00
+Distribution---------------------------------------------------------- 24.00
+ACT with respect to distribution before refund------------------ 12.92
+Net mainstream tax, reduced by ACT*--------------------------- 39.08
+Refund of one-half ACT pursuant to
+paragraph (2)(a)(i) of Article 10-----------------------------------106.46
+Unrefunded one-half of ACT treated as corporate tax
+pursuant to paragraph (1)(c) of Article 23------------------------- 6.46
+Total corporate tax (39.08 mainstream plus
+6.46 unrefunded ACT) -----------------------------------------------45.54
+Total dividend received before withholding tax
+(24.00 declared plus 6.46 refund treated as dividend
+pursuant to paragraph (1)(a)(iii) of Article 10----------------------30.46
+Accumulated profits in excess of British
+corporate taxes (100 - 45.54)----------------------------------------- 54.46
+Derivative tax credit (30.46 / 54.46) x 45.54----------------------- 25.47
+British withholding tax (5 percent of total dividend of 30.46)---- 1.52
+Total foreign tax credit-------------------------------------------------26.99
+Taxable income (30.46 dividend plus 25.47
+“gross-up” of derivative tax credit)---------------------------------- 55.93
+United States tax before credit (48% of 55.93)---------------------26.85
+
+17.
+
+Amount by which foreign tax credit exceeds U.S. tax---------------0.14
+
+* It is assumed in this example, as is generally the case, that ACT is fully credited against
+mainstream tax.
+Example 2.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+8.
+9.
+10.
+11.
+
+Assume the same facts as in the previous example, except that in year two the
+British corporation makes a distribution out of what, under United States tax law
+principles, are the remaining $24.00 of earnings from year one. Assume further
+that there are no earnings in year two for United Kingdom purposes, and that the
+ACT with respect to the distribution is carried back and credited against
+mainstream tax of year one.
+
+Distribution in year two------------------------------------------------- $ 24.00
+ACT----------------------------------------------------------------------12.92
+Reduction in mainstream tax for year one----------------------------12.92
+Net mainstream tax for year one, reduced by ACT------------------26.16
+Refund of one-half ACT------------------------------------------------6.46
+Unrefunded ACT--------------------------------------------------------6.46
+Total corporate tax (26.16 mainstream + 6.46 unrefunded
+ACT in respect of distribution in year one + 6.46
+unrefunded ACT in respect of distribution in year two)-------------39.08
+Total dividend received before withholding tax------------------------ 30.46
+Accumulated profits in excess of British corporate taxes (100-39.08) 60.92
+Derivative tax credit (30.46 / 60.92) x 39.08-------------------------19.54
+Taxable income (30.46 dividend plus 19.54 “gross up”
+of derivative tax credit)--------------------------------------------------50.00
+
+It should be noted that the total taxable income in respect of the two distributions is
+$105.93 ($55.93 + $50), which is $5.93 more than the accumulated profits of $100; and the total
+derivative tax credit is $45.01, which is $5.93 more than the corporate tax of $39.08. The
+disparity occurs for two reasons: first, that the Convention treats refunded ACT as a dividend,
+but does not treat ACT that is potentially refundable as profits out of which future dividends can
+be paid * ; and second, that $6.46 of the $45.54 mainstream tax considered paid in respect of the
+accumulated profits in Example 1 is subsequently refunded.
+*If that were done, the fraction for computing the derivative tax credit in respect of the
+distribution in Example I would be (30.46 /54.46 + 6.46 potentially refundable ACT) or (30.46 /
+60.92) x taxes paid.
+The above result is considered appropriate in order to ensure that, with reference to a 50
+percent distribution, the British refund substantially benefits the United States shareholder. An
+adjustment is necessary, however, when tax which has been taken into account in computing
+derivative foreign tax credit in respect of a prior distribution - of whatever percentage of the
+accumulated profits - is refunded in the form of ACT. The refunded ACT must, with respect to
+such distribution, both
+(a) increase accumulated profits in excess of income taxes, and
+
+(b) decrease taxes paid in respect of accumulated profits.
+By reason of the $6.46 refund of ACT in Example 2, therefore, the derivative foreign tax
+credit in Example 1 must be recalculated as follows:.
+1. Calculation before adjustment (see (12) of Example 1) (30.46 / 54.46) x 45.54
+2. Addition of $6.46 to accumulated profits in excess of income taxes (30.46 / 60.92)
+3. Subtraction of $6.46 from taxes paid ($45.54 - 6.46) = $39.08
+4. Derivative foreign tax credit (30.46 / 60.92) x 39.08 = $19.54
+The adjusted result in Example 1 is the same as in Example 2. Both the taxable income
+and tax credit in respect of the prior distribution will therefore be decreased by $5.93, in
+accordance with section 905(c) of the Internal Revenue Code.
+The determination of the appropriate amount of creditable taxes in the case of dividends
+paid by a less-than-wholly-owned United Kingdom corporation is illustrated by the following
+example:
+Example 3.
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+A United Kingdom resident corporation, W, is owned by U.S. corporation X
+(25%), U.K. corporation Y (60%), corporation Z (10%), and individual A (5%). W
+has $400 of pre-tax earnings in year 1 and pays a dividend of 50 percent of the
+amount available for distribution in year 1. Z is organized in country M and has no
+right to receive a refund of ACT from the United Kingdom. A, a United Kingdom
+resident, receives a tax credit equal to the entire ACT imposed, and Y makes an
+election under U.K. law to eliminate ACT with respect to distributions to itself.
+
+Accumulated profits----------------------------------------------------- $400.00
+Mainstream tax imposed at a 52% rate-------------------------------208.00
+Available for distribution------------------------------------------------ 192.00
+Total distribution--------------------------------------------------------96.00
+Portion of accumulated profits attributable to X's
+shareholding - 25%------------------------------------------------------100.00
+Determination of X's United States foreign tax credit:
+A.
+Accumulated profits--------------------------------------------100.00
+B.
+British mainstream tax at 52% rate---------------------------52.00
+C.
+Available for distribution--------------------------------------48.00
+D.
+Distribution to U.S. corporation X---------------------------24.00
+E.
+For remainder of computation see Example 1
+
+In the above examples it has been assumed that the earnings and profits used in
+calculating the indirect tax credit for United States tax purposes approximate the earnings and
+profits of the United Kingdom corporation as computed in the United Kingdom for United
+Kingdom tax purposes. This assumption, of course, is not always valid and there will be
+situations where the earnings and profits differ for United Kingdom and United States tax
+purposes. Accordingly, it will be necessary for United States shareholders to maintain separate
+records to reflect these differences. Such records must currently be maintained by United States
+shareholders of foreign corporations where the amount of earnings and profits of that corporation
+
+differ under the rules of the respective countries. Separate records will be especially important
+where United States shareholders do not own all of the shares of a United Kingdom corporation.
+Quite often the shares of a United Kingdom corporation are owned by both United States and
+foreign shareholders. In these cases. the payment of an ACT credit to the United States
+shareholders will require a separate computation of earnings and profits for United States tax
+purposes which reflects that shareholder's proportionate interest in the corporation.
+Example 4.
+
+1.
+2.
+3.
+
+A United Kingdom resident corporation is wholly owned by a U.S. corporation.
+The accumulated profits (according to United States standards), taxable profits
+(according to United Kingdom standards), and distributions of the subsidiary are
+as follows:
+
+Accumulated profits----------------Taxable profits----------------------Distribution---------------------------
+
+Year 1
+$120
+0
+0
+
+Year 2
+$100
+50
+26
+
+Year 3
+$100
+50
+130
+
+With respect to year 1, the U.S. parent corporation has no taxable income for U.S.
+purposes, no U.S. tax, and no foreign tax credit.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+
+As of the end of year 2, the year 2 taxes of the parent are calculated as follows:
+Accumulated profits----------------------------------------------------- $100.00
+U.K. taxable profits-----------------------------------------------------50.00
+British mainstream tax at 52% rate-----------------------------------26.00
+Distributions-------------------------------------------------------------26.00
+ACT with respect to distribution before refund----------------------14.00
+Net mainstream tax, reduced by ACT---------------------------------12.00
+Refund of one-half of ACT---------------------------------------------7.00
+Unrefunded one-half of ACT-------------------------------------------7.00
+Total corporate rate ($12.00 plus $7.00)------------------------------19.00
+Total dividend received before withholding tax ($26.00 plus $7.00)- 33.00
+Accumulated profits in excess of
+British corporate taxes ($100 minus $19)-----------------------------81.00
+Derivative tax credit (33 / 81) x 19------------------------------------7.74
+British withholding tax (5% of $33.00)--------------------------------1.65
+Total foreign tax credit ($7.74 + $1.65)-------------------------------9.39
+Taxable income ($33.00 + $7.74)--------------------------------------40.74
+United States tax before credit (48% of $40.74)---------------------19.56
+United States tax after credit ($19.56 minus $9.39)-----------------10.17
+As of the end of year 3, the year 3 taxes are calculated as follows:
+
+1.
+2.
+3.
+
+Year 1
+Accumulated profits------------------ $120.00
+U.K. taxable profits------------------0Year 2 U.K. corporate tax
+
+Year 2
+$100.00
+50.00
+
+Year 3
+$100.00
+50.00
+
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+
+12.
+13.
+
+14.
+
+15.
+
+16.
+17.
+18.
+19.
+
+before year 3 ACT (line 9 above)-----Year 3 British mainstream tax at
+52% rate---------------------------------Year 3 ACT before adjustment-------Year 3 ACT offset to mainstream tax
+-0Year 3 ACT carried back and deemed
+mainstream tax--------------------------0Year 3 ACT refund before adjustment --Year 3 ACT refund carried back------0U.K. corporate tax after year 3
+ACT (sum of lines 3 through 10)-----0Accumulated profits in excess of
+British corporate taxes
+(line 1 minus line 10)------------------- 120.00
+Year 2 dividend------------------------—
+Accumulated profits available for
+distribution in year 3
+(line 11 minus line 12)------------------ 120.00
+Year 3 dividend before § 78
+gross up (130 + 35 ACT refund)-----—
+a. From year 3 accumulated
+profits (line 13)----------------—
+b. From year 2 accumulated
+profits (line 13)---------------—
+c. From year 1 accumulated
+profits (balance)----------------Year 3 foreign tax credit
+a. British withholding tax
+(5% of 165)---------------------b. Year 3 derivative tax
+credit (from line 10)------------c. Year 2 derivative tax credit
+(49.75/82.75) x 17.25----------Taxable income
+(165 + 41.75 + 10.37)------------------United States tax before credit
+(48% of 217.12)-----------------------—
+Total foreign tax credit
+(8.25 + 41.75 + 10.37)---------------—
+United States tax after credit
+(104.22 less 60.37)-------------------—
+
+19.00
+
+---
+
+----(3.50)*
+
+26.00
+70.00
+(17.50)*
+
+3.50
+--(1.75)
+
+(3.50)
+(35.00)
+1.75
+
+17.25
+
+41.75
+
+82.75
+33.00
+
+58.25
+---
+
+49.75
+
+58.25
+
+---
+
+165.00
+
+—
+
+58.25
+
+---
+
+49.75
+
+---
+
+57.00
+
+—
+
+8.25
+
+---
+
+41.75
+
+---
+
+10.37
+
+---
+
+217.12
+
+---
+
+104.22
+
+---
+
+60.37
+
+---
+
+43.85
+
+* Under U.K. rules, the maximum amount of ACT that can be credited against mainstream tax is
+35/52 of mainstream tax, and excess ACT is carried back two years, and then carried forward
+indefinitely. Thus, since $26 of mainstream tax was payable for each of years 2 and 3, the offset
+for ACT for each of years 2 and 3 cannot exceed $17.50 (26 x 35/52). For year 2, this means an
+
+increased offset of $3.50 (17.50 minus 14 previously offset).
+As of the end of year 3, the year 2 taxes are recalculated as follows:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Total dividend received before withholding tax---------British withholding tax (5% of 33)-----------------------Derivative tax credit (33 / (81+1.75)) x (19-1.75)------Taxable income (33 + 6.88)-------------------------------United States tax before credit (48% of 39.88)---------Total foreign tax credit (1.65 + 6.88)--------------------United States tax after credit (19.14 minus 8.53)-------United States tax previously paid-------------------------Additional United States tax due (10.61 minus 10.17)--
+
+Example 5.
+
+$33.00
+1.65
+6.88
+39.88
+19.14
+8.53
+10.61
+10.17
+.44
+
+This example, showing a more exact attribution of non-offset ACT, is to be used
+only if, after attribution of non-offset ACT, there are no accumulated profits in
+excess of British corporate tax.
+
+The facts are the same as in Example 4, except that the accumulated profits for year 3 are
+$30 rather than $100.
+The calculation of the year 2 taxes as of the end of year 2 is the same as in Example 4. As
+of the end of year 3, the year 3 taxes are calculated as follows:
+
+1.
+2.
+3.
+
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+
+Year 1
+Accumulated profits-------------$120.00
+Taxable profits--------------------0Year 2 U.K. corporate tax before
+year 3 ACT (line 9 of Example 4
+calculation of year 2 taxes as of the
+end of year 2)--------------------------Year 3 British mainstream tax
+at 52% rate----------------------------Year 3 Act before adjustments------Year 3 ACT offset to mainstream tax
+-0Year 3 ACT carried back and
+deemed mainstream-------------------0Year 3 ACT refund before adjustment --Year 3 ACT refund carried back------0U.K. corporate tax after
+year 3 ACT (sum of lines 3 through 9) -0Accumulated profits in excess of British
+corporate taxes (line 1 minus 10)------- 120.00
+
+Year 2
+$100.00
+50.00
+
+Year 3
+$ 30.00
+50.00
+
+19.00
+
+---
+
+----(3.50)
+
+26.00
+70.00
+(17.50)
+
+3.50
+--(1.75)
+
+(3.50)
+(35.00)
+1.75
+
+17.25
+
+41.75
+
+82.75
+
+(11.75)
+
+Since attribution of the non-offset ACT to year 3 eliminates any excess of accumulated
+profits over British corporate tax, the calculation must be redone, taking in account only offset
+
+ACT, and then attributing non-offset unrefunded ACT only the extent of $17.50* for every
+$82.50 of accumulated profits considered distributed (determined under U.S. rules before taking
+into account non-offset ACT).
+*$17.50 represents the amount of unrefunded ACT which would result from an actual
+distribution of $65 (one-half of $65 x 35 ) / 65. With an actual distribution of $65, the $17.50 of
+refunded ACT would be deemed distributed, thus increasing the total distribution to $82.50.
+In year 3, only $17.50 of ACT offset mainstream tax. One-half of this is refunded. In year
+3, therefore, U.K. corporate tax after the offset ACT is:26.00
+(17.50)
+8.75
+17.25
+Accumulated profits in excess of British corporate tax other than non-offset ACT is $30.00
+minus $17.25, or $12.75. Non-offset unrefunded ACT is $24.50. (70 - 17.50 - 3.50) / 2.
+In determining the maximum amount of $24.50 non-offset unrefunded ACT to be attributed to
+year 3, no ACT should be attributed to deemed distributions, since they do not incur ACT. Thus,
+of the $12.75, the $8.75 of refunded ACT attributable to the $17.50 offset is excluded from the
+amount to which unrefunded non-offset ACT is attributable. The maximum amount of non-offset
+unrefunded ACT attributed to the remaining $4.00 of accumulated profits in year 3 is $0.85. The
+$0.85 is calculated as (17.5 / 82.5) x 4.00.
+Thus, of the $12.75, $8.75 is deemed distributed as offset refunded ACT; $0.85 is nonoffset unrefunded ACT; $0.85 is non-offset refunded ACT deemed distributed; and $2.30 is the
+remaining actual distribution considered to have been made from year 3.
+In year 2, the accumulated profits available for distribution before adjustment for year
+three non-offset ACT are $49.75 (from line thirteen of Example 4 calculation of year 3 taxes). Of
+that amount, $1.75 is deemed distributed as offset refunded ACT. The non-offset unrefunded
+ACT attributable to the remaining $48.00 is $10.18 ($48.00 x 17.5) / 82.5. Thus, the
+accumulated profits available for actual distribution in year 2 are $27.64 ($49.75 less $1.75
+(deemed distribution)) less $10.18 (non-offset unrefunded ACT); and the U.K. corporate tax is
+27.43 ($17.25 + $10.18).
+A similar attribution procedure is followed in attributing ACT to distributions from year
+1.
+The carryback of non-offset unrefunded ACT is limited to two years, and there is no
+carryforward.
+Paragraph (2) of this Article parallels paragraph (1) with respect to the treatment of
+United States taxes paid by a resident of the United Kingdom. Under this paragraph, the United
+Kingdom will allow a resident of the United Kingdom as a credit against United Kingdom taxes
+paid to the United States in accordance with the provisions of the law of the United Kingdom for
+the allowance of credits for taxes to territories outside the United Kingdom (as it may be
+
+amended from time to time without changing the general principle of paragraph (2)). Such credit
+shall be allowed with respect to taxes payable in accordance with this Convention on profits or
+income from sources within the United States, as determined by subparagraph (3) of this Article
+(excluding, in the case of a dividend, tax payable in respect of the profits out of which the
+dividend is paid).
+In the case of a dividend paid by a United States corporation to a corporation which is a
+resident of the United Kingdom which controls directly or indirectly 10 percent or more of the
+voting power of that paying corporation, the United Kingdom shall also allow a credit for the
+appropriate amount of taxes paid or accrued to the United States by the United States corporation
+paying such dividends with respect to the profits out of which such dividends are paid.
+Paragraph (3) sets forth the source of income rules applicable for purposes of determining
+the allowance of tax credits under this Article. For purposes of the preceding paragraphs, income
+or profits derived by a resident of a Contracting State which are taxed in the other Contracting
+State in accordance with the Convention (other than by reason of the saving clause referred to
+below) shall be deemed to arise from sources within that other Contracting State. However,
+where a United States citizen is subject to tax in the United States by reason of his citizenship
+under the saving clause of paragraph (3) of Article 1 (Personal Scope), the United Kingdom will
+allow that person a tax credit for any United States tax paid with respect to income which under
+the internal laws of the United Kingdom has its source in the United States; and the United States
+will allow that person, subject to limitations of the Internal Revenue Code to claim a credit for
+taxes paid to the United Kingdom with respect to income which under the internal laws of the
+United States has its source in the United Kingdom. This paragraph has particular relevance with
+respect to a United States citizen who is a resident of the United Kingdom for purposes of this
+Convention (see Article 4 (Fiscal Residence)).
+In the case of third country income earned by a United States citizen who is a resident of
+the United Kingdom, (e.g., dividends from Germany), the United Kingdom is not required to
+allow a credit for United States taxes on that income. Double taxation of income may be avoided,
+however, under the overall method for computing foreign tax credits. In such case, the United
+States will allow under its internal law a credit for both the United Kingdom and third country
+taxes.
+Finally, paragraph (4) makes it clear that the credit allowed for taxes paid to the United
+Kingdom, especially the petroleum revenue tax, shall be subject to the tax credit limitations of
+the Tax Reduction Act of 1975 which apply to foreign oil and gas extraction income.
+
+ARTICLE 24
+Non-discrimination
+Paragraph (1) provides that individuals who are nationals of a Contracting State and who
+are residents of the other Contracting State will not be subjected in that other Contracting State to
+taxation or any other requirement connected therewith which is other or more burdensome than
+the taxation or requirements connected therewith to which nationals of that other Contracting
+State in the same circumstances are or may be subjected. Thus, for example, a national of the
+
+United Kingdom who is a resident of the United States and who meets the requirements specified
+in Code section 911 would, under this Article, be entitled to the benefits of that section even
+though he is not also a national of the United States. On the other hand, just as a United States
+citizen who becomes a non-resident alien at any time during a taxable year or whose spouse is a
+non-resident alien cannot in the absence of an election file a joint return for that year, a United
+Kingdom national would not be entitled to file a joint return with his spouse in the absence of
+such election if either is a non-resident alien at any time during the taxable year.
+Paragraph (2) provides that a permanent establishment which an enterprise of one
+Contracting State has in the other Contracting State will not be subject in that other Contracting
+State to less favorable taxation than an enterprise of that other Contracting State carrying on the
+same activities.
+Subject to the provisions of paragraph (4), discussed below, paragraph (3) provides that
+interest, royalties, and other disbursements paid by an enterprise of a Contracting State to an
+enterprise of the other Contracting State shall, if reasonable in amount, be deductible for
+purposes of determining the taxable profits of the enterprise in that Contracting State under the
+same conditions as if they had been paid to a resident of that Contracting State. This rule is not
+limited to payments to related parties.
+For purposes of this paragraph, the term "other disbursements" includes charges for
+amounts expended by a resident of the other Contracting State for the benefit of the enterprise.
+The term "other disbursements" is to be broadly defined, to includes charges or allocations by
+such resident for the benefit of such enterprise, including reasonable allocations of executive and
+general administrative overhead (except to the extent such expenses are not for the benefit of the
+enterprise, but are for "stewardship" or "overseeing" functions for the resident's own benefit as
+an investor in the enterprise). The term also includes charges and allocations of research and
+development expenses where the enterprise has the benefits of such activities under a cost or risk
+sharing agreement and other expenditures by the resident of a group of enterprises which
+includes such enterprise.
+Paragraph (4) states that paragraph (3), above, does not apply to interest, royalties, or
+other disbursements to which the provisions of Article 9 (Associated Enterprise), paragraphs (5)
+and (7) of Article 11 (Interest), or paragraph (5) of Article 12 (Royalties) apply with respect to
+transactions between related parties.
+Paragraph (5) prohibits one Contracting State from subjecting an enterprise of such
+Contracting State, the capital of which is wholly or partly owned or controlled, directly or
+indirectly, by one or more residents of the other Contracting State, to any taxation or any
+requirement connected with taxation which is other or more burdensome than is applicable to
+enterprises of the first-mentioned Contracting State carrying on the same activities, the capital of
+which is wholly or partly owned or controlled by one or more residents of the first-mentioned
+Contracting State.
+Paragraph (6) provides that nothing in this Article obliges a Contracting State to grant to
+individual residents of the other Contracting State any personal allowances, reliefs, or deductions
+for taxation purposes on account of civil status or family responsibilities which it grants to its
+
+own residents.
+This Article is similar to Article XXI of the 1945 Convention and Article 24 (NonDiscrimination) of the OECD Model Convention.
+
+ARTICLE 25
+Mutual Agreement Procedure
+This Article generally extends the mutual agreement procedures found in Article XXA of
+the 1945 Convention and is similar to Article 25 (Mutual Agreement Procedure) of the OECD
+Model Convention.
+Under paragraph (1), when a resident or national of a Contracting State considers that the
+actions of one or both Contracting States results or will result in taxation which is not in
+accordance with the Convention, he may, notwithstanding the remedies provided by the national
+laws of those States, present his case to the competent authority of the Contracting State of
+which he is a resident or national. A resident or national of a Contracting State need not,
+although it is anticipated that in the normal situation he will, exhaust his other administrative or
+judicial remedies prior to resorting to the use of the mutual agreement procedure.
+Under paragraph (2), if the claim is considered to be justified by the competent authority
+and if it cannot alone arrive at an appropriate solution to the issue involved, that competent
+authority shall endeavor to resolve the case by agreement with the competent authority of the
+other Contracting State, with a view to the avoidance of taxation which is contrary to the
+Convention. In cases in which the competent authorities reach an agreement, taxes will be
+imposed, and refunds or credits of taxes will be allowed, as appropriate, by the Contracting
+States in accordance with such agreement. In the case of the United States, where an agreement
+is reached between the competent authorities which requires the United States to make a refund
+of tax or to extend any other similar credit, such refund or credit will be made, assuming
+presentation of his case to the competent authority within a reasonable period, notwithstanding
+any procedural barriers otherwise existing under United States law, including any statute of
+limitations. In cases where an agreement cannot be reached between the competent authorities,
+the United States will not be required to provide any relief for double taxation on a unilateral
+basis.
+Paragraph (3) permits the competent authorities of the two Contracting States to endeavor
+to resolve by mutual agreement any difficulties or doubts arising as to the application of the
+Convention. In particular, the competent authorities may reach agreement on the attribution of
+income, deductions, credits, or allowances of an enterprise of a Contracting State to its
+permanent establishment situated in the other Contracting State; the allocation of income,
+deductions, credits, or allowances between persons; the nature of particular items of income; the
+meaning of terms not otherwise defined in this Convention; the place where a particular item of
+income has its source; and the elimination of double taxation in respect of income paid out of
+trusts. In the case of trust distributions, the competent authorities may conclude that elimination
+of double taxation requires that the character of the income giving rise to such distributions must
+be determined. In such a case, taxpayers will be expected to have the records necessary to
+
+demonstrate the character of income underlying a trust distribution.
+Under paragraph (4), the competent authorities may communicate with each other
+directly and, when advisable, meet together for an oral exchange of opinions, for the purpose of
+reaching an agreement.
+
+ARTICLE 26
+Exchange of Information and Administrative Assistance
+This Article extends without change the exchange of information Article (Article XX)
+and the assistance in collection Article (Article XIXA) of the 1945 Convention.
+Paragraph (1) provides for a system of administrative cooperation between the competent
+authorities of the two Contracting States by requiring an exchange of information necessary for
+the carrying out of the Convention and of the domestic laws of the Contracting States concerning
+taxes covered by the Convention insofar as the taxation thereunder is in accordance with the
+Convention. The competent authorities may exchange information in connection with tax
+compliance generally, not merely illegal acts or crimes. Information need be exchanged,
+however, only if it is of a class that can be obtained under the laws and administrative practices
+of each Contracting State with respect to its own taxes.
+The information exchanged must be treated as secret. However, such information may be
+disclosed to any persons or authorities (including a court or administrative body) concerned with
+the assessment, collection, or enforcement of, or prosecution with respect to, the taxes which are
+the subject of the Convention. No information may be exchanged which would disclose any
+trade, business, industrial or professional secret or any trade process.
+Paragraph (2) provides that one Contracting State will give the other Contracting State
+limited assistance in collecting its taxes. Thus, each Contracting State is required to collect on
+behalf of the other Contracting State only those taxes imposed by such other Contracting State as
+will ensure that any exemption or reduced rate of tax granted under this Convention by such
+other Contracting State is not enjoyed by persons not entitled to such benefits.
+Paragraph (3) makes clear that a Contracting State is not obligated to carry out measures
+which are at variance with its laws or the administrative practice with respect to the collection of
+its own taxes; or which would he contrary to its sovereignty, security or public policy. A
+Contracting State may also consider, in determining the administrative measures it will use, the
+administrative measures utilized by the other Contracting State in a comparable situation.
+Paragraph (4) provides that the competent authorities will consult to cooperate and advise
+each other on the implementation of these provisions.
+
+ARTICLE 27
+Effect on Diplomatic and Consular Officials and Domestic Laws
+
+Paragraph (1) of this Article provides that nothing in the Convention will affect the fiscal
+privileges of diplomatic and consular officials under the general rules of international law or
+under the provisions of special agreements.
+Paragraph (2) provides that the Convention will not restrict in any manner any exclusion,
+exemption, deduction, credit, or other allowance now or hereafter accorded by the laws of a
+Contracting State. This rule reflects the principle that a Convention should not increase the tax
+burden on residents of the Contracting States.
+
+ARTICLE 28
+Entry into Force
+Paragraph (1) provides that the proposed Convention shall be ratified and that the
+instruments of ratification shall be exchanged at Washington, D.C. as soon as possible after both
+States have ratified the Convention.
+Paragraph (2) provides that the Convention will enter into force on the thirty-first day
+following the date of exchange of the instruments of ratification. With respect to the United
+Kingdom, the proposed Convention will take effect in the following manner. In relation to any
+dividend to which subparagraph (2)(a)(ii) of Article 10 (Dividends) applies, the provisions of
+that Article shall apply to any year of assessment beginning on or after April 6, 1973. For this
+purpose, a dividend paid on or after April 1,1973, and before April 6, 1973, shall be treated for
+tax credit purposes (i.e., for purposes of any refund of the ACT) as paid on April 6, 1973. United
+States shareholders who derived dividends from corporations which were residents of the United
+Kingdom during this period will be entitled to claim refunds from the United Kingdom in respect
+of those dividends and in accordance with the provisions of paragraph 2(a)(ii) of Article 10. It is
+anticipated that the United Kingdom will prescribe the procedures for claiming those refunds
+upon ratification of this Convention.
+In the case of dividends to which subparagraph (2)(a)(i) of Article 10 (Dividends) applies
+(i.e., dividends received from a corporation which is a resident of the United Kingdom by a
+United States corporation owning 10 percent or more of the voting stock thereof), and any other
+provision of the Convention in respect of income tax and payments of tax credits (i.e., refunds of
+ACT), and in respect of the United Kingdom capital gains tax, those provisions shall be effective
+for any year of assessment beginning on or after April 6, 1975. Refunds of tax may be claimed in
+the manner to be prescribed by the United Kingdom.
+The Convention will be effective in respect of the United Kingdom corporation tax, for
+any financial year beginning on or after April 1, 1975, in respect of the United Kingdom
+petroleum revenue tax, for any chargeable period beginning on or after January 1, 1975, and (in
+accord with Article V of the Protocol of [March 31], 1977) in respect of the special domicile rule
+of paragraph (4) of Article 4 (Fiscal Residence) for any year of assessment beginning on or after
+April 6, 1976.
+For the United States, tax credits for taxes paid to the United Kingdom on or after April
+1, 1973, shall be allowed for the period subsequent to that date in accordance with paragraph (1)
+
+of Article 23 (Elimination of Double Taxation). In the case of dividends received for any year of
+assessment beginning on or after April 6, 1973, and before any year of assessment beginning on
+or after April 6, 1975, by a United States corporation described by paragraph (2)(a)(i) of Article
+10 (Dividends), the full amount of ACT paid in respect of such dividends shall be regarded as a
+tax imposed on the distributing corporation.
+With respect to taxes withheld at source, this Convention shall become effective in the
+United States on January 1, 1975, for taxes withheld on or after that date and with respect to all
+other taxes, this Convention will be effective in the United States for taxable years beginning on
+or after January 1, 1975.
+Subject to the provisions of paragraph (4) of this Article, the 1945 Convention, as
+amended by the Supplementary Protocol of June 6, 1946, by the Supplementary Protocol of May
+25, 1954, by the Supplementary Protocol of August 19, 1957, and by the Supplementary Protocol
+of March 17, 1966, will cease to have effect in respect of taxes to which this Convention in
+accordance with the provisions of paragraph (2) of this Article applies.
+Where any provision of the 1945 Convention would have afforded any greater relief from
+tax, any such provision will continue to have effect for any year of assessment or financial year
+in the United Kingdom and for any taxable year in the United States beginning, in either case,
+before January 1, 1976.
+The 1945 Convention will terminate on the last date on which it has effect in accordance
+with the foregoing provisions of this Article. In addition, this Convention will not affect any
+Agreement in force extending the 1945 Convention in accordance with Article XXII thereof. In
+those cases, the 1945 Convention will continue to apply to those territories. The United States
+has requested the United Kingdom to advise territories to which the 1945 Convention has been
+extended that the United States desires to renegotiate the Convention as it affects those territories
+so as to reflect the principles of this Convention.
+The amendments to this Convention effected by the Notes exchanged at London on April
+13, 1976 shall enter into force on the same date as determined under paragraph (2) of this Article
+and, in accord with the provisions of Article V of the Protocol of August 26, 1976 and of Article
+VI of the Protocol of [March 31], 1977, the amendments to this Convention effected by those
+protocols shall, upon ratification, enter into force on the thirty-first day following the date of the
+exchange of the instruments of ratification of those Protocols. Once in force, the provisions of
+the Notes and the two protocols shall have effect in accordance with this Article.
+
+ARTICLE 29
+Termination
+This Article is drafted in substantially the same manner as the termination Article of the
+1945 Convention.
+Paragraph (1) provides that the Convention will remain in force indefinitely, but that
+either Contracting State may, on or before June 30 in any year after the year 1980, give to the
+
+other Contracting State through diplomatic channels notice of termination. When notice is
+properly given, the Convention ceases to be effective for taxable years beginning on or after
+January 1 of the following year for United States tax; for a year of assessment beginning on or
+after April 6 of the following year for United Kingdom income tax and capital gains tax; for a
+financial year beginning on or after April 1 of the following year for United Kingdom
+corporation tax; and for a chargeable period beginning on or after January 1 of the following year
+for United Kingdom petroleum revenue tax.
+Under paragraph (2), the termination of the proposed Convention will not have the effect
+of reviving any treaty or arrangement abrogated by the present Convention or by treaties
+previously concluded between the Contracting States.
+
+TECHNICAL EXPLANATION
+PROTOCOL 3
+TECHNICAL EXPLANATION OF THE THIRD PROTOCOL SIGNED AT LONDON
+ON MARCH 15, 1979 (THE "THIRD PROTOCOL" OR THE "PROTOCOL")
+FURTHER AMENDING THE CONVENTION BETWEEN THE GOVERNMENT
+OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND FOR THE
+AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF
+FISCAL EVASION WITH RESPECT TO TAXES ON INCOME AND CAPITAL GAINS
+SIGNED AT LONDON, ON DECEMBER 31, 1975, AS AMENDED BY THE NOTES
+EXCHANGED AT LONDON ON APRIL 13, 1976, AND THE PROTOCOLS SIGNED AT
+LONDON ON AUGUST 25, 1976 AND MARCH 31, 1977 (THE CONVENTION
+AS AMENDED BY THE NOTES AND THE TWO PROTOCOLS BEING
+REFERRED TO AS THE "CONVENTION")
+It is the practice of the Treasury Department to prepare for the use of the Senate and other
+interested persons a Technical Explanation of the tax protocols, which are submitted to the
+Senate for its advice and consent to ratification.
+An Income Tax Protocol with the United Kingdom of Great Britain and Northern Ireland
+was signed on March 15, 1979, and submitted by the President to the Senate on April 12, 1979.
+On June 6, 1979, the Senate Committee on Foreign Relations held hearings and this Technical
+Explanation was presented. The Senate voted its advice and consent on July 9, 1979, and
+instruments of ratification were exchanged on March 25, 1980.
+The Third Protocol contains seven articles which modify Articles 2 (Taxes Covered), 7
+(Business Profits), 9 (Associated Enterprises), 10 (Dividends), 19 (Government Service), 23
+(Elimination of Double Taxation), and 28 (Entry into Force) of the Convention. In addition,
+Article VI of the Protocol adds a new Article 27A (Offshore Activities) to the Convention. Set
+forth below is an explanation of each article of the Protocol.
+
+ARTICLE I
+
+Article I contains three paragraphs serving to conform the text of the Convention to the
+United States Senate's reservation which was made a part of its June 27, 1978 resolution of
+advice and consent to ratification. The references to income taxes imposed by political
+subdivisions or local authorities are deleted from paragraphs (2) and (3) of Article 2 (Taxes
+Covered) and from paragraph (4) of Article 9 (Associated Enterprises). The other provisions of
+those paragraphs are restated. Taxes imposed by political subdivisions and local authorities
+remain subject to the provisions of Article 24 (Non-discrimination) of the Convention, by reason
+of paragraph (4) of Article 2 (Taxes Covered).
+
+ARTICLE II
+Article II adds a new subparagraph (6A) to Article 7 (Business Profits) of the
+Convention. The new subparagraph provides that the United States excise tax on insurance
+premiums paid to foreign insurers, imposed by section 4371 of the Internal Revenue Code (the
+"Code"), will not apply to insurance or reinsurance premiums received by a business of insurance
+conducted by a United Kingdom enterprise regardless of whether that business is carried on
+through a permanent establishment in the United States.
+Under paragraph (1) of Article 7 (Business Profits) and subparagraph (2)(a) of Article 2
+(Taxes Covered) of the Convention, no insurance excise tax (or income tax) is payable with
+respect to premiums paid to a United Kingdom enterprise if the enterprise does not have a
+permanent establishment in the United States. In the case of an enterprise with a permanent
+establishment in the U.S., the United States will tax the income effectively connected with a U.S.
+trade or business, under section 864 of the Code, as is permitted by paragraphs (1) and (7) of
+Article 7.
+In the case of a United Kingdom enterprise with a permanent establishment in the United
+States, there was some uncertainty over the applicability of the insurance excise tax. The
+intention of the Convention was that the excise tax would not be imposed in addition to the
+income tax on premiums or income arising from the insurance of United States risks. However,
+since the income tax and the insurance excise tax are not necessarily mutually exclusive under
+the Code, and since the application of the non-discrimination provisions of Article 24 (Nondiscrimination) was not entirely clear in the circumstances, it was thought desirable to provide
+explicitly that only the income tax would apply in the case of a British enterprise with a United
+States permanent establishment.
+
+ARTICLE III
+A corporation organized under the laws of the United States, one of the states, or the
+District of Columbia is a United States resident under subparagraph (1)(b)(ii) of Article 4 (Fiscal
+Residence). Such a corporation may also be a resident of the United Kingdom, however, under
+subparagraph (1)(a)(ii) of that Article if its business is managed and controlled in the United
+Kingdom. Paragraph (5) of Article 10 (Dividends) of the Convention, which corresponds to
+Article XV of the 1945 Convention, prohibits (with certain exceptions) a Contracting State from
+
+taxing dividends paid by a corporation which is a resident of the other Contracting State.
+Although paragraph (2) of Article 1 (Personal Scope) precludes a dual resident corporation from
+claiming relief under Article 10, a question arose over whether paragraph (5) of Article 10 of the
+Convention would prohibit the United States from withholding tax on dividends paid by such a
+dual resident corporation, since the relief granted by paragraph (5) extends to the recipient of a
+dividend and not to the paying corporation. Article III of the Protocol amends paragraph (5) to
+provide clearly that the United States is not prohibited from applying its withholding tax in cases
+where the corporation paying the dividends is a resident of both the U.K. and the U.S.
+
+ARTICLE IV
+Under United Kingdom law (sections 367 or 373, Income and Corporation Taxes Act
+1970), United States nationals, who are not also United Kingdom nationals, are not subject to
+U.K. income tax on their remuneration received from the United States government (or any
+agency or instrumentality thereof) for services rendered to the United States in the United
+Kingdom. Although U.K. internal law does not provide for taxation in those circumstances,
+concern has been expressed that paragraph (1) of Article 19 (Government Service) of the
+Convention would permit the U.K. to impose a tax if the U.S. national did not become a resident
+of the U.K. solely for the purpose of performing the services.
+To allay this concern, Article IV of the Protocol modifies subparagraph (b) of paragraph
+(1) of Article 19 (Government Service) to permit a Contracting State to tax remuneration (other
+than a pension) paid by the other Contracting State for services rendered to it only where the
+services are rendered in the first-mentioned State and the recipient is a resident and national of
+that State.
+
+ARTICLE V
+Article V replaces paragraph (4) of Article 23 (Elimination of Double Taxation) with a
+new paragraph (4). The new paragraph limits the credit for the United Kingdom petroleum
+revenue tax allowed against United States tax by subparagraph (2)(b) of Article 2 (Taxes
+Covered) and subparagraph (1)(a) of Article 23 (Elimination of Double Taxation). The limit
+prescribed by new paragraph (4) of Article 23 is to be applied before applying the provisions and
+limitations relating to the foreign tax credit contained in the Code. These provisions include,
+among others, the rules in section 907 of the Code pertaining to foreign oil and gas extraction
+income and foreign oil related income. Application of the provisions of United States law as they
+now exist or as they may be amended from time to time (without changing the general principle
+of allowance of a credit) may limit the amount of PRT allowable as a credit in any taxable year
+to an amount less than that arrived at by applying the rules of new paragraph (4) of Article 23.
+The limit for a taxable year prescribed by subparagraph (a) of new paragraph (4) is
+arrived at by making the computations explained in steps (1) - (4) below.
+Step (1). The first step involves multiplying the maximum statutory United States tax rate
+applicable to the taxable income of a corporation for the taxpayer's taxable year by the amount of
+
+the taxpayer's taxable income (computed under United States standards) from the extraction of
+minerals from oil or gas wells in the United Kingdom.
+The maximum statutory United States tax rate applicable to the taxable income of a
+corporation is the highest rate of tax specified in section 11 of the Code. This rate is currently 46
+percent for taxable years beginning after December 31, 1978.
+In arriving at taxable income from extraction for purposes of computing the limit,
+principles similar to those under section 907(c)(1)(A) and section 907(c)(3) of the Code shall be
+applied. Taxable income from extraction includes taxable income derived by a person holding a
+royalty or other economic interest in an oil or gas well, even though the extraction is physically
+performed by a person other than the taxpayer.
+Step (2). From the product arrived at under Step (1) is subtracted other United Kingdom
+tax on income from the extraction of minerals from oil or gas wells in the United Kingdom.
+Because other United Kingdom tax may be calculated under United Kingdom law on a base
+which includes income from non-extraction activities, it may be necessary to allocate other
+United Kingdom tax to the income from extraction. In making this allocation, principles similar
+to those under section 907(c)(5) of the Code are to apply. The difference between the product
+computed under Step (1) above and the other United Kingdom tax computed here is the limit
+with respect to the PRT on income from extraction.
+Step (3). Under the United Kingdom's Oil Taxation Act of 1975, as amended on March
+15, 1979 ("OTA"), which imposes the PRT, it is possible for PRT, to be levied on what under
+United States standards would be income from activities other than extraction. Specifically, the
+base on which PRT is computed is determined by reference to the value of oil or gas after initial
+transportation to the place in the United Kingdom (on land) at which the seller could reasonably
+be expected to deliver it, and after initial treatment and initial storage. (These terms shall have
+the meaning specified in the OTA.) Because of this, total PRT paid or accrued will have to be
+allocated to
+(a) income from extraction, and
+(b) income from initial transportation, initial treatment, and initial storage.
+The allocation of PRT is to be made by multiplying total PRT (other than amounts
+deemed to have been paid or accrued in the year by reason of the carryback or carryforward
+provisions set forth in new subparagraphs (b) and (c) of paragraph (4)) by a fraction, the
+numerator of which is taxable income from extraction (computed under U.S. standards, i.e. the
+same number as that determined under Step (1)) and the denominator of which is taxable income
+from extraction, initial transportation, initial treatment, and initial storage. If the denominator so
+computed is less than taxable income from extraction alone, then the denominator shall be
+taxable income from extraction.
+Step (4). The lesser of the PRT paid or accrued with respect to extraction income under
+Step (3) or the limit determined under Step (2) is treated as an income tax paid or accrued for the
+taxable year for purposes of computing the credit allowable under section 901. Such amount will
+also be treated as oil and gas extraction taxes for purposes of section 907(c)(5) of the Code.
+Amounts in excess of the limit determined under Step (2) are not deductible if the taxpayer
+
+chooses to take to any extent the benefits of paragraph (1) of Article 23 for the taxable year.
+Subparagraph (b) of paragraph (4) applies in cases where the PRT allocable to extraction
+income (determined under Step (3) above) exceeds the credit limit provided under subparagraph
+(a) (determined under Step (2) above). In such cases, the lesser of such excess or 2 percent of the
+taxable income from extraction (see Step (1) above) shall be treated as income tax paid or
+accrued in the second preceding taxable year, the first preceding taxable year, and in the first,
+second, third, fourth, or fifth succeeding taxable year in that order and to the extent not deemed
+paid or accrued in a prior taxable year. In determining the year in which such PRT carried back
+or forward shall be deemed to have been paid, the limitation of subparagraph (a) of new
+paragraph (4) shall apply.
+If an amount of PRT which does not exceed the limit of subparagraph (a) is limited by
+application of sections 907 or 904 and is carried to another taxable year pursuant to sections 907
+or 904, the amount treated as paid or accrued in such other taxable year will be treated as an
+income tax and will not be again subject to the limitation of new paragraph (4).
+Subparagraph (c) of paragraph (4) applies to determine the limit on the PRT with respect
+to income from initial transportation, initial treatment, and initial storage. These three items of
+income are to be combined for this purpose. The limit is computed by applying mutatis
+mutandis, Steps (1), (2) and (4) described with respect to subparagraph (a) above. As with
+extraction, taxable income is to be determined by United States standards. The PRT allocable to
+initial transportation, treatment, and storage is the PRT paid or accrued in the current year not
+allocable to extraction income. The PRT allocated to initial transportation, initial treatment, and
+initial storage is not treated as oil and gas extraction tax under section 907(c)(5) of the Code but
+will be treated as income tax on foreign oil related income within the meaning of section
+907(c)(2) of the Code.
+Where the PRT allocable to initial transportation, initial treatment, and initial storage
+exceeds the limit of subparagraph (c) for the taxable year such excess shall be deemed paid or
+accrued under subparagraph (c) in the second preceding taxable year, the first preceding taxable
+year and in the first, second, third, fourth, or fifth succeeding taxable years in that order and to
+the extent not deemed paid or accrued in a prior taxable year by reason of the limitation of
+subparagraph (c).
+If an amount of PRT which does not exceed the limit of subparagraph (c) is limited by
+application of section 907 or 904 and is carried to another taxable year pursuant to sections 907
+or 904, the amount treated as paid or accrued in such other taxable year will be treated as an
+income tax and will not be again subject to the limitation of new paragraph (4).
+Miscellaneous Rules: In the case a United States corporation owning at least 10 percent
+of the voting stock of a corporation which is a resident of the United Kingdom from which it
+receives dividends in any taxable year, the appropriate amount of PRT paid to the United
+Kingdom by that U.K. resident corporation with respect to the profits out of which such dividend
+are paid shall be a ratable portion the PRT attributable to the accumulated profits out of which
+the dividend is paid.
+
+ARTICLE VI
+Article VI adds a new Article 27A (Offshore Activities) to the Convention, to deal with
+activities carried on in connection with the exploration or exploitation of the seabed or subsoil
+and their natural resources. The new Article 27A has particular relevance activities in the United
+Kingdom sector of the North Sea. It would apply reciprocally, however, to activities conducted
+by United Kingdom enterprises with respect to exploration or exploitation of the seabed or
+subsoil of United States.
+Except in cases where the de minimis rule in paragraph (2) applies, paragraph (1) of
+Article 27A treats a resident of one State as carrying on a business in the other State through a
+permanent establishment or fixed base with respect to activities in the other State (whether
+physically carried out on land or offshore) in connection with the exploration or exploitation of
+the seabed or subsoil and their natural resources situated in that other State. This permanent
+establishment or fixed base is deemed to exist notwithstanding the provisions of Article 5
+(Permanent Establishment) and Article 14 (Independent Personal Services). This provision is not
+intended to apply in the case of a determination under Article 15 (Dependent Personal Services)*
+A permanent establishment is a prerequisite for taxation of business profits in the State of source
+under paragraph (1) of Article 7 (Business Profits) and a "fixed base" is one of the prerequisites
+for taxation of income derived from services performed in an independent personal capacity in
+the State or source under Article 14 (Independent Personal Services).
+* Corrected.
+In determining the business profits or income from independent personal services that are
+attributable to the permanent establishment or fixed base, the United Kingdom Inland Revenue
+would normally rely on a taxpayer's branch accounts if they accurately and realistically measure
+the commercial profits generated by the activities of the permanent establishment or fixed base
+and reflect generally accepted accounting principles. In the case of offshore activities such
+accounts would normally include, as income, the gross receivables attributable to the services
+and trading activities performed on the United Kingdom Continental Shelf and, as expenses, the
+direct expenditures together with such indirect costs as are properly attributable to these
+activities, apportioned in a fair and reasonable manner in light of the particular facts of the case.
+The profit or loss shown by such accounts is then subject to adjustment in the usual way in
+accordance with the general rules for computing United Kingdom taxable profits of a trade. In
+particular, a deduction would be allowed for depreciation of plant and machinery based on the
+length of time during which the activities are performed on the United Kingdom Continental
+Shelf. A deduction would also normally be allowed for any interest paid on borrows from third
+parties in respect of such assets.
+In the United States, the business profits or income from independent personal services
+that are attributable to a permanent establishment or fixed base deemed to exist by reason of
+Article 27A would be the enterprise's effectively connected income determined under the rules of
+section 864 of the Code. Gross income would include amounts which are effectively connected
+with the conduct of the trade or business within the United States. Under section 638(1) of the
+Code the term "United States" when used in the geographical sense includes the Continental
+
+Shelf. The deductions allowable in arriving at taxable income would include all deductions
+generally allowable by the Code to the extent they are connected with effectively connected
+gross income.
+Paragraph (2) of Article 27A establishes the minimum threshold for application of the
+Article. Activities carried on in connection with exploration or exploitation of the seabed or
+subsoil will not be treated as giving rise to a permanent establishment or fixed base if the
+activities are carried on for 30 days or less in the aggregate in any 12 month period. In making
+this computation, the time spent by an enterprise engaged in activities described in paragraph (1)
+of Article 27A, and the time spent by any related enterprise on activities which are substantially
+the same, will be aggravated. This rule is designed to prevent abuse of the 30 day rule.
+Aggregation of time spent by related persons will be applied only for the purpose of determining
+whether the requirement of presence for more than 30 days is met. The profits or income which
+can be taxed, once the threshold is met, will reflect the actual time spent by each taxpayer.
+Paragraph (3) of new Article 27A provides that the exemption provisions of Article 8
+(Shipping and Air Transport) will not prevent a State from taxing earnings from the operation of
+a drilling rig or any vessel the principal function of which is the performance of activities other
+than the transportation of goods or passengers. Rentals received under a bareboat charter of a
+drilling rig or other vessel are not considered activities within the scope of new Article 27A,
+even if the vessel is used in connection with exploration or exploitation of the seabed or subsoil.
+
+ARTICLE VII
+The delay in ratification of the Convention has raised administrative questions under
+United States and United Kingdom internal law relating to refund claims which may arise upon
+the entry into force of the Convention by reason of its retroactive effect under Article 28 (Entry
+into Force) upon taxes paid for prior years. Article VII adds a new paragraph (7) to Article 28,
+providing for a specific three-year time limit during which such claims may be filed and relief
+granted.
+For example, a calendar year taxpayer who paid the insurance excise tax imposed by
+section 4371 for the year 1975 with respect to insurance premiums remitted to a United Kingdom
+enterprise could file a timely claim for refund of such taxes under the Protocol within the threeyear period after the calendar year in which the Convention enters into force, notwithstanding the
+expiration of the period set forth in section 6511 of the Code for filing claims for refunds.
+Similarly, the United Kingdom Inland Revenue will make payments of the United Kingdom tax
+credit on dividends under its imputation system of company taxation, to the extent it is required
+to do so under subparagraph (2)(a) of Article 10 (Dividends), notwithstanding the expiration of
+the period under internal law during which claims for relief must be filed.
+
+ARTICLE VIII
+The Third Protocol will enter into force immediately upon the expiration of 30 days
+following the date on which the instruments of ratification are exchanged. Upon its entry into
+
+force, it will have effect, with the exception of new Article 27A (Offshore Activities) in
+accordance with Article 28 (Entry into Force) of the Convention.
+The provisions of new Article 27A (Offshore Activities) will only have effect as of the
+date of entry into force of the Protocol. In determining whether the de minimis threshold of
+paragraph (2) of Article 27A is met, periods of time spent in the State of source before the date
+on which the Protocol enters into force will not be counted.
+
+

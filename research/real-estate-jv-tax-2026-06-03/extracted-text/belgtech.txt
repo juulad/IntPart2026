@@ -1,0 +1,1295 @@
+TECHNICAL EXPLANATION OF U.S. - BELGIUM INCOME TAX CONVENTION,
+SIGNED JULY 9, 1970
+(DEPARTMENT OF THE TREASURY)
+GENERAL EFFECTIVE DATE UNDER ARTICLE 30: 1 JANUARY 1970
+TABLE OF ARTICLES
+Article 1----------------------------------Personal Scope
+Article 2----------------------------------Taxes Covered
+Article 3----------------------------------General Definitions
+Article 4----------------------------------Fiscal Domicile
+Article 5----------------------------------Permanent Establishment
+Article 6----------------------------------Income from Real Property
+Article 7----------------------------------Business Profits
+Article 8----------------------------------Shipping and Air Transport
+Article 9----------------------------------Associated Enterprises
+Article 10---------------------------------Dividends
+Article 11---------------------------------Interest
+Article 12---------------------------------Royalties
+Article 13---------------------------------Capital Gains
+Article 14---------------------------------Independent Personal Services
+Article 15---------------------------------Dependent Personal Services
+Article 16---------------------------------Director’s Fees
+Article 17---------------------------------Social Security Payments
+Article 18---------------------------------Private Pensions and Annuities
+Article 19---------------------------------Governmental Functions
+Article 20---------------------------------Teachers
+Article 21---------------------------------Students and Trainees
+Article 22---------------------------------Income Not Expressly Mentioned
+Article 23---------------------------------Relief from Double Taxation
+Article 24---------------------------------Nondiscrimination
+Article 25---------------------------------Mutual Agreement Procedure
+Article 26---------------------------------Exchange of Information
+Article 27---------------------------------Assistance in Collection
+Article 28---------------------------------Miscellaneous
+Article 29---------------------------------Extension to Territories
+Article 30---------------------------------Entry into Force
+Article 31---------------------------------Termination
+Protocol ----------------------------------of 31 December, 1987
+Exchange of Notes----------------------of 31 December, 1987
+
+ARTICLE 1
+
+Personal Scope
+This Article, which is not found in other United States tax treaties, is similar to Article 1
+of the Draft Double Taxation Convention on Income and Capital developed by the Fiscal
+Committee of the Organization for Economic Cooperation and Development and published in
+1963 (hereinafter referred to as the OECD Model Convention). The Article does not have
+substantive importance. Its purpose is to generally delineate the persons who come within the
+scope of the Convention. The Article is not complete in its delineation of persons covered in that
+persons who are residents of one or both of the Contracting States are sometimes not covered in
+the Convention and that other persons who are not residents of either of the Contracting States
+are covered by this Convention. For example, Article 19 (Governmental Functions) applies to
+citizens of a third State who come to one of the Contracting States expressly for the purpose of
+being employed by the other Contracting State. While the title of Article 1 is “Personal Scope,”
+the Convention, of course, is applicable to corporations and other entities as well as to
+individuals.
+
+ARTICLE 2
+Taxes Covered
+This Article designates the taxes of the respective States which are the subject of the
+proposed Convention. With respect to the United States, the taxes included are the United States
+Federal income taxes imposed by the Internal Revenue Code. This includes, for example, the
+surtax and would also include such taxes as the temporary surcharge which was in force from
+1968 to 1970. However, the Convention is not intended to apply to taxes which are in the nature
+of a penalty such as the taxes imposed under section 531 (accumulated earnings tax) and section
+541 (personal holding company tax) of the Internal Revenue Code.
+With respect to Belgium, the taxes included are
+(1) the individual income tax;
+(2) the corporate income tax;
+(3) the income tax on legal entities;
+(4) the income tax on nonresidents;
+(5) the prepayments and additional prepayments; and
+(6) surcharges on any of the taxes referred to in (1) through (5), including the communal
+supplement to the individual income tax.
+The Belgian individual income tax is payable by resident individuals on income from all
+sources but with reduced rates for foreign source income.
+The Belgian corporate income tax is payable by resident Belgian companies on income
+from all sources but with reduced rates for foreign source income.
+The Belgian income tax on legal entities is a tax payable in lieu of the corporate income
+tax and is imposed upon the political subdivisions of Belgium and those resident legal entities
+
+which are not engaged in business activity. This tax is levied solely on income from movable
+capital (generally dividend and interest income) and real property.
+The Belgian income tax on nonresidents is payable by nonresident individuals,
+corporations, and other legal entities on income earned or received in Belgium.
+In addition to the above-enumerated taxes, prepayment of tax in the form of withholding
+by the payor is required by Belgian law in the case of income from movable capital (generally
+dividend and interest income) and income from real property. There is also a standard
+professional prepayment (withholding) which applies to wages and salaries, remuneration paid
+by a corporation to managers, directors and persons with similar functions, and to pensions,
+certain prizes and subsidies, and in the case of a nonresident recipient, alimony. These taxes are
+known as “les précomptes.” While Articles 2 also lists “additional prepayments” (compléments
+de précomptes), that tax, which was an additional 15 percent prepayment on income from
+movable capital, has not been in force since January 1, 1967. It was included at the request of
+Belgium in the case such tax is reestablished, although even in the absence of an express
+reference, a new or reestablished tax would be covered by paragraph (2) of this Article. In the
+case of income from real property, Belgian law provides for an additional advance payment in the
+case of taxpayers subject to the income tax on nonresidents whose fiscal domicile is in a country
+with whom Belgium has concluded a double taxation agreement giving Belgium exclusive right
+to tax real property situated in her territory. Since, under the proposed Convention, Belgium does
+not have an exclusive right to tax United States residents on income from real property, there is
+no additional advance payment on such income paid to United States residents.
+Pursuant to paragraph (2) of this Article the proposed Convention would also apply to
+taxes substantially similar to those enumerated which are imposed in addition to or in place of
+the existing income taxes, after the date of a signature of this Convention (July 9, 1970).
+This Article also provides that the competent authorities of the Contracting States are to
+notify each other of any amendments of the laws imposing the enumerated taxes and of the
+adoption of any taxes which are subsequently imposed by transmitting the text of any
+amendments or new statutes at least once a year. Further, the competent authorities are to notify
+each other of the publication by their respective States of any material concerning the application
+of this Convention, whether in the form of regulations, rulings, or judicial decisions, by
+transmitting the text of any such material at least once a year.
+
+ARTICLE 3
+General Definitions
+This Article sets out definitions of certain of the basic terms used in the proposed
+Convention. A number of important terms, however, are defined elsewhere in the Convention.
+Any term used in this Convention which is not defined therein shall, unless the context
+otherwise requires, have the meaning which it has under the laws of the State which is imposing
+
+the tax. However, in a case where a term has a different meaning under the laws of Belgium and
+the United States or where the meaning under the laws of one or both of the States is not clear,
+the competent authorities may agree on a uniform definition. See Article 25 (Mutual Agreement
+Procedure). While treaties in the past did not specify the power of the competent authorities to
+resolve such differences in definitions, this power is nevertheless inherent in the authority set
+forth in the mutual agreement article of these treaties to resolve "difficulties or doubts."
+This Article defines geographical Belgium and geographical United States to include their
+respective continental shelves. The addition of a definition of the continental shelf is intended to
+clarify what the Contracting States consider to be included within their respective jurisdictions to
+tax. The United States continental shelf is defined as the seabed and subsoil of the adjacent
+submarine areas beyond the territorial sea over which the United States exercises exclusive rights
+in accordance with international law for the purpose of exploration and exploitation of the natural
+resources of such area, but only to the extent that the person, property, or activity to which this
+Convention is being applied is connected with such exploration or exploitation. For example the
+income earned by a ship and its employees engaged in taking seismograph soundings on the
+United States continental shelf will be treated for tax purposes the same as the income from a
+comparable activity on the land of one of the States of the United States. A comparable definition
+is used in the case of Belgium. The definition of the continental shelf in the case of the United
+States only includes the continental shelf surrounding the 50 States. Thus, for example, the
+continental shelf surrounding Puerto Rico is not included. If the treaty were extended beyond the
+50 States and the District of Columbia (see Article 29 - Extension to Territories) the continental
+shelf of the extended areas could also be covered. The defined continental shelf is only part of the
+United States or Belgium, as the case may be in limited situations. It is included only to the
+extent that a person or property or activity to which the Convention is being applied is connected
+with exploration or exploitation of the continental shelf. The phrase “connected with” does not
+require physical attachment to the continental shelf to be within the scope of the definition.
+The Article also defines "United States corporation" and “Belgian corporation.” Because
+of the difference in concept, an entity could under Belgian law be considered to be a Belgian
+corporation and under United States law to be a United States corporation. For purposes of the
+proposed Convention, such a corporation would be treated as a corporation of neither State
+because of the provisions in the definitions of a corporation of the United States, and a
+corporation of Belgium, that an entity may not be considered a corporation of the United States,
+or Belgium, if it is a corporation of the other State under domestic law of that other State. While
+the benefits of the Convention would generally be unavailable in such cases, it is relatively easy
+for taxpayers to avoid dual residency.
+
+ARTICLE 4
+Fiscal Domicile
+This Article sets forth rules for determining "fiscal domicile" or residence of individuals,
+corporations and other persons for purposes of the proposed Convention. Residence is important
+because, in general, only a resident of one of the Contracting States may qualify for the benefits
+
+of the Convention. This Article is patterned generally after the fiscal domicile article of the
+OECD Model Convention.
+The term "a resident of Belgium" means a corporation of Belgium as defined in Article 3
+(General Definitions) and any person (other than a corporation) who is a resident of Belgium for
+purposes of its tax. The term "a resident of the United States" means a United States corporation
+as defined In Article 3 (General Definitions) and any person (except a corporation or any other
+entity treated as a corporation for United States tax purposes) resident in the United States for
+purposes of its tax. The language in parentheses is intended to deal with the problem of dual
+residency of a corporation. An entity which would be considered a Belgian corporation under
+Belgian law and a United States corporation under United States law would, under Article 3
+(General Definitions) of the Convention, be neither a Belgium corporation nor a United States
+corporation. Therefore, it was necessary to make clear that such an entity is not included within
+the term "any person" for purposes of the second part of the definitions. In addition, the
+parenthetical language in the definition of a resident of the United States is intended to make
+clear that a foreign corporation, or other entity treated as a foreign corporation for United States
+tax purposes, which is a resident of the United States for certain purposes of its income tax law is
+not, under the Convention, a resident of the United States.
+In the case of the United States, the definition provides that a partnership, estate, or trust
+is treated as a resident only to the extent that the income derived by such person is subject to
+United States tax as the income of a resident. This language, although different from the Income
+Tax Convention between the United States and France, signed July 28, 1967, is intended to
+achieve the same result. Under United States law, a partnership is never, and an estate or trust is
+often not, taxed as such. Under the proposed Convention, in the case of the United States,
+income received by a partnership, estate, or trust will not qualify for the benefits of the
+Convention unless such income is subject to tax in the United States. Thus, in effect, the status of
+income which is subject to tax only in the hands of the partners or beneficiaries, will be
+determined by the residence of such partners or beneficiaries. With respect to income taxed in the
+hands of the estate or trust, the residence of the estate or trust is determinative. This provision is
+nonreciprocal because of the absence of a similar problem under Belgian law.
+An individual who is a resident of both States under the rules of domestic law employed
+by such States for determining residence will be deemed to be a resident of the State in which he
+has his permanent home, his center of vital interests (closest economic and personal relations),
+his habitual abode, or his citizenship, in the order listed. If the issue is not settled by these tests,
+the competent authorities will decide by mutual agreement the one State of which he will be
+considered to be a resident. Thus for purposes of the Convention, including the savings clause of
+Article 23(1), an individual can be resident in Belgium or the United States, but not both.
+
+ARTICLE 5
+Permanent Establishment
+This Article defines the term "permanent establishment." The existence of a permanent
+
+establishment is, under the terms of the proposed Convention, a prerequisite for one State to tax
+the industrial or commercial profits of a resident of the other State. The concept is also
+significant in determining the applicability of other provisions of the Convention, such as Article
+10 (Dividends), Article 11 (Interest), Article 12 (Royalties), and Article 13 (Capital Gains). The
+definition of "permanent establishment" is a modernized version of the definition found in some
+of our older treaties including the 1948 Convention with Belgium. The new definition is similar
+to the definition found in our French Convention.
+The term "permanent establishment" means "a fixed place of business through which a
+resident of one of the Contracting States engages in industrial or commercial activity."
+Illustrations of the concept of a fixed place of business include a seat of management, a branch,
+an office, a factory, a workshop, a warehouse, a place of extraction of natural resources, or a
+building site or construction or installation project which exists for more than 12 months. As a
+general rule, any fixed facility through which an individual, corporation or other person conducts
+industrial or commercial activity will be treated as its permanent establishment unless it falls in
+one of the specific exceptions described below. The proposed Convention uses the term "a seat of
+management" which was the term used in our Convention with France. The technical explanation
+of our French Convention explains the definition of the term "a seat of management" and its
+difference in meaning from the term "a place of management" as follows:
+It should be noted that this convention uses the term "seat of management" where the
+OECD Model Convention and prior agreements to which the United States is a party used
+the term "place of management"; both terms are translations of the French term "un siege
+de direction" and it is believed the translation found in this convention is the more
+accurate. Prior agreements in which the term "place of management" appears will be
+interpreted therefore as if the words "seat of management" had been used.
+That explanation is applicable to the proposed Belgian Convention.
+This Article specifically provides that a permanent establishment does not include a fixed
+place of business of a resident of one of the Contracting States which is located in the other
+Contracting State if it is used only for one or more of the following (1) the use of facilities for the purpose of storage, display, or delivery of goods or
+merchandise belonging to the resident;
+(2) the maintenance of a stock of goods or merchandise belonging to the resident for the
+purpose of storage, display, or delivery;
+(3) the maintenance of a stock of goods or merchandise belonging to the resident for the
+purpose of processing by another person;
+(4) the maintenance of a fixed place of business for the purpose of purchasing goods or
+merchandise, or for collecting information, for the resident;
+(5) the maintenance of a fixed place of business for the purpose of advertising, or the
+supplying of information, for scientific research, or for similar activities which have a
+preparatory or auxiliary character, for the resident; or
+(6) the maintenance of a building site or construction or installation project which does
+not exist for more than 12 months.
+
+The building site or construction or installation project exception is merely a clarification of the
+rule that such an activity for more than 12 months is a permanent establishment and, accordingly,
+such an activity for 12 months or less is not a permanent establishment. These exceptions are
+cumulative and a site or facility used solely for more than one of these purposes will not be
+considered a permanent establishment under the proposed Convention. The 12-month
+construction project rule is a physical test under which the resident must be actively engaged in
+the project during that 12-month period.
+This Article also provides that notwithstanding the provisions described in the preceding
+paragraph if three conditions are met, a resident of one State will have a permanent establishment
+in the other State. The conditions are:
+1. The resident has a fixed place of business in that other State
+(a) which consists of facilities for the storage, display or delivery of goods or
+merchandise belonging to the resident;
+(b) which consists of a stock of goods or merchandise belonging to the resident
+which is held for processing by another person; or
+(c) which is used for the purpose of purchasing goods or merchandise for the
+resident;
+2. The goods or merchandise described in paragraph 1 above are either subject to
+substantial processing in that State (whether or not purchased there) or are purchased in that other
+State (and are not thereafter subject to substantial processing in another State); and
+3. All or part of such goods or merchandise is sold by the resident or his agent for use,
+consumption, or disposition in that other State.
+Under this rule, the taxpayer will have a permanent establishment whether or not he
+maintains a sales office in the other State.
+Thus, for example, if an independent agent acting for a United States corporation arranges
+the sales of the corporation's goods in Belgium the United States corporation will, nevertheless,
+be deemed to have a permanent establishment in Belgium if those goods were purchased in
+Belgium through a fixed place of business of the corporation (ordinarily a purchasing office
+would not constitute a permanent establishment) and then resold therein without having been
+subjected to processing outside Belgium prior to such resale.
+Notwithstanding the other provisions of this Article, a person will be considered to have a
+permanent establishment if he engages in business through an agent, other than an independent
+agent, who has and regularly exercises authority to conclude contracts in the name of such person
+unless the agent only exercises such authority to purchase goods or merchandise.
+With respect to an independent agent, the proposed Convention also provides that a
+resident of one State will not be deemed to have a permanent establishment in the other State if
+such resident engages in industrial or commercial activity in such other State through an
+independent agent, such as a broker or general commission agent, if such agent is acting in the
+ordinary course of his business. This rule does not apply with respect to a broker or agent acting
+
+on behalf of an insurance company if such broker or agent has, and habitually exercises, an
+authority to conclude contracts in the name of that company. It was agreed, however, that an
+insurance company of one State writing reinsurance contracts in the other State would not for
+that reason be treated as having a permanent establishment, but since it was understood that
+foreign companies writing reinsurance on Belgian risks do not authorize Belgian brokers or
+agents to conclude reinsurance contracts in the name of the foreign reinsurance company, it was
+not necessary to specifically exclude reinsurance contracts from the exception.
+The determination of whether a resident of one State has a permanent establishment in the
+other State is to be made without regard to any control relationship of such resident with respect
+to a resident of the other State or with respect to a person which engages in industrial or
+commercial activity in that other State (whether through a permanent establishment or
+otherwise).
+Although this Article is generally drafted with reference to a resident of one of the States
+engaging in industrial or commercial activity in the other State, for certain purposes the proposed
+Convention deals with a nonresident engaging in industrial or commercial activity in one of the
+States or a resident of one of the States engaging in industrial or commercial activity in a third
+State. For these purposes, the principles set forth in Article 5 are to be applied in determining
+whether there is a permanent establishment.
+
+ARTICLE 6
+Income from Real Property
+This Article which is similar to an article in the existing treaty provides that a resident of
+one State may be subject to tax in the other State on income from real property and royalties in
+respect of natural resources if the property or natural resource is located in such other State. This
+Article does not, as do the existing treaty and the 1967 treaty between the United States and
+France, provide for an election by the resident to compute his tax on such income on a net basis
+since under the internal laws of Belgium and, since 1967, the United States this can be done. The
+income referred to in this Article includes gain from the sale or exchange of such property or
+such natural resource rights, but does not include interest on mortgages and similar instruments.
+The latter type of income is covered by Article 11 (Interest).
+
+ARTICLE 7
+Business Profits
+This Article sets forth the typical treaty rule that industrial or commercial profits of a
+resident of one State are taxable in the other State only if the resident has a permanent
+establishment in that other State. Where there is a permanent establishment only the profits
+attributable to the permanent establishment can be taxed by that other State. For purposes of
+Article 23 (Relief From Double Taxation) which, among other things, provides that a foreign tax
+credit will be allowed by the United States, such profits are considered to be from sources within
+
+the State in which the permanent establishment is located.
+While under the existing Belgian Convention, as under the old French Convention,
+industrial or commercial profits are not taxed in the absence of a permanent establishment once
+there is a permanent establishment the existing Convention, as did the old French Convention,
+provides that the provisions reducing the tax rates on interest and dividends and exempting
+royalties are not applicable. This rule is known as the “force of attraction “ principle and is
+replaced in the proposed Convention, as in our new treaty with France, with the effectively
+connected concept. Under the new approach, only those interest, dividends and royalties which
+are effectively connected with the permanent establishment are taxable as part of the industrial or
+commercial profits and do not benefit from the reduced rate or exemption.
+In determining the proper attribution of industrial or commercial profits under the
+proposed treaty, the permanent establishment is generally to be treated as an independent entity
+and considered as realizing the profits which would be realized if the permanent establishment
+dealt with the resident of which it is a permanent establishment on an arm’s-length basis.
+Expenses, wherever incurred, which are reasonably connected with profits attributable to the
+permanent establishment, including executive and general administrative expenses, will be
+allowed as deductions by the State in which the permanent establishment is located in computing
+the tax due to such State. However, it is not necessary to allow a profit to the head office for
+ancillary services furnished to the permanent establishment as long as the permanent
+establishment is allowed to deduct the allocable costs incurred by the head office.
+The mere purchase of goods or merchandise in a State by the permanent establishment, or
+by the resident of which it is a permanent establishment, for the account of such resident will not
+cause attribution of profits to such permanent establishment
+While some of our more recent conventions attempt a broad definition of “industrial or
+commercial profits” by setting forth examples of activities which will be considered as giving
+rise to such profits, this Convention is limited to setting forth three rules of inclusion and
+exclusion. In spite of the difference in approach, the term “industrial or commercial profits” has a
+meaning generally similar to that in our other recent treaties. It includes income derived from
+manufacturing, mercantile, agricultural, fishing, or mining activities, from the operation of ships
+or aircraft, from the furnishing of personal services of others, from the rental of tangible personal
+property, and from insurance activities.
+This Article specifically provides that the term “industrial or commercial profits” includes
+rents or royalties derived from motion picture films or films or tapes used for radio or television
+broadcasting or from copyrights thereof and rents derived from the leasing of tangible personal
+property.
+The Article further provides that the term does not include items of income specifically
+dealt within other articles of this Convention except as provided in such articles. Thus, income
+derived from real property and natural resources and dividends, interest, royalties (as defined in
+paragraph (2) of Article 12 (Royalties)), capital gains, and income described in Article 22
+
+(Income Not Expressly Mentioned) constitute industrial or commercial profits only if the right or
+property giving rise to such amounts is effectively connected with a permanent establishment
+which the recipient, being a resident of one of the States, has in the other State. Where such
+amounts do not constitute industrial or commercial profits, they may be taxed separately or
+together with industrial or commercial profits in accordance with the laws of the State whose tax
+is being determined, but the limits on the rate of taxation to which such amounts may be subject
+must be observed.
+For example, if a Belgian bank without a permanent establishment in the United States
+loaned money to a United States manufacturer in the United States, the interest paid by the
+United States manufacturer to the Belgian bank would be treated as interest and not as industrial
+or commercial profits and would be governed by Article 11 (Interest) of the proposed Convention
+which provides for either an exemption or a 15-percent withholding rate.
+In the reverse situation where a United States bank with a branch in Belgium derives
+interest from Belgium which is not effectively connected with its Belgian branch, Belgium could
+tax the interest together with the income of the permanent establishment as long as the rate of tax
+on the gross amount of the interest did not exceed the 15-percent limitation.
+Income from independent and dependent personal services are specifically dealt within
+Articles 14 (Independent Personal Services) and 15 (Dependent Personal Services) and,
+therefore, are not treated as business profits. It is noted that in some of our other recent
+conventions, there is an express provision excluding such services from the terms "industrial or
+commercial profits." While there is no such provision in the Belgian Convention, the result is the
+same.
+
+ARTICLE 8
+Shipping and Air Transport
+This Article provides that, notwithstanding the rules of Article 7 (Business Profits) and
+Article 13 (Capital Gains), income which a resident of one of the States derives from the
+operation in international traffic of ships registered in that State and gains which a resident of one
+of the States derives from the sale, exchange, or other disposition of ships operated in
+international traffic by such residents and registered in that State shall be exempt from tax by the
+other State.
+A resident of one of the States will also be exempt from tax in the other State on income
+derived from the operation in international traffic of aircraft registered in either State or In a State
+with which the other State has an income tax convention exempting such income. Gains which a
+resident of one of the States derives from the sale, exchange, or other disposition of aircraft are
+accorded the same treatment. An exchange of notes specifically exempting income from the
+operation of aircraft from tax in the respective States is not considered as an income tax
+convention exempting such income.
+
+This Article also will apply to income derived from the leasing, to a person engaged in
+the operation of ships or aircraft, of a ship or aircraft under a full or bareboat charter, where the
+lessor is engaged in the operation of ships or aircraft if such lease is ancillary to the lessor's other
+operations. For example, if an airline of one of the Contracting States which has excess
+equipment in the winter months leases several aircraft which are excess during that period to an
+airline in the other Contracting State, the lessor is not subject to tax by that other Contracting
+State.
+The exemption provided by this Article is also applicable to profits derived from any
+activities incidental to the operation of ships or aircraft in international traffic. Thus, for example,
+commissions derived by a Belgian international air carrier from the sale of passenger tickets in
+the United States as agent for other persons operating ships or aircraft, if incidental to its own
+international operations, will be exempt from United States tax under Article 8. Further, a
+Belgian airline company might have facilities at an international airport in the United States
+which are used to service and maintain its own aircraft in order to make maximum use of the
+facilities, the company might also service and maintain aircraft of other companies. The profits
+derived from the furnishing of such services to others would be exempt under Article 8 unless
+such activity ceased to be only an incidental activity. However, income derived by a Belgian
+airline company from the operation of a hotel in the United States would not be incidental to the
+operation of aircraft and would not be exempt.
+
+ARTICLE 9
+Associated Enterprises
+This Article complements section 482 of the Internal Revenue Code of 1954 and
+confirms the power of each government to allocate items of income, deduction, credit, or
+allowance in cases in which a resident of one State is related to a resident of the other State if
+such related persons impose conditions between themselves which are different from conditions
+which would be imposed between independent persons. This provision is similar to the provision
+contained in the OECD Model Convention.
+Provision is made in Article 25 (Mutual Agreement Procedure) for consultation and
+agreement between the two States where an allocation by either State results or would result in
+double taxation.
+
+ARTICLE 10
+Dividends
+The existing Convention provides that dividends derived from sources within one State
+by a resident of the other State not having a permanent establishment in the former State will be
+subject to tax in the former State at a rate not in excess of 15 percent. The proposed Convention
+continues the 15 percent rate on dividends.
+
+As indicated above, the proposed Convention abandons the "force of attraction" concept
+in the existing Convention by providing that the reduced rate of tax on dividends is denied only if
+the shares with respect to which the dividends are paid are effectively connected with a
+permanent establishment which the recipient has in the State of source. The elimination of the
+"force of attraction" principle will make uniform the rate of tax levied on dividend income by a
+resident of one State from sources within the other State unless such income is effectively
+connected to a permanent establishment in the State of source. In those cases where the shares
+with respect to which the dividends are paid are so effectively connected, the dividends may be
+taxed as industrial and commercial profits under Article 7 (Business Profits). Income which is so
+effectively connected may be taxed at the normal rates applicable to such income in the State of
+source. This does not prevent Belgium from imposing its movable property prepayment in
+accordance with Belgian law, and this would be credited against the tax owed by the permanent
+establishment.
+The dividend Article of the proposed Convention is patterned generally after the OECD
+Model Convention. However, the proposed Convention additionally provides that the term
+"dividends" includes income from invested capital received by members of Belgian companies
+other than companies with share capital where, under Belgian law, such income is taxable in the
+same way as dividends. These are companies whose shareholders are restricted to individuals and
+are generally similar to partnerships. Such companies are not entitled to an interest deduction on
+a loan made by a shareholder to the company. Interest payments by such a company to a
+shareholder are treated similarly to dividends for purposes of Belgian law and are treated as
+dividends under the proposed treaty. The companies covered by this latter rule are Sociétiés de
+Personnes à Responsabilité Limiteé, Sociétés en nom Collectif, Sociétés en Commandite Simple,
+and Sociétés Coopératives.
+Under Belgian law dividends paid to an individual from sources outside of Belgium
+which are received within Belgium are subject to a 20-percent précompte mobiliere. The
+précompte is used by Belgium as a collection device since most securities are in bearer form and
+the residency of the owner is not readily determinable. Belgium has agreed under this Article to
+waive collection of the précompte on dividends paid by United States corporations to an
+individual who is a resident or citizen of the United States and not a resident of Belgium. Such
+individual when he goes to a Belgian bank to collect on a dividend will have to substantiate his
+citizenship (where applicable) and residency and it is anticipated that the Belgian Government
+will verify the fact that such person is the proper recipient of the dividend by submitting their
+names to the Internal Revenue Service.
+In other cases, dividends paid by a corporation of one of the States to a person other than
+a resident of the other State are exempt from tax by the other Slate unless the dividends are
+effectively connected with a permanent establishment of the recipient maintained in the other
+State or the dividends are paid by a United States corporation and are received within Belgium by
+a person other than a citizen or resident of the United States.
+
+ARTICLE 11
+
+Interest
+The existing Convention provides that interest derived from sources within one State by a
+resident of the other State not having a permanent establishment in the former State will be
+subject to tax in the former State at a rate not in excess of 15 percent.
+The proposed Convention retains the 15 percent rate on interest replacing the "force of
+attraction" principle by the effectively connected approach. In four important cases, however, the
+proposed Convention provides for exemption in the State of source. First, interest is exempt at
+source if it arises out of commercial credit - including credit which is represented by commercial
+paper - resulting from deferred payments for goods or merchandise or services supplied by a
+resident of one of the States to a resident of the other State. This exception would apply to
+interest derived by a bank or other financial institution which purchases paper which arose out of
+commercial credit which the seller of goods or services discounted at such bank or financial
+institution. It would also apply to interest derived by a finance company which is a subsidiary of
+a selling company and which is used by the parent to finance its sales. Second, interest paid
+between banks is exempt except on loans represented by bearer instruments. Under this
+provision, interest on advances between banks would be exempt as would interest on a loan from
+a United States bank to a Belgian bank, assuming that there was not a bearer instrument
+representing the indebtedness. Third, an exception is provided for interest arising from deposits,
+not represented by bearer instruments made in banks or other financial institutions. Fourth,
+interest beneficially derived by one of the States, or by an instrumentality of that State, not
+subject to tax by that State on its income, would be exempt from tax by the other State. Under
+this rule, interest income derived by the Export-Import Bank of the United States on loans made
+to Belgian residents would be exempt from tax in Belgium. This would still be the case if the
+Export-Import Bank sold interest-participation certificates on such a loan. On the other hand, this
+rule would not apply if the Export-Import Bank discounted or sell the instrument representing the
+loan. However, in such a case the exception for interest arising out of commercial credit may be
+applicable.
+As noted above, the proposed Convention abandons the "force of attraction" principle.
+Thus, the reduced rates of tax applicable to interest apply unless the recipient has a permanent
+establishment in the State of source and the indebtedness giving rise to the interest is effectively
+connected with such permanent establishment. In such a case, the interest may be taxed as
+industrial or commercial profits.
+Interest is defined generally as income from any kind of debt-claim or any income treated
+as interest under the tax law of the State of source. In cases in which excessive interest is paid by
+reason of a special relationships between the payor and the recipient, the provisions of the
+interest Article do not apply to the excess part of the payments. Excess interest payments may be
+taxed according to the law of the State from which the interest is derived. In the case of excess
+interest derived from the United States, the excess interest may be taxed as dividend. Under
+Belgian law, the excess interest is disallowed as a deduction, but, in the hands of the recipient,
+continues to retain its character as interest. However, the recipient is not entitled to the benefits
+of this Article with respect to such excess.
+
+Thus, for example, in the case of the United States the rules provided in section 482 of
+the Internal Revenue Code would be applicable if excess interest is paid between related persons.
+On the other hand, if a Belgian resident pays excess interest to a United States related person, the
+Belgian tax authorities would disallow such excess as a deduction to the Belgian resident. and
+would continue to treat such excess as interest, and subject such excess to the 20-percent rate of
+withholding, as provided under Belgian domestic law. since such excess is not entitled to treaty
+benefits.
+The term "interest" does not include amounts which are considered as dividends as
+discussed above in connection with Article 10 (Dividends). In the case of Belgium, the term
+"interest" includes prizes on lottery bonds.
+Interest is from sources within a State when the payer is that State, a political subdivision,
+a local authority thereof or a resident of that State. However, if the payor has a permanent
+establishment in one of the States and the indebtedness on which the interest is paid is effectively
+connected with such permanent establishment and the interest is borne by such permanent
+establishment, such interest shall be deemed to be sourced within the State in which the
+permanent establishment is located. In addition, if a permanent establishment which a resident of
+one of the Contracting States has in a third State borrows money from a resident of the other
+Contracting State, for purposes of the treaty, the interest paid by the permanent establishment
+will be treated as from sources within the third State if the loan is effectively connected with, and
+interest is borne by, such permanent establishment.
+In other cases, interest paid by a resident of one of the States to a person other than a
+resident of the other State is exempt from tax by the other State unless the interest is effectively
+connected with a permanent establishment of the recipient maintained in the other State or the
+interest is paid by a United States corporation and is received within Belgium by a person other
+than a citizen or resident of the United States.
+As in the case of dividends, the interest Article also contains a special rule dealing with
+interest from sources within the United States which is received within Belgium by a resident of
+the United States or a citizen of the United States who is not a resident of Belgium. In such a case
+Belgium has agreed to waive its withholding tax.
+
+ARTICLE 12
+Royalties
+The existing Convention provides that royalties derived from sources within one of the
+States by a resident of the other State shall be exempt from tax by the former State. The proposed
+Convention continues this exemption for royalties.
+The term “royalties” is defined to include
+(a) payments of any kind made as consideration for the use of, or the right to use,
+
+copyrights of literary, artistic, or scientific works (but not including copyrights of motion
+picture films or films or tapes used for radio or television broadcasting), patents, designs,
+models, plans, secret processes or formulae, trademarks, or other like property or rights,
+or knowledge, experience, or skill (know-how) and
+(b) gains derived from the sale, exchange or other disposition of such rights or
+property, but only if payment is contingent on productivity, use, or disposition of the
+property. If the payments are not so contingent, the capital gains Article applies.
+The provisions of this Article do not apply if the recipient of a royalty has a permanent
+establishment in the State of source and the rights or property giving rise to the royalty is
+effectively connected to such permanent establishment. In such a case, the royalty may be taxed
+as industrial or commercial profits under Article 7 (Business Profits). Thus, the “force of
+attraction” principle is also abandoned with respect to royalties.
+The source rule on royalties is different front the source rule found in most of our recent
+treaties and the rule in Section 861(a)(4) of the Internal Revenue Code. The proposed Convention
+provides that royalties shall be treated as income from sources within one of the States if paid by
+such State, a political subdivision, or a local authority thereof, or by a resident of that State.
+However,
+(a) if the person paying the royalty has a permanent establishment in one of the
+States with which the right or property giving rise to the royalty is effectively connected
+and such royalties are borne by such permanent establishment, or
+(b) if the person paying the royalty is a resident of one of the Contracting States
+and has a permanent establishment in a third State with which the right or property giving
+rise to the royalty is effectively connected and such royalties are borne by such permanent
+establishment
+such royalties are deemed to be from sources within the State in which the permanent
+establishment is located. This source rule is similar to the interest source rule found in Article 11
+(Interest) of the proposed Convention and to the source rule for royalties under Belgian domestic
+law. On the United States side, since royalties are exempt at source, the source rule on royalties is
+relatively unimportant. However, on the Belgian side, because of the treatment given under
+Belgian law for excessive royalty payments, the source of royalty has importance. Under the
+proposed Convention, if excessive royalties are paid because the payor and the recipient are
+related, the provisions of the royalty Article apply only to so much of the royalty as would have
+been paid to an unrelated person. The excess payment may be taxed according to its own law by
+the State from which the royalty is derived. In the case of Belgium, Belgium would deny a
+deduction for the excess royalty payments, but, in the hands of the recipient, the payment would
+still be considered to be a royalty under Belgian domestic law. However, the recipient is not
+entitled to the benefits of this Article with respect to such excess.
+If a nonresident has a permanent establishment in Belgium or the United States, royalties
+attributable to effectively connected with such permanent establishment are not subject to
+withholding but are subject to tax in Belgium or the United States at the rates normally
+applicable to industrial or commercial profits.
+
+ARTICLE 13
+Capital Gains
+The existing Convention provides no special rules for gains derived in one State from the
+sale or exchange of stock securities, commodities, or other capital assets by a resident of the
+other State. The proposed Convention provides that such gains shall be exempt from tax by the
+State of source. However, the exemption does not apply if
+(1) the gain derived by a resident of one State arises out of the sale or exchange of
+property described in Article 6 (Income from Real Property) which is situated within the other
+State,
+(2) the recipient of the gain has a permanent establishment or maintains a fixed base, or
+(3) the recipient of the gain being an individual resident of the first State is present in that
+other State for a period or periods aggregating 183 days or more in the taxable year.
+Gains which are effectively connected with a permanent establishment may be taxed as
+industrial or commercial profits under Article 7 (Business Profits). Gains on real property are
+subject to the provisions of Article 6 (Income from Real Property) which permits taxation of such
+gains by the State in which the real property is situated. The Belgians do not tax capital gains of
+individuals arising from a casual sale of nonbusiness assets.
+
+ARTICLE 14
+Independent Personal Services
+The existing Convention provides that an individual resident of one State shall be exempt
+from tax by the other State if he meets either of two conditions:
+(a) he is present in that other State for not more than 183 days and his
+compensation is for services performed as a worker or employee of, or under contract
+with, a resident of the first State who bears the actual burden of the remuneration or
+(b) he is temporarily present within that other State for a period or periods not
+exceeding 90 days during the calendar year and the compensation received for such
+services does not exceed $3,000 in the aggregate.
+The 90-day, $3,000 rule under the existing Convention does not apply to remuneration of
+"administrateurs," "commissaires," or "liquidateurs" of,. or of other individuals exercising similar
+functions in, corporations created or organized in Belgium, nor to remuneration of officers and
+directors of United States corporations.
+The proposed Convention generally deals with personal services in two articles and
+creates a distinction based upon whether the services are independent or dependent personal
+services. The proposed Convention also provides a special rule for independent individuals who
+are artists or athletes, and a separate Article dealing with directors' fees. Thus, for example, a
+doctor or lawyer typically renders independent personal services. Also an entertainer who under
+common law concepts is an independent contractor is considered as rendering independent
+
+personal services.
+Generally, under Article 14 of the proposed Convention, income earned by an individual
+resident of one State from independent personal services performed in the other State may not be
+taxed in that other State. However, such income will be subject to tax in the State of source (i.e.,
+where the services are performed) if the recipient is present in that State for a period or periods
+aggregating 183 days or more in the taxable year or if the individual maintains a fixed base in
+that other State for a period or periods aggregating 183 days or more in the taxable year and the
+income is attributable to such fixed base.
+Independent personal services means services performed by an individual for his own
+account where he receives the proceeds or bears the losses arising from such services.
+Commercial, industrial, or agricultural activities are not considered independent personal
+services and the income therefrom is taxed as industrial or commercial profits under Article 7
+(Business Profits).
+Thus, for example, if a physician, resident in one State, has an office available in the
+other State for a period aggregating 183 days or more during the taxable year, the income he
+earns from the performance of services within the other State will be subject to tax in that other
+State regardless of whether he is physically present in that other State for 183 days or more
+during the taxable year and regardless of whether others make use of his office in his absence.
+An individual who derives income from independent personal services as a public
+entertainer is nevertheless subject to tax in the other State if his stay in such State exceeds 90
+days during the taxable year or his income is in excess of $3,000 or its equivalent in Belgian
+francs during the taxable year.
+
+ARTICLE 15
+Dependent Personal Services
+Generally, under the proposed Convention income from labor or personal services as an
+employee may be taxed in the State in which such labor or personal services are performed
+(except as provided in Article 20 (Teachers) and Article 21 (Students and Trainees)). However,
+such income will be exempt from tax in the State of source if
+(1) the recipient, being a resident of one of the Contracting States, is present in the State
+of source for a period or periods aggregating less than 183 days during the taxable year;
+(2) the recipient is an employee of a resident of the State of his residence (or a permanent
+establishment located in the State of his residence); and
+(3) the remuneration is not borne as such by a permanent establishment which the
+employer has in the State of source. Thus, the rule applicable to dependent personal services is
+similar to that contained in the existing Convention.
+However, income from personal services performed in Belgium by a United States resident who
+is employed by a Belgian permanent establishment maintained by a United States corporation
+
+would no longer be exempt from tax in Belgium (nor would there be an exemption from United
+States tax in the reverse situation). In addition, the proposed Convention would eliminate the rule
+in the existing Convention generally exempting a resident of one State from taxation by the other
+State of compensation received for services performed in the other State where such resident is
+temporarily present in the other State for a period aggregating 90 days or less during the taxable
+year and the compensation received for such services is not in excess of $3,000. The proposed
+Convention also adds a rule that income from personal services aboard ships or aircraft registered
+in one State and operated by a resident of that State in international traffic will not be taxed in the
+other State so long as the services are rendered by a member of the regular complement of the
+ship or aircraft.
+This Article of the proposed Convention is substantially similar to the OECD Model
+Convention except that, under the proposed Convention, an individual temporarily present in one
+State who is an employee of a permanent establishment located in the other State and maintained
+by a corporation of the first-mentioned State will be exempt from taxation by the first-mentioned
+State on wages earned while temporarily present therein if the other requirements are met.
+
+ARTICLE 16
+Director’s Fees
+Under the existing Convention, compensation received by an individual who is a resident
+of one State as a director of a corporation of the other State is taxable by the other State. This
+result is obtained by the exclusion of such individuals from the 90-day, $3,000 rule. The
+proposed Convention continues this treatment, in part, in a specific Article dealing with the
+treatment of director's fees. The Article provides that a director's fee derived by an individual
+who is a resident of one of the States in his capacity as a member of the board of directors of a
+corporation of the other State may be taxed by the other State. This rule is limited to fees which
+an individual receives as a director as contrasted to fees that he might receive as an officer or
+employee of a corporation, by providing that a director's fee does not include fixed or contingent
+payments derived by an individual in his capacity as an officer or employee of a corporation.
+Further, to be a director's fee the payment must be of the type which cannot be taken as a
+deduction by the corporation paying the fee but is treated as a distribution of profits. These types
+of payments are typically made by Belgian corporations.
+Director's fees taxable by Belgium under this Article are treated as Belgian source income
+for purposes of the United States foreign tax credit limitation regardless of where such services
+as a director are performed. This rule, which differs from the normal United States source rule, is
+designed to avoid double taxation.
+
+ARTICLE 17
+Social Security Payments
+
+This Article provides that social security payments paid by one State to an individual who
+is a resident of the other State will be taxed, if at all, by the payor State. Also included under this
+Article are other public pensions such as railroad retirement benefits. Neither the existing
+Convention nor the OECD Model Convention contains a comparable provision.
+ARTICLE 18
+Private Pensions and Annuities
+The existing Convention provides that private pensions and annuities derived from
+sources within one State by an individual resident of the other State are exempt from tax in the
+State of source. The proposed Convention continues the existing rule by providing that pensions
+and other similar remuneration paid in consideration of past employment and annuities received
+by a resident of a State will be taxable only in the State of residence. However, pensions coming
+within the scope of Article 19 (Governmental Functions) will be taxable only by the State
+making payment.
+The proposed Convention also provides that alimony paid to a resident of a State will be
+taxable only in the State of residence. A United States resident making alimony payments to a
+Belgian resident may deduct such payments (unless section 71(d) or 682 of the United States
+Internal Revenue Code applies).
+The term "annuities" is defined as a stated sum paid periodically at stated times during
+life. or during a specified number of years, under an obligation to make the payments in return
+for adequate and full consideration (other than for services rendered). The term "pensions" is
+defined as periodic payments made after retirement or death in consideration for services
+rendered, or by way of compensation for injuries received in connection with past employment.
+The effect of this provision is generally the same as that of the OECD Model Convention.
+
+ARTICLE 19
+Governmental Functions
+The existing Convention exempts compensation including pensions and annuities paid by
+one of the States or a political subdivision or territory thereof to a citizen of that State residing in
+the other State (whether or not also a citizen of the other State) from taxation by that other State.
+The proposed Convention continues the exemption but adds a specification that the
+compensation must be paid in connection with the discharge of functions of a governmental
+nature. Compensation paid in connection with industrial or commercial activity is treated the
+same as compensation received from a private employer. The provisions relating to dependent
+personal services, private pensions and annuities, and social security payments would apply in
+such a case.
+The proposed Convention extends the category of individuals who are eligible for the
+exemption to citizens of a third State who come to a State expressly for the purpose of being
+
+employed by the other State, a political subdivision, or a local authority thereof.
+
+ARTICLE 20
+Teachers
+The existing Convention provides that teachers who are citizens of one State and who,
+pursuant to agreements between the States or teaching establishments in the States, accept a
+teaching position at an educational institution in the other State shall be exempt from taxation in
+such other State on remuneration received for such teaching, for a maximum period of two years.
+The proposed Convention continues and broadens the 2-year exemption period for
+visiting teachers. This exemption applies to an individual who is a resident of one State at the
+time he is invited by the other State or by a recognized educational institution of the other State
+to teach or do research in the other State and temporarily comes to such other State in order to
+engage in such teaching or research. Invitation may be by the Government or a university or other
+recognized educational institution and research or teaching must be done at such university or
+other recognized educational institution. For purposes of the United States, the term “recognized”
+will be construed to mean accredited. However, the exemption does not apply to income from
+research undertaken not in the public interest but primarily for private benefit of a specific person
+or persons. If the individual's visit exceeds a period of 2 years from the date of arrival, the
+exemption applies to the income received by the individual before the expiration of such 2-year
+period.
+
+ARTICLE 21
+Students and Trainees
+Under the existing Convention remittances received from within one State by citizens of
+that State residing in the other State for the purpose of study are exempt from tax by the other
+State. The OECD Model Convention includes a similar provision.
+The proposed Convention expands the exemption available to students by providing that
+an individual who is a resident of one State at the time he becomes temporarily present in the
+other State for the purpose of studying at a university or other recognized institution. of securing
+training for qualification in a profession or of studying or doing research as recipient of a grant,
+allowance, or award from a governmental, religious, charitable, scientific, literary, or educational
+institution is exempt from tax in the host State on:
+(1) Gifts from abroad for his maintenance and study;
+(2) The grant, allowance, or award;
+(3) Income from personal services performed in the host State not in excess of $2.000 (or
+its equivalent in Belgium francs) for any taxable year.
+These exemptions continue for such period of time as may be reasonably or customarily required
+to effectuate the purpose of his visit but in no event may an individual have the benefit of this
+
+Article and Article 20 (Teachers) for more than a total of 5 taxable years from the date of arrival.
+In addition, a resident of one State employed by or under contract with a resident of that
+State who, at the time he is a resident of that State, becomes temporarily present in the other
+State for the purpose of studying, or acquiring technical, professional, or business experience
+from a person other than a resident of the first-mentioned State or a person related to such
+resident, is exempt from tax in the host State on income not in excess of $5,000 (or its equivalent
+in Belgian francs) from personal services rendered in the host. The individual is exempt for a
+period of 12 consecutive months which period commences with the first month in which he
+begins working or receiving compensation.
+Also an individual who is a resident of one State and who is temporarily present in the
+host State as a participant in a government program of the host State for the primary purpose of
+training, research, or study is entitled to an exemption by the host State with respect to his
+income from personal services relating to such training, research, or study performed in the host
+State in an amount not in excess of $10,000 (or its equivalent in Belgium francs). To be entitled
+to this exemption the program must be a program which does not exceed 1 year in duration. If
+this qualification is met, then the income from personal services received with respect to such
+program is exempt.
+If an individual qualifies for the benefits of more than one of the provisions of the
+personal services articles, he may choose the provision most favorable to him, but he may not
+claim the benefits of more than one provision in any taxable year as a means of avoiding the
+limitations provided.
+
+ARTICLE 22
+Income Not Expressly Mentioned
+This Article of the proposed Convention contains a general rule that items of income of a
+resident of one of the States which are not expressly mentioned in the foregoing articles of the
+proposed Convention shall be taxable only in that State except that, if such income is derived
+from sources within the other State, that other State may also tax such income. This rule provides
+for the same result as found in paragraph (1) of Article 22 (General Rules of Taxation) of our
+French Convention which provides that any income from sources within a State to which the
+Convention is not expressly applicable will be taxable by that State in accordance with its own
+law. For example, because income from prizes or awards is not generally covered by the
+Convention, such income will ordinarily be taxed in accordance with the internal law of the State
+from which such income is derived. However, this Article does not apply to industrial and
+commercial profits attributable to a permanent establishment since such income is expressly
+covered in Article 7 (Business Profits). The existing Convention does not contain an express
+statement of this general rule. The OECD Model Convention differs on this point and provides
+that income which is not expressly mentioned will be taxable only in the State of residence. In
+any event it should be noted that the proposed Convention specifically covers most types of
+income.
+
+ARTICLE 23
+Relief from Double Taxation
+Under the existing Convention the United States provides relief from double taxation by
+allowing a credit for Belgian tax which credit shall not exceed that proportion of the United
+States tax which the net income from sources within Belgium bears to the total net income of
+such citizen or resident.
+The proposed Convention employs the same method of avoiding double taxation. It
+provides that subject to the provisions of United States law applicable for the taxable years, a
+credit against United States tax will be allowed to a citizen or resident of the United States for
+Belgian tax paid. The credit is based upon the amount of tax paid to Belgium but may not exceed
+the amount of United States tax attributable to such income. Except for the special source rules
+provided by the Convention, this provision does not add to the rights which a United States
+citizen or resident has to the foreign tax credit. but is for the purpose of giving treaty recognition
+to such rights. Modifications in United States law after the effective date of the Convention
+which concern the foreign tax credit will be applicable with respect to Belgian source income if
+such modifications do not contravene the general principle of the Convention.
+The proposed Convention also contains the traditional savings clause under which the
+United States reserves the right to tax its citizens and residents as if the Convention had not come
+into effect. However, the savings clause does not apply in several cases in which its application
+would contravene policies reflected in the Convention. Thus, the savings clause does not affect
+the provisions with respect to the foreign tax credit, social security payments, nondiscrimination,
+or mutual agreement procedure. Moreover, the savings clause will not deny the benefits of the
+Convention to governmental employees or teachers or students unless such individuals are
+citizens of the United States or have immigrant status in the United States.
+In the case of Belgium the Article provides a detailed procedure for the avoidance of
+double taxation. Generally, the method used is the exemption method but in some circumstances,
+it is the credit method. This system of avoidance of double taxation is similar to that found in the
+existing Convention. The provisions are based upon the law of Belgium relating to the
+imposition of tax on Belgians receiving income from outside Belgium. However, under this
+Article, present Belgian statutory law is liberalized with respect to
+(1) United States source dividends received by a Belgian corporation.
+(2) United States source business and personal services income, and
+(3) certain items of United States source income received by a citizen of the United States
+who is a resident of Belgium.
+These provisions are contained in paragraph (3) of Article 23 of the proposed Convention.
+Subparagraph (a) of paragraph (3) corresponds to subparagraph (f) of paragraph (3) of Article 12
+of the existing Convention. Under this provision, items of income which are not subject to the
+provisions of subparagraphs (b) through (d) and which have been taxed by the United States in
+
+accordance with the provisions of Articles 6 through 21, are exempt by Belgium from tax. But,
+Belgium may take such items of income into account for the purpose of determining the rate of
+tax which is to be applied against the remaining income. The items of income included in this
+provision are
+(1) industrial and commercial profits subject to United States tax by reason of their being
+attributable to the maintenance by the taxpayer of a permanent establishment in the United
+States;
+(2) income from real property situated in the United States;
+(3) salaries. pensions, and annuities paid by the United States or by any political
+subdivision thereof to United States citizens or other individuals who qualify for the
+governmental exemption and reside in Belgium;
+(4) compensation for labor or personal services performed in the United States and taxed
+by the United States in accordance with the dependent or independent personal services Articles,
+and
+(5) any other business or personal service income which may be taxed by the United
+States in accordance with the Convention.
+Also included within the scope of subparagraph (a) are items of income that are covered by
+subparagraph (g) of the existing Convention. These items are interest, dividends, and royalties
+which are taxed by the United States by reason of the fact that they are effectively connected with
+a permanent establishment in the United States maintained by a Belgian taxpayer.
+Subparagraph (b) conforms generally to subparagraphs (c) and (d) of the existing
+Convention. Subparagraph (b) grants a credit based upon existing Belgian law subject to any
+subsequent modification thereof which, however, may not affect the principles of existing law,
+for dividends received by an individual and interest and royalties received by any resident of
+Belgium. The credit is allowed against the tax imposed on the net amount of dividends from
+corporations in the United States as well as of interest and royalties from sources in the United
+States which have been taxed there. At the present time the credit is an amount equal to 15
+percent. This is fixed by Belgian law regardless of the amount of tax paid.
+Subparagraph (c) is a new provision dealing with income not expressly mentioned which
+is taxable by the State of source under Article 22 (Income Not Expressly Mentioned). Under this
+provision where a resident of Belgium receives income which has been taxed by the United
+States under Article 22 (Income Not Expressly Mentioned) the amount of Belgian tax
+proportionately attributable to such income shall not exceed the amount which would be imposed
+in accordance with Belgian law if such income were taxed as earned income derived from
+sources outside Belgium and subject to foreign tax. In the case of corporations, the rate would be
+one-fourth the normal rate. In the case of individuals, the rate would be one-half the normal rate.
+Subparagraph (d) corresponds to subparagraph (a) of the existing Convention. This
+provision has the effect of incorporating into the Convention the present statutory treatment of
+corporations or other entities. It provides that dividends taxed by the United States under
+paragraph (2) of Article 10 (Dividends) of the Convention at the reduced 15-percent rate shall be
+exempt from Belgian corporate income tax to the extent that such exemption would be granted
+
+under Belgian law if both corporations were Belgian corporations subject to the Belgian
+corporate income tax. The Belgian law to be applied is the Belgian law applicable at the time the
+dividends were received by the Belgian corporation. Under present Belgian law the amount of the
+exemption is 95 percent (90 percent in the case of portfolio holding companies) of the amount of
+the dividend after reduction for all taxes including the United States withholding tax and the
+Belgian personal property prepayment (précompte mobilier). This provision does not prohibit the
+withholding from these dividends of such précompte as imposed by Belgian law. The present rate
+of tax is 10 percent of the amount of the dividend actually received by the Belgian corporation.
+Subparagraph (e) corresponds generally to subparagraph (b) of the existing Convention
+and provides an exception in favor of United States source dividends to the rules provided in
+subparagraph (d) dealing with the imposition by Belgium of the tax on dividends (précompte
+mobilier) received by a Belgian corporation or other entity subject to Belgian corporate tax. This
+exception is in addition to the exemption provided in subparagraph (d). Under this provision a
+Belgian corporation which receives dividends from a United States corporation on stock which
+has been directly owned by that Belgian corporation during the whole of the accounting period of
+the United States corporation which is subject in the United States to tax on its profits may elect
+to have such dividends exempted from the Belgian personal property prepayment (précompte
+mobilier) ordinarily applicable to such dividends. A Belgian corporation may elect this treatment
+by making a written request for such exemption when filing its annual tax return or before the
+expiration of the period allowed for the filing of such return. Under this provision the Belgian
+corporation deriving a dividend from a United States corporation (after the withholding of United
+States tax at the source at the 15-percent treaty rate)
+(1) will not be required to pay the personal property prepayment otherwise due on receipt,
+and
+(2) will be permitted to calculate its statutory corporate income tax exemption (as
+provided in subparagraph (d)) on the full dividend received.
+This permits the qualified Belgian corporation receiving dividends from United States
+corporations to accumulate or reinvest a larger portion of such dividends than would be the case
+under Belgian law in the absence of this treaty provision. However, dividends accorded this
+exemption can not be deducted for purposes of determining the personal property prepayment
+applicable to dividends distributed by the recipient corporation or other entity to its shareholders
+or members. This provision differs from the existing provision in that, if Belgian legislation ever
+imposed a 10-percent ownership requirement for eligibility of the 90 and 95 percent dividend
+exemption for intercorporate dividends, then such similar 10-percent ownership requirement
+would also apply in order for a Belgian corporation to obtain the benefits of this provision.
+Subparagraph (f) is generally comparable to subparagraph (e) of the existing Convention.
+This provision contains special relief with respect to certain income derived by a citizen of the
+United States who is a resident of Belgium and thus liable to income tax in both States on a
+worldwide basis. The existing provision provides that the Belgian individual income tax
+proportionately attributable to dividends, interest, pensions, annuities, or royalties received by a
+citizen of the United States residing in Belgium from sources within the United States may not
+exceed 15 percent of that income after allowance of the lump-sum foreign tax credit. Though
+
+residence in Belgium would ordinarily entitle individuals to an exemption from, or reduction in
+the rate of, United States tax on specified items of income under the Convention. such benefits
+are not available to United States citizens. The existing and proposed provisions provide a
+measure of relief in these circumstances by reducing the amount of Belgian tax which can be
+imposed on the specified items of income. The proposed provision provides that the Belgium
+income tax proportionately attributable to the dividends, interest, or royalties received by a
+citizen of the United States residing in Belgium from sources within the United States may not
+exceed 20 percent of that income after allowance of the lump-sum foreign tax credit. The
+existing provision was based on a personal property prepayment at the rate of 15 percent, which
+is now 20 percent. In the case of other income concerned, the amount of tax which would be
+imposed is the amount which would he imposed if such income were taxed as earned income
+derived from sources outside Belgium and subject to a foreign tax. This provision only applies to
+income which is not exempt from Belgian tax under subparagraph (a) or covered by
+subparagraph (c) which covers items of income not expressly mentioned.
+Subparagraph (g) generally corresponds to subparagraph (h) of the existing Convention.
+Proposed subparagraph (g) provides that when, in accordance with Belgian law, losses incurred
+by a resident of Belgium in a permanent establishment situated in the United States have been
+effectively deducted from the profits of that resident for purposes of his taxation in Belgium, the
+exemption provided in subparagraph (a) should not apply in Belgium to the profits of other
+taxable periods attributable to the permanent establishment to the extent that those profits have
+also been reduced for United States tax purposes by reason of allowance of such losses.
+Paragraph (4) provides for relief from double taxation in accordance with the principles
+of paragraphs (2) and (3) in the case of a corporation which is treated as a United States
+corporation for United States tax purposes and a Belgian corporation for Belgian tax purposes.
+
+ARTICLE 24
+Nondiscrimination
+Paragraph (3) of Article 20 of the existing Convention provides that citizens or
+corporations or other juridical persons of one State will not be subjected to more burdensome
+taxes in the other State than are imposed on the citizens or corporations or other juridical persons
+of such other State. The proposed Convention substitutes a modernized nondiscrimination
+Article which bans discrimination by one State against the citizens of the other State or
+permanent establishments of residents or corporations of the other State. Thus, for example, a
+citizen of Belgium who is a resident of the United States and who meets the requirements
+specified in section 911 of the Internal Revenue Code would, under this Article of the proposed
+Convention, be eligible for the benefits of section 911 although he is not also a citizen of the
+United States.
+This Article provides, however, that a State may accord special treatment to its own
+residents on the basis of civil status or family responsibility.
+
+This Article also deals with the fact that Belgian domestic law provides for a lower rate
+on distributed earnings of a Belgian corporation (30% basic rate) than on retained earnings of a
+Belgian corporation (up to 35% basic rate) and applies only the higher rate to the income of a
+Belgian permanent establishment of a foreign corporation. This is recognized as discriminatory
+and the proposed Convention provides that in the case of a Belgian permanent establishment of a
+United States corporation the lower rate for retained earnings will apply to that part of the
+earnings of the permanent establishment deemed distributed. It is provided in this Convention
+that the permanent establishment is deemed to distribute the same percentage of its earnings as
+the corporation of which it is a part distributes of its earnings. The provision permits Belgium,
+however, to impose its surcharge on the higher rate consistent with its domestic law.
+The ban on discrimination extends to all taxes without regard to subject matter and
+whether imposed at the national, State or local level.
+This Article is substantially similar to the nondiscrimination Article of the OECD Model
+Convention except that the Model includes a provision concerning Stateless persons which has
+been omitted from the proposed Convention.
+
+ARTICLE 25
+Mutual Agreement Procedure
+This Article modernizes the mutual agreement procedures found in the existing
+Convention by adopting provisions similar to those in the recent amendments to our Conventions
+with the Netherlands, the United Kingdom, and the Federal Republic of Germany and in our
+recently revised Convention with France. When a resident of one State considers that action of
+one or both States has resulted, or will possibly result, in taxation contrary to the provisions of
+the proposed Convention, such resident may present his case to the competent authority of the
+State of which he is a resident within 2 years from the date the resident is notified (or collection
+is made at the source) of the tax (or, where the problem arises from inconsistent action of both
+States, within two years from the date the resident is notified, or from collection at source, of the
+tax which has been last asserted or collected). This remedy is in addition to any remedy provided
+by the national laws of either State.
+This Article contemplates that the competent authority of the two States will endeavor to
+settle by mutual agreement such cases of taxation not in accordance with the Convention as well
+as any other difficulties or doubts arising as to the application of the Convention. Some particular
+areas on which the competent authorities may consult and reach agreement are the amount of
+industrial and commercial profits to be attributed to a permanent establishment, the allocation of
+income, deductions, credits, or allowances between a resident and a related person, the
+determination of source of particular items, and the meaning of any term used in the Convention.
+In implementing the provisions of this Article, the competent authorities will
+communicate with each other directly and meet together for an exchange of oral opinions when
+advisable.
+
+In cases in which the competent authorities reach agreement with respect to a particular
+matter, taxes will be adjusted and refunds or credits allowed in accordance with such agreement.
+This provision permits the issuance of a refund or credit notwithstanding procedural barriers
+otherwise existing under state’s law, such as the Statute of Limitations.
+This provision w ill apply only where agreement or partial agreement has been reached
+between the competent authorities and will apply in the case of any such agreement after the
+Convention goes into effect even though the agreement may concern taxable years prior thereto.
+Revenue Procedure 70-18 sets forth the procedure followed by the United States in
+implementing its obligations under this type of Article.
+
+ARTICLE 26
+Exchange of Information
+This Article provides for a system of administrative cooperation between the competent
+authorities of the two States and specifies conditions under which information may be exchanged
+to facilitate the administration of the Convention and to prevent fraud and the avoidance of taxes
+to which the Convention relates.
+Information exchanged is treated as secret and may not be disclosed to any persons other
+than those (including a court or administrative body ) concerned with the assessment, collection,
+enforcement, or prosecution of taxes subject to the Convention, but this does not prohibit
+disclosure in the course of a court proceeding. In no case does this Article impose an obligation
+on either state to disclose trade secrets or similar information or to carry out administrative
+measures or supply particulars where such action would be at variance with the laws or
+administrative practice of that State, or contrary to public policy. In general, the standard for the
+exchange of information is the standard used by the States in the enforcement of their own laws
+by administrative and judicial authorities.
+The mutual exchange of information called for by these provision is presently in effect in
+most of the conventions to which the United States is a party and is substantially similar to the
+provision contained in the existing Convention.
+
+ARTICLE 27
+Assistance in Collection
+This Article, substantially similar to the assistance in collection Article in the existing
+Convention, provides for mutual assistance in the collection of taxes where required to avoid an
+abuse of the Convention. The provision is intended merely to insure that the benefits of the
+Convention will only be available with respect to persons entitled to such benefits; it does not in
+any way alter rights under other provisions of the Convention.
+
+The Article provides that each State will endeavor to collect for the other State such
+amounts as may be necessary to insure that any exemption or reduced rate of tax granted under
+the proposed Convention will not be availed of by persons not entitled to those benefits.
+However, this Article will not require a State, in order to collect taxes which are imposed by the
+other State, to undertake any administrative measures that differ from its internal regulations or
+practices nor will this Article require a State to undertake any administrative or judicial measures
+which are contrary to that State's sovereignty, security, or public policy.
+
+ARTICLE 28
+Miscellaneous
+This Article contains provisions normally found in other parts of tax conventions to
+which the United States is a party. Paragraph (1) is identical to Article 28 of the French
+Convention. This paragraph preserves the existing fiscal privileges of diplomatic and consular
+officials under the general rules of international law or under the provisions of special
+agreements. Paragraph (2) is substantially identical to paragraph (3) of Article 22 of the French
+Convention. This continues the general rule of taxation found in most tax conventions that the
+Convention does not affect in any manner any exclusion, exemption, deduction, credit, or other
+allowance now or hereafter accorded by the laws of a State in the determination of tax imposed
+by that State, or by any other agreement between the States. Even though the OECD Model
+Convention does not contain a comparable provision, this rule reflects the well-established
+principle that the Convention will not have the effect of increasing the tax burden on residents of
+the signatory countries. This rule represents the position of the United States under all
+conventions to which it is a party except that, to the extent a Convention specifically provides, it
+may be necessary to waive certain rights as a condition of claiming more advantageous treaty
+benefits. Paragraph (3) provides that the competent authorities of the two States may
+communicate with each other directly for the purpose of carrying out the provisions of this
+Convention.
+
+ARTICLE 29
+Extension to Territories
+This Article provides a method for extending the Convention, either in whole or in part or
+with such modifications as may be found necessary for special application in a particular case, to
+all or any areas for whose international relations the United States is responsible and which area
+imposes taxes substantially similar in character to those which are the subject of the Convention.
+It is limited to extension by the United States since Belgium no longer has any colonies or
+territories.
+Extension to an area may be accomplished through a written notification given to
+Belgium through diplomatic channels. Belgium shall indicate its acceptance by a written
+communication through diplomatic channels. When the notification and communication have
+been ratified in accordance with the constitutional procedures of each State and instruments of
+
+ratification exchanged, the extension will take effect from the date of, and be subject to such
+conditions as are specified in, the notification. Without such acceptance and exchange of
+instruments of ratification in respect of an area, none of the provisions of the Convention shall
+apply to such areas.
+Either of the States may terminate an extension with respect to any area by 6 months'
+prior written notice of termination given to the other State at any time after the date of entry into
+force of the extension. The termination will take effect for taxable years beginning on or after the
+first day of January next following the expiration of the 6-month period. The termination of an
+extension to a particular area will not affect the application of the Convention to the United
+States, Belgium, or any other area to which the Convention has been extended.
+
+Termination of the Convention by either State in accordance with Article 31
+(Termination) shall, unless otherwise expressly agreed by both States, terminate the application
+of the Convention to any area to which the Convention has been extended under this Article.
+
+ARTICLE 30
+Entry into Force
+This Article provides for the ratification of the proposed Convention and for the exchange
+of instruments of ratification. The Convention will enter into force one month after the data of
+exchange of such instruments. However, the provisions shall first have effect with respect to
+income of calendar years or taxable years beginning (or in the case of taxes payable at source,
+payments made) on or after January 1, 1971.
+The entry into force of the proposed Convention will terminate the Convention of
+October 28.1948, the Supplementary Conventions of September 9, 1952, and August 22, 1957,
+as well as the Protocol of May 21, 1965.
+
+ARTICLE 31
+Termination
+The Convention will continue in effect indefinitely, but may be terminated by either State
+at any time after the year 1975. A State seeking to terminate the Convention must give notice at
+least 6-months before the end of the calendar year through diplomatic channels. If the
+Convention is terminated, such termination will be effective with respect to income of calendar
+years or taxable years beginning (or, in the case of taxes payable to source, payments made) on or
+after January 1 next following the expiration of the 6-month period. However, upon prior notice
+to be given through diplomatic channels, the provisions of Article 17 (Social Security Payments)
+may be terminated by either State at any time after this Convention enters into force.
+October 6, 1970.
+
+PROTOCOL
+Technical Explanation of the Supplementary Protocol Signed at Washington. D.C. on
+December 31, 1987 Modifying and Supplementing the Convention Between the United States of
+America and the Kingdom of Belgium for the Avoidance of Double Taxation and the Prevention
+of Fiscal Evasion with Respect to Taxes on Income, Signed at Brussels on July 9. 1970.
+The Protocol signed at Washington, D.C. on December 31, 1987 (hereafter referred to as
+"the Protocol") amends the Convention signed on July 9, 1970 (hereafter referred to as " the 1970
+Convention"). It is an intermediate step in the renegotiation of the 1970 Convention.
+The technical explanation is an official guide to the Protocol. It reflects policies behind
+particular provisions and understandings reached with respect to the application and
+interpretation of the Protocol.
+
+ARTICLE 1
+Article 1 of the Protocol replaces Article 10 (Dividends) of the 1970 Convention. The
+principal change is to reduce to 5 percent the maximum allowable rate of tax at source on direct
+investment dividends.
+Paragraph 1 states that dividends paid by a company which is a resident of a Contracting
+State to a resident of the other Contracting State may be taxed in that other State. This provision,
+which comes from the OECD Model Draft Income Tax Convention confirms the provision of
+paragraph 1 of Article 23 (Relief from Double Taxation) of the 1970 Convention that each State
+reserves the right to tax its residents.
+Paragraph 2 provides that such dividends may also be taxed in the Contracting State of
+which the company paying the dividends is resident; but if the beneficial owner is a resident of
+the other State, the tax may not exceed specified limits. The tax is limited to 5 percent of the
+gross amount of the dividends if the beneficial owner is a company which directly owns at least
+10 percent of the voting stock of the company paying the dividends, and to 15 percent of the
+gross amount of the dividends in all other Cases. The 10 percent direct ownership test for the 5
+percent rate is consistent with the requirements of section 902 of the Internal Revenue Code for
+claiming an indirect foreign tax Credit. The Convention signed in 1970 limited the tax to 15
+percent of the gross amount of the dividends without regard to the degree of ownership of the
+shareholder.
+Paragraph 3 defines the term “dividends” for purposes of this Article. The first sentence is
+the same as the definition of dividends in the OECD Model Draft Income Tax Convention. The
+second Sentence permits Belgium to exercise an anti-abuse provision of its law by treating as
+dividends certain income with respect to capital invested by the owners of an unincorporated
+Belgian Company, for example interest on loans made to a closely-held general partnership by
+
+one or sore of its partners. A similar provision was included in the 1970 Convention.
+Paragraph 4 provides that, where the beneficial owner of the dividends is a resident of
+one Contracting State and the holding giving rise to the dividends is part of the assets of a
+permanent establishment or fixed base through which the owner carries on business or performs
+services in the other State, the dividends are not taxable in accordance with this Article, but in
+accordance with the provisions of Article 7 (Business Profits) or Article 14 (Independent
+Personal Services), whichever applies. This similar rule is also carried over from the 1970
+Convention.
+Paragraph 5 provides that dividends paid by a company which is a resident of a
+Contracting State to a resident of that same State shall be exempt from tax by the other State,
+except insofar as the dividends are paid with respect to a holding which forms part of the assets
+of a permanent establishment or fixed base in that other State. Where that exception applies, the
+dividends are covered under paragraph 4. Where the United States is the other Contracting State,
+it may also tax dividends paid by a Belgian company to a U.S. citizen resident in Belgium; the
+right to tax U.S. citizens is preserved in paragraph I of Article 23 (Relief from Double Taxation).
+The United States generally may not impose a second level withholding tax on dividends paid to
+residents of Belgium; however, it may impose such a tax in accordance with its law (including
+other income tax treaties on dividends paid by a Belgian company to residents of third countries.
+This provision is substantially similar to paragraph 4(a) of Article 10 (Dividends) of the 1970
+Convention.
+Paragraph 6 confirms Belgium's right to tax, in accordance with its internal law,
+dividends derived from Belgian corporations by the Belgian permanent establishment of a U.S.
+resident. Under current Belgian law, dividends paid by Belgian corporations are subject to a
+withholding tax of 25 percent. When the shareholder is another Belgian corporation which has
+held the shares for the full tax year, 95 percent of such dividends are exempt from corporate tax
+and the withheld amount may be credited against the corporate tax on other income. When the
+shares are part of the assets of a Belgian permanent establishment of a foreign corporation, the
+same exclusion applies, but the 25 percent withholding tax is a final tax; it may not be claimed as
+a credit against the Belgian tax on other income of the permanent establishment. This provision
+corresponds to the second sentence of paragraph 3 of Article 10 (Dividends) of the 1970
+Convention.
+
+ARTICLE 2
+Article 2 simply corrects a cross-reference.
+
+ARTICLE 3
+Article 3 inserts a new Article 12A (Limitation on Benefits) to ensure that the reduced
+withholding rates at source on dividends, interest and royalties provided in the Convention, as
+
+amended by the Protocol, will not be the object of “treaty shopping” by residents of third
+countries.
+Paragraph 1 provides that a resident of a Contracting State (other than an individual) shall
+not be entitled to relief from taxation at source under Articles 10 (Dividends), 11 (Interest) or 12
+(Royalties) unless one of three conditions is met. The first condition has two parts. More than 50
+percent of the beneficial interest in such person (or in the case of a company, more than 50
+percent of the number of each class of its shares) must be owned by residents of a Contracting
+State, the States themselves or political subdivisions or local authorities thereof, or U.S. citizens.
+In addition, more than 50 percent of the gross income of the person may not be paid out as
+interest or royalties to persons who are not qualifying owners, as defined above.
+The second test, which is an alternative to the first, is that the person derives the
+dividends, interest or royalties in connection with, or incidental to, the active conduct of a trade
+or business in the Contracting State of which it is a resident. For this purpose a business the
+principal activities of which are making or managing investments in the other State (where the
+income arises) does not qualify as the active conduct of a trade or business.
+The third test, which is an alternative to the other two, is that the principal class of shares
+of the company deriving the dividends, interest, or royalties is substantially and regularly traded
+on a recognized securities exchange, or that more than 50 percent of each class of its shares is
+owned by a resident of the same Contracting State which meets the substantial and regular
+trading requirement. For this purpose a "recognized securities exchange" is defined (in paragraph
+3) to mean a U.S. Securities exchange for purposes of the Securities Exchange Act of 1934, the
+NASDAQ System, the Belgian stock exchanges, and any other securities exchange agreed upon
+by the competent authorities of the United States and Belgium.
+Paragraph 2 explains how each Contracting State will interpret the term "gross income" in
+applying this Article. The United States will use the definition in the Internal Revenue Code,
+applying it to worldwide gross income. Belgium does not have a corresponding statutory
+definition. In its case the measure will be gross receipts or, for an enterprise which produces
+goods, gross receipts less the direct costs of labor and materials attributable to such production
+and payable out of such receipts.
+
+ARTICLE 4
+Article 4 provides the terms of the entry into force of the Protocol and the effective dates
+of its provisions. The Protocol, which will be an integral part of the 1970 Convention, is subject
+to ratification. The instruments of ratification will be exchanged at Washington, D.C. and the
+Protocol will enter into force on the fifteenth day after the date of that exchange. The provisions
+of the Protocol shall have effect retroactively with respect to dividends, interest, and royalties
+paid or credited on or after January 1, 1988.
+
+ARTICLE 5
+Article 5 provides that the Protocol, as an integral part of the 1970 Convention, shall
+remain in force as long as the 1970 Convention remains in force and shall terminate
+simultaneously with that Convention. A special rule, however, permits separate termination of
+the Protocol after it has been in force for five years if either State gives Six months' notice of
+termination in writing through diplomatic channels. In such a case, the provisions of the Protocol
+would cease to have effect for amounts paid or credited on or after the first day of January of the
+year following the notice of termination, and the provisions of the 1970 Convention, as it applied
+prior to amendment by the Protocol, shall have effect with respect to such amounts. This special
+rule is included, not because of any anticipated dissatisfaction with the operation of the Protocol,
+but as an indication of the intent of both sides to complete renegotiation of a full new treaty as
+promptly as feasible.
+
+EXCHANGE OF NOTES
+An exchange of notes, signed at the same time as the Protocol, confirms the
+understanding of the two delegations that the term beneficial interest', as used in paragraph
+1(a)(i) of Article 12A (Limitation on Benefits) of the English text of the Protocol has the same
+meaning in the French and Dutch texts of the Corresponding provision, notwithstanding any
+imprecision in the translations of that phrase.
+
+

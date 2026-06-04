@@ -1,0 +1,2485 @@
+Instructions for
+Form W-8BEN-E
+
+Department of the Treasury
+Internal Revenue Service
+
+(Rev. October 2021)
+
+Certificate of Status of Beneficial Owner for
+United States Tax Withholding and Reporting (Entities)
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+obtain an FTIN from their jurisdiction of residence. See the
+instructions for Line 9c.
+
+Future Developments
+
+Section 6050Y reporting. These instructions have been
+updated to reference the use of this form by an entity
+(other than a partnership, simple trust, or grantor trust)
+that is a foreign seller of a life insurance contract or that is
+a foreign person and a recipient of a reportable death
+benefit for purposes of reporting under section 6050Y.
+
+For the latest information about developments related to
+Form W-8BEN-E and its instructions, such as legislation
+enacted after they were published, go to IRS.gov/
+FormW8BENE.
+
+What's New
+Guidance under section 1446(f). The Tax Cuts and
+Jobs Act (TCJA), added section 1446(f), which generally
+requires that if the gain on any disposition of an interest in
+a partnership would be treated under section 864(c)(8) as
+effectively connected gain, the transferee purchasing an
+interest in such a partnership from a non-U.S. transferor
+must withhold a tax equal to 10% of the amount realized
+on the disposition unless an exception to withholding
+applies. T.D. 9926, published on November 30, 2020 (84
+FR 76910), contains final regulations (“the section 1446(f)
+regulations”) relating to the withholding and reporting
+required under section 1446(f), including for transfers of
+interests in publicly traded partnerships (“PTPs”).
+Withholding on transfers of interests in PTPs and the
+revisions included in the section 1446(f) regulations
+relating to withholding on PTP distributions under section
+1446(a) apply to transfers and distributions that occur on
+or after January 1, 2023. See Notice 2021-51, 2021-36
+I.R.B. 361, for more information. The provisions in the
+section 1446(f) regulations relating to withholding and
+reporting on transfers of interests in partnerships that are
+not PTPs generally apply to transfers occurring after
+January 29, 2021. These instructions have been updated
+to incorporate the use of this form by certain entities that
+are transferors of an interest in a partnership subject to
+withholding on the amount realized from the transfer. See
+Pub. 515 for an additional discussion of section 1446(f)
+withholding, including the effective dates of each
+provision.
+Line 4. Line 4, “Type of entity,” has been updated. The
+general classification for foreign government has been
+removed and replaced with the two possible
+classifications for a foreign government: (i) an integral part
+of a foreign government; or (ii) an entity that is controlled
+by a foreign government. See Temporary Regulations
+section 1.892-2T. See the instructions for Line 4, later.
+New Line 9c. New line 9c, “FTIN not legally required,”
+has been added for account holders otherwise required to
+provide a foreign tax identification number (FTIN) on
+line 9b, to indicate that they are not legally required to
+Sep 27, 2021
+
+Line 14, claim of tax treaty benefits. The instructions
+for this line have been updated to include a representation
+required by entities that are resident in a foreign country
+that has entered into an income tax treaty with the United
+States that does not contain a limitation on benefits (LOB)
+article.
+Line 15, special rates and conditions. The instructions
+for this line have been updated to include representations
+required by entities claiming treaty benefits on business
+profits or gains not attributable to a permanent
+establishment, including for a foreign partner that derives
+gain subject to tax under section 864(c)(8) upon the
+transfer of an interest in a partnership and that would be
+subjected to withholding under section 1446(f) on the
+transfer.
+Electronic signature. These instructions have been
+updated to include additional guidance included in the
+final regulations issued under chapter 3 (T.D. 9890)
+concerning the use of electronic signatures on withholding
+certificates. See Certification in Part XXX, later, and
+Regulations section 1.1441-1(e)(4)(i)(B).
+
+Reminder
+Note. If you are a resident in a FATCA partner jurisdiction
+(that is, a Model 1 IGA jurisdiction with reciprocity), certain
+tax account information may be provided to your
+jurisdiction of residence.
+
+General Instructions
+For definitions of terms used throughout these
+instructions, see Definitions, later.
+
+Purpose of Form
+
+This form is used by foreign entities to document their
+statuses for purposes of chapter 3 and chapter 4, as well
+as for certain other Code provisions as described later in
+these instructions.
+Foreign persons are subject to U.S. tax at a 30% rate
+on income they receive from U.S. sources that consists of:
+• Interest (including certain original issue discount (OID));
+
+Cat. No. 59691Z
+
+• Dividends;
+• Rents;
+• Royalties;
+• Premiums;
+• Annuities;
+• Compensation for, or in expectation of, services
+
+not apply to payments of interest for which the recipient is
+a 10 percent shareholder of the payer or to payments of
+interest received by a controlled foreign corporation from
+a related person. See sections 881(c)(3) and 881(c)(5). A
+future version of this form may require that persons
+receiving interest payments to which this form relates
+identify any obligation with respect to which they have one
+of these prohibited relationships.
+
+performed;
+• Substitute payments in a securities lending transaction;
+or
+• Other fixed or determinable annual or periodical gains,
+profits, or income.
+
+You may also be required to submit Form W-8BEN-E to
+claim an exception from domestic information reporting on
+Form 1099 and backup withholding (at the backup
+withholding rate under section 3406) for certain types of
+income. Such income includes:
+• Broker proceeds.
+• Short-term (183 days or less) original issue discount
+(short-term OID).
+• Bank deposit interest.
+• Foreign source interest, dividends, rents, or royalties.
+
+This tax is imposed on the gross amount paid and is
+generally collected by withholding under section 1441 or
+1442 on that amount. A payment is considered to have
+been made whether it is made directly to the beneficial
+owner or to another person, such as an intermediary,
+agent, or partnership, for the benefit of the beneficial
+owner.
+Section 1446(a) requires a partnership conducting a
+trade or business in the United States to withhold tax on a
+foreign partner’s allocable share of the partnership’s
+effectively connected taxable income. In addition, section
+1446(f) generally requires a transferee of a partnership
+interest (or a broker in the case of a transfer of a PTP
+interest) to withhold on the amount realized from the
+transfer when any portion of the gain from the transfer is
+treated as effectively connected gain under section 864(c)
+(8). Generally, a foreign person that is a partner in a
+partnership that submits a Form W-8BEN-E for purposes
+of section 1441 or 1442 will satisfy the documentation
+requirements under section 1446(a) or (f) as well.
+However, in some cases the documentation requirements
+of sections 1441 and 1442 do not match the
+documentation requirements of section 1446(a) or (f). See
+Regulations sections 1.1446-1 through 1.1446-6 (for
+documentation requirements under section 1446(a)) and
+Regulations sections 1.1446(f)-2 and 1.1446(f)-4 (for
+documentation requirements under section 1446(f)).
+
+Provide Form W-8BEN-E to the withholding agent or
+payer before income is paid or credited to you. Failure to
+provide a Form W-8BEN-E when requested may lead to
+withholding at a 30% rate or the backup withholding rate
+in certain cases when you receive a payment to which
+backup withholding applies.
+In addition to the requirements of chapter 3, chapter 4
+requires withholding agents to identify the chapter 4 status
+of entities that are payees receiving withholdable
+payments. A withholding agent may request this Form
+W-8BEN-E to establish your chapter 4 status and avoid
+withholding at a 30% rate on such payments.
+Chapter 4 also requires participating FFIs and certain
+registered deemed-compliant FFIs to document their
+entity account holders in order to determine their
+chapter 4 statuses regardless of whether withholding
+applies to any payments made to the entities. If you are an
+entity maintaining an account with an FFI, the FFI may
+request that you provide this Form W-8BEN-E in order to
+document your chapter 4 status.
+
+A withholding agent or payer of the income may rely on
+a properly completed Form W-8BEN-E to treat a payment
+associated with the Form W-8BEN-E as a payment to a
+foreign person who beneficially owns the amounts paid. If
+applicable, the withholding agent may rely on the Form
+W-8BEN-E to apply a reduced rate of, or exemption from,
+withholding. If you receive certain types of income, you
+must provide Form W-8BEN-E to:
+• Claim that you are the beneficial owner of the income
+for which Form W-8BEN-E is being provided or a partner
+in a partnership subject to section 1446; and
+• If applicable, claim a reduced rate of, or exemption
+from, withholding as a resident of a foreign country with
+which the United States has an income tax treaty.
+
+Additional information. For additional information and
+instructions for the withholding agent, see the Instructions
+for the Requester of Forms W-8BEN, W-8BEN-E,
+W-8ECI, W-8EXP, and W-8IMY.
+
+Who Must Provide Form W-8BEN-E
+
+You must give Form W-8BEN-E to the withholding agent
+or payer if you are a foreign entity receiving a withholdable
+payment from a withholding agent, receiving a payment
+subject to chapter 3 withholding, or if you are an entity
+maintaining an account with an FFI requesting this form.
+• You must provide Form W-8EN-E to the 6050Y(b)
+issuer (as defined under Regulations section
+1.6050Y-1(a)(8)(iii)), to establish your foreign status if you
+are a foreign entity (other than a partnership, simple trust
+or grantor trust) that is the seller of a life insurance
+contract under section 6050Y(b) (excluding a payment of
+effectively connected income). See Regulations section
+1.6050Y-3.
+• You must also provide Form W-8BEN-E to the payor
+(as defined under Regulations section 1.6050Y-1(a)(11)),
+to establish your foreign status if you are an entity
+receiving a payment of reportable death benefits for
+
+You may also use Form W-8BEN-E to identify income
+from a notional principal contract that is not effectively
+connected with the conduct of a trade or business in the
+United States to establish the exception to reporting such
+income on Form 1042-S. See Regulations section
+1.1461-1(c)(2)(ii)(F).
+Form W-8BEN-E may also be used to claim an
+exemption from withholding for portfolio interest pursuant
+to section 881(c). The portfolio interest exemption does
+-2-
+
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+government of a U.S. possession claiming the
+applicability of section 115(2), 501(c), 892, 895, or
+1443(b). Instead, provide Form W-8EXP, Certificate of
+Foreign Government or Other Foreign Organization for
+United States Tax Withholding and Reporting, to certify to
+your exemption and identify your chapter 4 status.
+However, you should provide Form W-8BEN-E if you are
+claiming treaty benefits, and you may provide this form if
+you are only claiming you are a foreign person exempt
+from backup withholding or documenting your chapter 4
+status. For example, a foreign tax-exempt organization
+under section 501(c) receiving royalty income that is not
+exempt because it is taxable as unrelated business
+income but that is eligible for a reduced rate of withholding
+under a royalty article of a tax treaty should provide Form
+W-8BEN-E. You should use Form W-8ECI if you are
+receiving effectively connected income (for example,
+income from commercial activities that is not exempt
+under an applicable section of the Code).
+• You are a foreign reverse hybrid entity transmitting
+documentation provided by your interest holders to claim
+treaty benefits on their behalf. Instead, provide Form
+W-8IMY. A foreign reverse hybrid entity also may not use
+this form to attempt to claim treaty benefits on its own
+behalf. See Foreign Reverse Hybrid Entities,later.
+• You are a withholding foreign partnership or a
+withholding foreign trust within the meaning of sections
+1441 through 1443 and the accompanying regulations.
+Instead, provide Form W-8IMY.
+• You are a foreign partnership or foreign grantor trust
+providing documentation for purposes of section 1446(a).
+Instead, provide Form W-8IMY and accompanying
+documentation.
+• You are a foreign partnership or foreign grantor trust
+that is the transferor of a partnership interest for purposes
+of section 1446(f). Instead, provide Form W-8IMY.
+• You are a foreign branch of a U.S. financial institution
+that is an FFI (other than a qualified intermediary branch)
+under an applicable Model 1 IGA. For purposes of
+identifying yourself to withholding agents, you may submit
+Form W-9 to certify to your U.S. status.
+
+purposes of section 6050Y(b) (other than a foreign
+partnership or a grantor or simple trust receiving a
+payment of reportable death benefits or a payment of
+effectively connected income that is subject to chapter 3
+withholding). See Regulations section 1.6050Y-4.
+Do not use Form W-8BEN-E. Do not use Form
+W-8BEN-E if:
+• You are a U.S. person (including U.S. citizens, resident
+aliens, and entities treated as U.S. persons, such as a
+corporation organized under the law of a state). Instead,
+use Form W-9, Request for Taxpayer Identification
+Number and Certification.
+• You are a foreign insurance company that has made an
+election under section 953(d) to be treated as a U.S.
+person. Instead, provide a withholding agent with Form
+W-9 to certify to your U.S. status even if you are
+considered an FFI for purposes of chapter 4.
+• You are a nonresident alien individual. Instead, use
+Form W-8BEN, Certificate of Foreign Status of Beneficial
+Owner for United States Tax Withholding and Reporting
+(Individuals), or Form 8233, Exemption From Withholding
+on Compensation for Independent (and Certain
+Dependent) Personal Services of a Nonresident Alien
+Individual, as applicable.
+• You are a disregarded entity, branch, or flow-through
+entity for U.S. tax purposes. However, you may use this
+form if you are a disregarded entity or flow-through entity
+using this form either solely to document your chapter 4
+status (because you hold an account with an FFI) or, if you
+are a disregarded entity or a partnership, to claim treaty
+benefits because you are a hybrid entity liable to tax as a
+resident for treaty purposes. See Hybrid Entity Making a
+Claim of Treaty Benefits under Special Instructions, later.
+A flow-through entity may also use this form for purposes
+of documenting itself as a participating payee for
+purposes of section 6050W. If you are a disregarded
+entity with a single owner or branch of an FFI, the single
+owner, if such owner is a foreign person, should provide
+Form W-8BEN or Form W-8BEN-E (as appropriate). If the
+single owner is a U.S. person, a Form W-9 should be
+provided. If you are a partnership, you should provide a
+Form W-8IMY, Certificate of Foreign Intermediary,
+Foreign Flow-Through Entity, or Certain U.S. Branches for
+United States Tax Withholding and Reporting.
+• You are acting as an intermediary (that is, acting not for
+your own account, but for the account of others as an
+agent, nominee, or custodian), a qualified intermediary
+(including a qualified intermediary acting as a qualified
+derivatives dealer), or a qualified securities lender (QSL).
+Instead, provide Form W-8IMY.
+• You are receiving income that is effectively connected
+with the conduct of a trade or business in the United
+States, unless it is allocable to you through a partnership.
+Instead, provide Form W-8ECI, Certificate of Foreign
+Person’s Claim That Income Is Effectively Connected
+With the Conduct of a Trade or Business in the United
+States. If any of the income for which you have provided a
+Form W-8BEN-E becomes effectively connected, this is a
+change in circumstances and the Form W-8BEN-E is no
+longer valid.
+• You are filing for a foreign government, international
+organization, foreign central bank of issue, foreign
+tax-exempt organization, foreign private foundation, or
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+Giving Form W-8BEN-E to the withholding agent. Do
+not send Form W-8BEN-E to the IRS. Instead, give it to
+the person who is requesting it from you. Generally, this
+will be the person from whom you receive the payment,
+who credits your account, or a partnership that allocates
+income to you. An FFI may also request this form from you
+to document the status of your account.
+When to provide Form W-8BEN-E to the withholding
+agent. Give Form W-8BEN-E to the person requesting it
+before the payment is made to you, credited to your
+account, or allocated. If you do not provide this form, the
+withholding agent may have to withhold at the 30% rate
+(as applicable under chapters 3 or 4), backup withholding
+rate, or the rate applicable under section 1446. If you
+receive more than one type of income from a single
+withholding agent for which you claim different benefits,
+the withholding agent may, at its option, require you to
+submit a Form W-8BEN-E for each type of income.
+Generally, a separate Form W-8BEN-E must be given to
+each withholding agent.
+
+-3-
+
+Note. If you own the income with one or more other
+persons, the income will be treated by the withholding
+agent as owned by a foreign person that is a beneficial
+owner of a payment only if Form W-8BEN or W-8BEN-E
+(or other applicable document) is provided by each of the
+owners. An account will be treated as a U.S. account for
+chapter 4 purposes by an FFI requesting this form if any of
+the account holders is a specified U.S. person or a
+U.S.-owned foreign entity (unless the account is otherwise
+excepted from U.S. account status for chapter 4
+purposes).
+
+through 1.1001-5) and section 752 (including Regulations
+sections 1.752-1 through 1.752-7). See Regulations
+section 1.1446(f)-2(c)(2). An amount realized on the
+transfer of a PTP interest is the amount of gross proceeds
+(as defined in Regulations section 1.6045-1(d)(5)) paid or
+credited to a partner or broker (as applicable) that is a
+transferor of the interest. The amount realized on a PTP
+distribution is the amount of the distribution reduced by
+the portion of the distribution that is attributable to the
+cumulative net income of the partnership (as determined
+under Regulations section 1.1446(f)-4(c)(2)(iii)).
+
+Change in circumstances. If a change in
+circumstances makes any information on the Form
+W-8BEN-E you have submitted incorrect for purposes of
+either chapter 3 or chapter 4, you must notify the
+withholding agent or financial institution maintaining your
+account within 30 days of the change in circumstances by
+providing the documentation required in Regulations
+section 1.1471-3(c)(6)(ii)(E)(2). See Regulations sections
+1.1441-1(e)(4)(ii)(D) for the definition of change in
+circumstances for purposes of chapter 3, and 1.1471-3(c)
+(6)(ii)(E) for purposes of chapter 4.
+
+Amounts subject to chapter 3 withholding. Generally,
+an amount subject to chapter 3 withholding is an amount
+from sources within the United States that is fixed or
+determinable annual or periodical (FDAP) income
+(including such an amount on a PTP distribution unless
+indicated otherwise). FDAP income is all income included
+in gross income, including interest (as well as OID),
+dividends, rents, royalties, and compensation. Amounts
+subject to chapter 3 withholding do not include amounts
+that are not FDAP, such as most gains from the sale of
+property (including market discount and option
+premiums), as well as other specific items of income
+described in Regulations section 1.1441-2 (such as
+interest on bank deposits and short-term OID).
+For purposes of section 1446(a), the amount subject to
+withholding is the foreign partner’s share of the
+partnership’s effectively connected taxable income. For
+purposes of section 1446(f), the amount subject to
+withholding is the amount realized on the transfer of a
+partnership interest.
+
+With respect to an FFI claiming a chapter 4 status
+under an applicable IGA, a change in
+CAUTION circumstances includes when the jurisdiction
+where the FFI is organized or resident (or the jurisdiction
+identified in Part II of the form) was included on the list of
+jurisdictions treated as having an intergovernmental
+agreement in effect and is removed from that list or when
+the FATCA status of the jurisdiction changes (for
+example, from Model 2 to Model 1). The list of
+agreements is maintained at www.treasury.gov/resourcecenter/tax-policy/treaties/Pages/FATCA-Archive.aspx.
+
+!
+
+Beneficial owner. For payments other than those for
+which a reduced rate of, or exemption from, withholding is
+claimed under an income tax treaty, the beneficial owner
+of income is generally the person who is required under
+U.S. tax principles to include the payment in gross income
+on a tax return. A person is not a beneficial owner of
+income, however, to the extent that person is receiving the
+income as a nominee, agent, or custodian, or to the extent
+the person is a conduit whose participation in a
+transaction is disregarded. In the case of amounts paid
+that do not constitute income, beneficial ownership is
+determined as if the payment were income.
+Foreign partnerships, foreign simple trusts, and foreign
+grantor trusts are not the beneficial owners of income paid
+to the partnership or trust. The beneficial owners of
+income paid to a foreign partnership are generally the
+partners in the partnership, provided that the partner is not
+itself a partnership, foreign simple or grantor trust,
+nominee or other agent. The beneficial owners of income
+paid to a foreign simple trust (that is, a foreign trust that is
+described in section 651(a)) are generally the
+beneficiaries of the trust, if the beneficiary is not a foreign
+partnership, foreign simple or grantor trust, nominee, or
+other agent. The beneficial owners of income paid to a
+foreign grantor trust (that is, a foreign trust to the extent
+that all or a portion of the income of the trust is treated as
+owned by the grantor or another person under sections
+671 through 679) are the persons treated as the owners of
+the trust. The beneficial owners of income paid to a
+foreign complex trust (that is, a foreign trust that is not a
+
+Expiration of Form W-8BEN-E. Generally, a Form
+W-8BEN-E will remain valid for purposes of both chapters
+3 and 4 for a period starting on the date the form is signed
+and ending on the last day of the third succeeding
+calendar year, unless a change in circumstances makes
+any information on the form incorrect. For example, a
+Form W-8BEN signed on September 30, 2014, remains
+valid through December 31, 2017.
+However, under certain conditions a Form W-8BEN-E
+will remain in effect indefinitely absent a change of
+circumstances. See Regulations sections 1.1441-1(e)(4)
+(ii) and 1.1471-3(c)(6)(ii) for the period of validity for
+chapters 3 and 4 purposes, respectively.
+
+Definitions
+Account holder. An account holder is generally the
+person listed or identified as the holder or owner of a
+financial account. For example, if a partnership is listed as
+the holder or owner of a financial account, then the
+partnership is the account holder, rather than the partners
+of the partnership. However, an account that is held by a
+disregarded entity (other than a disregarded entity treated
+as an FFI for chapter 4 purposes) is treated as held by the
+entity's single owner.
+Amount realized. For purposes of section 1446(f), an
+amount realized on the transfer of an interest in a
+partnership other than a PTP is as determined under
+section 1001 (including Regulations sections 1.1001-1
+-4-
+
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+Certain entities that are disregarded for U.S. tax
+purposes may be treated as treaty residents for purposes
+of claiming treaty benefits under an applicable tax treaty
+or may be recognized as FFIs under an applicable IGA. A
+hybrid entity claiming treaty benefits on its own behalf is
+required to complete Form W-8BEN-E. See Hybrid Entity
+Making a Claim of Treaty Benefits under Special
+Instructions, later.
+A disregarded entity with a U.S. owner or a disregarded
+entity with a foreign owner that is not otherwise able to fill
+out Part II (that is, because it is in the same country as its
+single owner and does not have a GIIN) may provide this
+form to an FFI solely for purposes of documenting itself for
+chapter 4 purposes. In such a case, the disregarded entity
+should complete Part I as if it were a beneficial owner and
+should not complete line 3.
+
+foreign simple trust or foreign grantor trust) is the trust
+itself.
+Generally, for purposes of section 1446(a) or (f), the
+same beneficial owner rules apply, except that under
+section 1446(a) or (f) a foreign simple trust is required to
+provide a Form W-8BEN-E on its own behalf, rather than
+on behalf of the beneficiary of such trust.
+The beneficial owner of income paid to a foreign estate
+is the estate itself.
+A payment to a U.S. partnership, U.S. trust, or U.S.
+estate is treated as a payment to a U.S. payee. A U.S.
+partnership, trust, or estate should provide the withholding
+agent with a Form W-9 pertaining to itself. However, for
+purposes of section 1446(a), a U.S. grantor trust or
+disregarded entity shall not provide the withholding agent
+a Form W-9. Instead, the entity must provide an
+applicable Form W-8 or Form W-9 pertaining to each
+grantor or owner, as appropriate, and, in the case of a
+trust, a statement identifying the portion of the trust
+treated as owned by each such person. For purposes of
+section 1446(f), the grantor or owner must provide an
+applicable Form W-8 or Form W-9 to certify its status and
+the amount realized allocable to the grantor or owner,
+which, alternatively, can be provided by the U.S. grantor
+trust on behalf of a grantor or owner.
+
+Financial account. A financial account includes:
+• A depository account maintained by an FFI;
+• A custodial account maintained by an FFI;
+• Equity or debt interests (other than interests regularly
+traded on an established securities market) in investment
+entities and certain holding companies, treasury centers,
+or financial institutions as defined in Regulations section
+1.1471-5(e);
+• Certain cash value insurance contracts; and
+• Annuity contracts.
+For purposes of chapter 4, exceptions are provided for
+accounts such as certain tax-favored savings accounts,
+term life insurance contracts, accounts held by estates,
+escrow accounts, and certain annuity contracts. These
+exceptions are subject to certain conditions. See
+Regulations section 1.1471-5(b)(2). Accounts may also
+be excluded from the definition of financial account under
+an applicable IGA.
+
+Chapter 3. Chapter 3 means chapter 3 of the Internal
+Revenue Code (Withholding of Tax on Nonresident Aliens
+and Foreign Corporations). Chapter 3 contains sections
+1441 through 1464, excluding sections 1445 and 1446.
+Chapter 4. Chapter 4 means chapter 4 of the Internal
+Revenue Code (Taxes to Enforce Reporting on Certain
+Foreign Accounts). Chapter 4 contains sections 1471
+through 1474.
+Chapter 4 status. The term chapter 4 status means a
+person’s status as a U.S. person, specified U.S. person,
+foreign individual, participating FFI, deemed-compliant
+FFI, restricted distributor, exempt beneficial owner,
+nonparticipating FFI, territory financial institution,
+excepted NFFE, or passive NFFE.
+
+Financial institution. A financial institution generally
+means an entity that is a depository institution, custodial
+institution, investment entity, or an insurance company (or
+holding company of an insurance company) that issues
+cash value insurance or annuity contracts. See
+Regulations section 1.1471-5(e).
+An investment entity organized in a territory that is not
+also a depository institution, custodial institution, or
+specified insurance company is not treated as a financial
+institution. Instead, it is a territory NFFE. If such an entity
+cannot qualify as an excepted NFFE as described in
+Regulations section 1.1472-1(c)(1) (including an excepted
+territory NFFE), it must disclose its substantial U.S.
+owners using this definition (applying the 10 percent
+threshold) under Regulations section 1.1473-1(b)(1).
+
+Deemed-compliant FFI. Under section 1471(b)(2),
+certain FFIs are deemed to comply with the regulations
+under chapter 4 without the need to enter into an FFI
+agreement with the IRS. However, certain
+deemed-compliant FFIs are required to register with the
+IRS and obtain a GIIN. These FFIs are referred to as
+registered deemed-compliant FFIs. See Regulations
+section 1.1471-5(f)(1).
+Disregarded entity. A business entity that has a single
+owner and is not a corporation under Regulations section
+301.7701-2(b) is disregarded as an entity separate from
+its owner. Generally, a disregarded entity does not submit
+this Form W-8BEN-E to a withholding agent. Instead, the
+owner of such entity provides the appropriate
+documentation (for example, a Form W-8BEN-E if the
+owner is a foreign entity). However, if a disregarded entity
+receiving a withholdable payment is an FFI outside the
+single owner’s country of organization or has its own GIIN,
+its foreign owner will be required to complete Part II of
+Form W-8BEN-E to document the chapter 4 status of the
+disregarded entity receiving the payment.
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+Foreign financial institution (FFI). A foreign financial
+institution (FFI) means a foreign entity that is a financial
+institution.
+Fiscally transparent entity. An entity is treated as
+fiscally transparent with respect to an item of income for
+which treaty benefits are claimed to the extent that the
+interest holders in the entity must, on a current basis, take
+into account separately their shares of an item of income
+paid to the entity, whether or not distributed, and must
+determine the character of the items of income as if they
+were realized directly from the sources from which
+realized by the entity. For example, partnerships, common
+-5-
+
+trust funds, and simple trusts or grantor trusts are
+generally considered to be fiscally transparent with
+respect to items of income received by them.
+
+Nonparticipating FFI. A nonparticipating FFI means an
+FFI that is not a participating FFI, deemed-compliant FFI,
+or exempt beneficial owner.
+
+Flow-through entity. A flow-through entity is a foreign
+partnership (other than a withholding foreign partnership),
+a foreign simple or foreign grantor trust (other than a
+withholding foreign trust), or, for payments for which a
+reduced rate of, or exemption from, withholding is claimed
+under an income tax treaty, any entity to the extent the
+entity is considered to be fiscally transparent with respect
+to the payment by an interest holder’s jurisdiction.
+
+Nonreporting IGA FFI. A nonreporting IGA FFI is an FFI
+that is a resident of, or located or established in, a Model
+1 or Model 2 IGA jurisdiction that meets the requirements
+of:
+• A nonreporting financial institution described in a
+specific category in Annex II of the Model 1 or Model 2
+IGA;
+• A registered deemed-compliant FFI described in
+Regulations section 1.1471-5(f)(1)(i)(A) through (F);
+• A certified deemed-compliant FFI described in
+Regulations section 1.1471-5(f)(2)(i) through (v); or
+• An exempt beneficial owner described in Regulations
+section 1.1471-6.
+
+Foreign person. A foreign person includes a foreign
+corporation, a foreign partnership, a foreign trust, a foreign
+estate, and any other person that is not a U.S. person. It
+also includes a foreign branch or office of a U.S. financial
+institution or U.S. clearing organization if the foreign
+branch is a qualified intermediary. Generally, a payment to
+a U.S. branch of a foreign person is a payment to a foreign
+person.
+
+Participating FFI. A participating FFI is an FFI that has
+agreed to comply with the terms of an FFI agreement with
+respect to all branches of the FFI, other than a branch that
+is a reporting Model 1 FFI or a U.S. branch. The term
+participating FFI also includes a reporting Model 2 FFI and
+a QI branch of a U.S. financial institution unless such
+branch is a reporting Model 1 FFI.
+
+GIIN. The term GIIN means a global intermediary
+identification number. A GIIN is the identification number
+assigned to an entity that has registered with the IRS for
+chapter 4 purposes.
+
+Participating payee. A participating payee means any
+person that accepts a payment card as payment or
+accepts payment from a third party settlement
+organization in settlement of a third party network
+transaction for purposes of section 6050W.
+
+Hybrid entity. A hybrid entity is any person (other than
+an individual) that is treated as fiscally transparent for
+purposes of its status under the Code but is not treated as
+fiscally transparent by a country with which the United
+States has an income tax treaty. Hybrid entity status is
+relevant for claiming treaty benefits. A hybrid entity is
+required to provide its chapter 4 status if it is receiving a
+withholdable payment.
+
+Payee. A payee is generally a person to whom a
+payment is made regardless of whether such person is
+the beneficial owner. For a payment made to a financial
+account, the payee is generally the holder of the financial
+account. See Regulations sections 1.1441-1(b)(2) and
+1.1471-3(a)(3).
+
+Intergovernmental agreement (IGA). An
+intergovernmental agreement (IGA) means a Model 1 IGA
+or a Model 2 IGA. For a list of jurisdictions treated as
+having in effect a Model 1 or Model 2 IGA, see
+www.treasury.gov/resource-center/tax-policy/treaties/
+Pages/FATCA-Archive.aspx.
+A Model 1 IGA means an agreement between the
+United States or the Treasury Department and a foreign
+government or one or more agencies to implement
+FATCA through reporting by FFIs to such foreign
+government or agency, followed by automatic exchange
+of the reported information with the IRS. An FFI in a Model
+1 IGA jurisdiction that performs account reporting to the
+jurisdiction’s government is referred to as a reporting
+Model 1 FFI.
+A Model 2 IGA means an agreement or arrangement
+between the United States or the Treasury Department
+and a foreign government or one or more agencies to
+implement FATCA through reporting by FFIs directly to
+the IRS in accordance with the requirements of an FFI
+agreement, supplemented by the exchange of information
+between such foreign government or agency and the IRS.
+An FFI in a Model 2 IGA jurisdiction that has entered into
+an FFI agreement with respect to a branch is a
+participating FFI but may be referred to as a reporting
+Model 2 FFI.
+The term reporting IGA FFI refers to both reporting
+Model 1 FFIs and reporting Model 2 FFIs.
+
+Payment settlement entity (PSE). A payment
+settlement entity is a merchant acquiring entity or third
+party settlement organization. Under section 6050W, a
+PSE is generally required to report payments made in
+settlement of payment card transactions or third party
+network transactions. However, a PSE is not required to
+report payments made to a beneficial owner that is
+documented as foreign with an applicable Form W-8.
+Publicly Traded Partnership (PTP). A PTP is an entity
+that has the same meaning as in section 7704 and
+Regulations section 1.7704-4 but does not include a PTP
+treated as a corporation under that section.
+PTP interest. A PTP interest is an interest in a PTP if the
+interest is publicly traded on an established securities
+market or is readily tradable on a secondary market (or
+the substantial equivalent thereof).
+Qualified intermediary (QI). A qualified intermediary
+(QI) is a person that is a party to an agreement with the
+IRS that is described in Regulations section 1.1441-1(e)
+(5)(iii). A qualified derivatives dealer (QDD) is a QI that
+has agreed to certain reporting and withholding
+requirements pursuant to Regulations section 1.1441-1(e)
+(6).
+Recalcitrant account holder. A recalcitrant account
+holder includes an entity (other than an entity required to
+-6-
+
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+use Form W-9 to certify its status as a U.S. person for
+chapter 3 and chapter 4 purposes.
+
+be treated as a nonparticipating FFI) that fails to comply
+with a request by an FFI maintaining the account for
+documentation and information for determining whether
+the account is a U.S. account. See Regulations section
+1.1471-5(g).
+
+Withholdable payment. A withholdable payment is
+defined in Regulations section 1.1473-1(a). For
+exceptions applicable to the definition of a withholdable
+payment, see Regulations section 1.1473-1(a)(4) (for
+example, certain nonfinancial payments).
+
+Reverse hybrid entity. A reverse hybrid entity is any
+person (other than an individual) that is not fiscally
+transparent under U.S. tax law principles but that is
+fiscally transparent under the laws of a jurisdiction with
+which the United States has an income tax treaty. See
+Form W-8IMY and the accompanying instructions for
+information on a reverse hybrid entity making a claim of
+treaty benefits on behalf of its owners.
+
+Withholding agent. Any person, U.S. or foreign, that has
+control, receipt, custody, disposal, or payment of U.S.
+source FDAP income subject to chapter 3 or 4 withholding
+is a withholding agent. The withholding agent may be an
+individual, corporation, partnership, trust, association, or
+any other entity, including (but not limited to) any foreign
+intermediary, foreign partnership, and U.S. branches of
+certain foreign banks and insurance companies.
+For purposes of section 1446(a), the withholding agent
+is the partnership conducting the trade or business in the
+United States. For a partnership distribution made by a
+PTP, the withholding agent for purposes of section
+1446(a) may be the PTP, a nominee holding an interest
+on behalf of a foreign person, or both. See Regulations
+sections 1.1446-1 through 1.1446-6.
+
+Specified U.S. person. A specified U.S. person is any
+U.S. person other than a person identified in Regulations
+section 1.1473-1(c).
+Substantial U.S. owner. A substantial U.S. owner (as
+defined in Regulations section 1.1473-1(b)) means any
+specified U.S. person that:
+• Owns, directly or indirectly, more than 10 percent (by
+vote or value) of the stock of any foreign corporation;
+• Owns, directly or indirectly, more than 10 percent of the
+profits or capital interests in a foreign partnership;
+• Is treated as an owner of any portion of a foreign trust
+under sections 671 through 679; or
+• Holds, directly or indirectly, more than a 10 percent
+beneficial interest in a trust.
+
+Specific Instructions
+Part I – Identification
+of Beneficial Owner
+
+Transfer. A transfer is a sale, exchange, or other
+disposition of a partnership interest, and includes a
+distribution from a partnership to a partner, as well as a
+transfer treated as a sale or exchange under section
+707(a)(2)(B).
+
+Line 1. Enter your name. If you are a disregarded entity
+or branch, do not enter your business name. Instead,
+enter the legal name of your owner (or, if you are a
+branch, the entity that you form a part of) (looking through
+multiple disregarded entities if applicable). If you are a
+disregarded entity that is a hybrid entity filing a treaty
+claim, however, see Hybrid Entity Making a Claim of
+Treaty Benefits under Special Instructions, later.
+
+Transferee. A transferee is any person, foreign or
+domestic, that acquires a partnership interest through a
+transfer and includes a partnership that makes a
+distribution.
+
+If you are an account holder providing this form to
+
+Transferor. A transferor is any person, foreign or
+domestic, that transfers a partnership interest. In the case
+of a trust, to the extent all or a portion of the income of the
+trust is treated as owned by the grantor or another person
+under sections 671 through 679 (such trust, a grantor
+trust), the term transferor means the grantor or other
+person.
+
+TIP an FFI solely for purposes of documenting
+
+yourself as an account holder and you are not
+receiving a withholdable payment or reportable amount
+(as defined in Regulations section 1.1441-1(e)(3)(vi)), you
+should complete Part I by substituting the references to
+“beneficial owner” with “account holder.”
+
+U.S. person. A U.S. person is defined in section 7701(a)
+(30) and includes domestic partnerships, corporations,
+and trusts.
+
+The named holder on the account is not
+necessarily the account holder for purposes of
+CAUTION chapter 4. See Definitions, earlier, or, for an
+account maintained by an FFI covered by a Model 1 or
+Model 2 IGA with respect to the account, the definition of
+account holder in an applicable IGA to determine if you
+are the account holder. If you hold an account with an FFI
+and are unsure whether the definition of “account holder”
+under an IGA is applicable to your account, consult with
+the FFI requesting this form.
+
+!
+
+Certain foreign insurance companies issuing
+annuities or cash value insurance contracts that
+CAUTION elect to be treated as a U.S. person for federal tax
+purposes but are not licensed to do business in the United
+States are treated as FFIs for purposes of chapter 4. For
+purposes of providing a withholding agent with
+documentation for both chapter 3 and chapter 4 purposes,
+however, such an insurance company is permitted to use
+Form W-9 to certify its status as a U.S. person. Likewise,
+a foreign branch of a U.S. financial institution (other than a
+branch that operates as a qualified intermediary) that is
+treated as an FFI under an applicable IGA is permitted to
+
+!
+
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+Line 2. If you are a corporation, enter your country of
+incorporation. If you are another type of entity, enter the
+country under whose laws you are created, organized, or
+governed.
+
+-7-
+
+Line 5. Check the one box that applies to your chapter 4
+status. You are only required to provide a chapter 4 status
+on this form if you are the payee of a withholdable
+payment or are documenting the status of a financial
+account you hold with an FFI requesting this form. By
+checking a box on this line, you are representing that you
+qualify for this classification in your country of residence.
+
+Line 3. If you are a disregarded entity receiving a
+withholdable payment, enter your name on line 3 if you: 1)
+have registered with the IRS and been assigned a GIIN
+associated with the legal name of the disregarded entity;
+2) are a reporting Model 1 FFI or reporting Model 2 FFI;
+and 3) are not a hybrid entity using this form to claim
+treaty benefits.
+If you are not required to provide the legal name of
+the disregarded entity, you may want to notify the
+CAUTION withholding agent that you are a disregarded
+entity receiving a payment or maintaining an account by
+indicating the name of the disregarded entity on line 10. If
+you wish to report the name of a disregarded entity
+holding an account with the withholding agent requesting
+this form for only information purposes (that is, the
+disregarded entity is not reported on line 1 or in Part II of
+this form), you may enter the disregarded entity's name on
+line 3.
+
+For most of the chapter 4 statuses, you are
+
+TIP required to complete an additional part of this form
+
+!
+
+certifying that you meet the conditions of the
+status indicated on line 5. Complete the required portion
+of this form before signing and providing it to the
+withholding agent. See Entities Providing Certifications
+Under an Applicable IGA under Special Instructions, later.
+
+FFIs Covered by an IGA and Related Entities
+
+A reporting IGA FFI resident in, or established under the
+laws of, a jurisdiction covered by a Model 1 IGA should
+check “Reporting Model 1 FFI.” A reporting FFI resident
+in, or established under the laws of, a jurisdiction covered
+by a Model 2 IGA should check “Reporting Model 2 FFI.” If
+you are treated as a registered deemed-compliant FFI
+under an applicable IGA, you should check “Nonreporting
+IGA FFI” rather than “registered deemed-compliant FFI”
+and provide your GIIN.
+
+Line 4. Check the one box that applies. By checking a
+box, you are representing that you qualify for the
+classification indicated. You must check the box that
+represents your classification (for example, corporation,
+partnership, trust, estate, etc.) under U.S. tax principles
+(not under the law of a treaty country). To determine
+whether you are an integral part of a foreign government
+or an entity that is controlled by a foreign government, see
+Temporary Regulations section 1.892-2T. If you are
+providing Form W-8BEN-E to an FFI solely for purposes
+of documenting yourself for chapter 4 purposes as an
+account holder of an account maintained by an FFI, you
+do not need to complete line 4.
+If you are a partnership, disregarded entity, simple
+trust, or grantor trust receiving a payment for which treaty
+benefits are being claimed by such entity, you must check
+the “Partnership,” “Disregarded entity,” “Simple trust,” or
+“Grantor trust” box. For such a case, you must also check
+the “yes” box to indicate that you are a hybrid entity
+making a treaty claim. You may only check the “no” box if
+(1) you are a disregarded entity, partnership, simple trust,
+or grantor trust and are using the form solely for purposes
+of documenting yourself as an account holder of an FFI
+and the form is not associated with a withholdable
+payment or a reportable amount or (2) you are using this
+form solely for purposes of documenting your status as a
+participating payee for purposes of section 6050W. In
+such cases, you are not required to complete line 4, but
+you may check the “no” box if you choose to complete
+line 4. You may also use Form W-8IMY to document
+yourself as an account holder of an FFI.
+
+In general, if you are treated as a nonreporting IGA FFI
+under an applicable IGA, you should check “Nonreporting
+IGA FFI” even if you meet the qualifications for
+deemed-compliant status or are an exempt beneficial
+owner under the chapter 4 regulations. In such a case,
+you should not also check your applicable status under
+the regulations but should provide your GIIN on line 9, if
+applicable. If you are an owner-documented FFI that is
+treated as a nonreporting IGA FFI under an applicable
+IGA you must check “Owner-documented FFI” and
+complete Part X.
+An FFI that is related to a reporting IGA FFI and that is
+treated as a nonparticipating FFI in its country of
+residence should check “Nonparticipating FFI” on line 5.
+If you are an FFI in a jurisdiction treated as having an
+IGA in effect, you should not check “Participating FFI” but
+rather should check “Reporting Model 1 FFI” or “Reporting
+Model 2 FFI” as applicable. See www.treasury.gov/
+resource-center/tax-policy/treaties/Pages/FATCAArchive.aspx for a list of jurisdictions treated as having an
+IGA in effect.
+
+Non-Profit Organizations Covered by an IGA
+
+If you are a non-profit entity that is established and
+maintained in a jurisdiction treated as having an IGA in
+effect and you meet the definition of “active NFFE”under
+Annex I of the applicable IGA, you should not check a box
+on line 5 if you are providing this form to an FFI for
+purposes of documenting yourself as an account holder.
+Instead, you should provide a certification of your status
+under the IGA. See Entities Providing Certifications Under
+an Applicable IGA under Special Instructions, later.
+
+Only entities that are tax-exempt under section
+501(c) should check the “Tax-exempt
+CAUTION organization” box for purposes of line 4. Such
+organizations should use Form W-8BEN-E only if they are
+claiming a reduced rate of withholding under an income
+tax treaty or a Code exception other than section 501(c) or
+if they are using this form solely for purposes of
+documenting themselves as an account holder with an
+FFI. However, if you are a private foundation you should
+check “Private Foundation” instead of “Tax-exempt
+organization.”
+
+!
+
+Account That Is Not a Financial Account
+
+If you are providing this form to document an account you
+hold with a foreign financial institution that is not a
+-8-
+
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+If you need an EIN, you are encouraged to apply
+
+financial account under Regulations section 1.1471-5(b)
+(2), check the “Account that is not a financial account” box
+on line 5.
+
+TIP for one online instead of submitting a paper Form
+SS-4. For more information, visit IRS.gov/EIN.
+
+Line 6. Enter the permanent residence address of the
+entity identified on line 1. Your permanent residence
+address is the address in the country where you claim to
+be a resident for purposes of that country’s income tax. If
+you are giving Form W-8BEN-E to claim a reduced rate of,
+or exemption from, withholding under an income tax
+treaty, you must determine residency in the manner
+required by the treaty. Do not show the address of a
+financial institution (unless you are a financial institution
+providing your own address), a post office box, or an
+address used solely for mailing purposes unless it is the
+only address you use and it appears in your organizational
+documents (that is, your registered address). If you do not
+have a tax residence in any country, the permanent
+residence address is where you maintain your principal
+office.
+
+Line 9a. If you are a participating FFI, registered
+deemed-compliant FFI (including a sponsored FFI
+described in the Treasury regulations), reporting Model 1
+FFI, reporting Model 2 FFI, direct reporting NFFE, trustee
+of a trustee-documented trust that is a foreign person
+providing this form for the trust, or sponsored direct
+reporting NFFE, you are required to enter your GIIN (with
+regard to your country of residence) on line 9a. If you are
+a trustee of a trustee-documented trust and you are a
+foreign person, you should provide the GIIN that you
+received when you registered as a participating FFI or
+reporting Model 1 FFI. If your branch is receiving the
+payment and is required to be identified in Part II, you are
+not required to provide a GIIN on line 9a. Instead, provide
+the GIIN of your branch (if applicable) on line 13.
+You must provide your GIIN on line 9 if you are a
+nonreporting IGA FFI that is (1) treated as registered
+deemed-compliant under Annex II to an applicable Model
+2 IGA or (2) a registered deemed-compliant FFI under
+Regulations section 1.1471-5(f)(1).
+
+Line 7. Enter your mailing address only if it is different
+from the address on line 6.
+Line 8. Enter your U.S. employer identification number
+(EIN). An EIN is a U.S. taxpayer identification number
+(TIN) for entities. If you do not have a U.S. EIN, apply for
+one on Form SS-4, Application for Employer Identification
+Number, if you are required to obtain a U.S. TIN.
+A partner in a partnership conducting a trade or
+business in the United States will likely be allocated
+effectively connected taxable income. In addition, if the
+partner transfers an interest in such a partnership, the
+partner may be subject to tax under section 864(c)(8) on
+the transfer. As in either case the partner is considered
+engaged in a U.S. trade or business because it is a
+partner in a partnership engaged in a U.S. trade or
+business, the partner is required to file a U.S. federal
+income tax return and must have a TIN, which the partner
+is required to provide on this form.
+You must also provide a U.S. TIN if you are:
+• Claiming an exemption from withholding under section
+871(f) for certain annuities received under qualified plans,
+or
+• Claiming benefits under an income tax treaty and have
+not provided a FTIN on line 9b.
+However, a TIN is not required to be shown in order to
+claim treaty benefits on the following items of income:
+• Dividends and interest from stocks and debt obligations
+that are actively traded;
+• Dividends from any redeemable security issued by an
+investment company registered under the Investment
+Company Act of 1940 (mutual fund);
+• Dividends, interest, or royalties from units of beneficial
+interest in a unit investment trust that are (or were upon
+issuance) publicly offered and are registered with the SEC
+under the Securities Act of 1933; and
+• Income related to loans of any of the above securities.
+See Regulations section 1.1441-1(e)(4)(vii) for other
+circumstances when you are required to provide a U.S.
+TIN for an amount subject to chapter 3 withholding.
+
+If you are in the process of registering with the IRS
+
+TIP as a participating FFI, registered
+
+deemed-compliant FFI (including a sponsored
+FFI), reporting Model 1 FFI, reporting Model 2 FFI, direct
+reporting NFFE, sponsored direct reporting NFFE, or
+nonreporting IGA FFI but have not received a GIIN, you
+may complete this line by writing “applied for.” However,
+the person requesting this form from you must receive and
+verify your GIIN within 90 days.
+Line 9b. If you are providing this Form W-8BEN-E to
+document yourself as an account holder with respect to a
+financial account (as defined in Regulations section
+1.1471-5(b)) that you hold at a U.S. office of a financial
+institution (including a U.S. branch of an FFI) and you
+receive U.S. source income reportable on Form 1042-S
+associated with this form, you must provide on line 9b the
+FTIN issued to you by the jurisdiction in which you are a
+tax resident identified on line 6 unless:
+• You properly identified yourself as a government
+(including a controlled entity that is a foreign government
+under section 892), central bank of issue, or international
+organization on line 4;
+• You are a resident of a U.S. territory; or
+• Your jurisdiction of residence is identified on the List of
+Jurisdictions That Do Not Issue Foreign TINs at IRS.gov/
+businesses/corporations/list-of-jurisdictions-that-do-notissue-foreign-tins.
+You also do not need to provide an FTIN on line 9b if you
+meet the requirement for checking the box on line 9c.
+In addition, if you are not using this form to document a
+financial account described above, you may provide the
+FTIN issued to you by your jurisdiction of tax residence on
+line 9b for purposes of claiming treaty benefits (rather than
+providing a U.S. TIN on line 8, if required).
+Lines 9a and 9b should accommodate the GIIN or
+
+TIP foreign TIN, as appropriate. You may need to use
+a smaller font when completing the form. If the
+
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+-9-
+
+GIIN or FTIN does not fit in the space provided, you may
+provide a GIIN or FTIN that is indicated and clearly
+identified somewhere else on the form, or on a separate
+attached sheet, as long as the GIIN or FTIN is clearly
+identified as being furnished with respect to line 9a or 9b,
+respectively. For example, a handwritten GIIN located just
+outside of line 9a with a corresponding arrow pointing to
+line 9a is a properly provided GIIN for this purpose.
+Line 9c. You may check the box in this line 9c if you are
+an account holder as described for purposes of line 9b
+and you are not legally required to obtain an FTIN from
+your jurisdiction of residence (including if the jurisdiction
+does not issue FTINs). By checking this box you will be
+treated as having provided an explanation for not
+providing an FTIN on line 9b. If you wish to provide a
+further (or other) explanation why you are not required to
+provide an FTIN on line 9b, you may do so in the margins
+of this form or on a separate statement attached to this
+form.
+Line 10. This line may be used by you or by the
+withholding agent or FFI to include any referencing
+information that is useful to the withholding agent to
+document the beneficial owner. For example, withholding
+agents who are required to associate the Form
+W-8BEN-E with a particular Form W-8IMY may want to
+use line 10 for a referencing number or code that will
+make the association clear. You may also want to use
+line 10 to include the number of the account for which you
+are providing the form. If you are a single owner of a
+disregarded entity you may use line 10 to inform the
+withholding agent that the account to which a payment is
+made or credited is held in the name of the disregarded
+entity (unless the name of the disregarded entity is
+required to be provided on line 3).
+You may also use line 10 to identify income from a
+notional principal contract that is not effectively connected
+with the conduct of a trade or business in the United
+States.
+
+Part II – Disregarded Entity
+or Branch Receiving Payment
+
+Complete Part II for a disregarded entity that has its own
+GIIN and is receiving a withholdable payment, or for a
+branch (including a branch that is a disregarded entity that
+does not have a GIIN) operating in a jurisdiction other than
+the country of residence identified on line 2. For example,
+assume ABC Co., which is a participating FFI resident in
+Country A, operates through a branch in Country B (which
+is a Model 1 IGA jurisdiction) and the branch is treated as
+a reporting Model 1 FFI under the terms of the Country B
+Model 1 IGA. ABC Co. should not enter its GIIN on line 9,
+and the Country B branch should complete this Part II by
+identifying itself as a reporting Model 1 IGA FFI and
+providing its GIIN on line 13. If the Country B branch
+receiving the payment is a disregarded entity you may be
+required to provide its legal name on line 3.
+If the disregarded entity receiving a withholdable
+
+TIP payment has its own GIIN, Part II should be
+
+completed regardless of whether it is in the same
+country as the single owner identified in Part I.
+
+If you have multiple branches/disregarded entities
+receiving payments from the same withholding agent and
+the information in Part I is the same for each branch/
+disregarded entity that will receive payments, a
+withholding agent may accept a single Form W-8BEN-E
+from you with a schedule attached that includes all of the
+Part II information for each branch/disregarded entity
+rather than separate Forms W-8BEN-E to identify each
+branch/disregarded entity receiving payments associated
+with the form and an allocation of the payment to each
+branch/disregarded entity.
+Line 11. Check the one box that applies. If no box
+applies to the disregarded entity, you do not need to
+complete this part. If you check reporting Model 1 FFI,
+reporting Model 2 FFI, or participating FFI, you must
+complete line 13, later. If your branch is a branch of a
+reporting IGA FFI that cannot comply with the
+requirements of an applicable IGA or the regulations
+under chapter 4 (a related entity), you must check "Branch
+treated as nonparticipating FFI."
+Line 12. Enter the address of the branch or disregarded
+entity.
+Line 13. If you are a reporting Model 1 FFI, reporting
+Model 2 FFI, or participating FFI, you must enter the GIIN
+on line 13 of your branch that receives the payment. If you
+are a disregarded entity that completed Part I, line 3 of this
+form and are receiving payments associated with this
+form, enter your GIIN. Do not enter your GIIN on line 9. If
+you are a U.S. branch, enter a GIIN applicable to any
+other branch of the FFI (including in its residence country).
+If you are in the process of registering your branch
+
+TIP with the IRS but have not received a GIIN, you
+
+may complete this line by writing “applied for.”
+However, the person requesting this form from you must
+receive and verify your GIIN within 90 days.
+
+Part III – Claim of Tax Treaty Benefits
+Line 14a. If you are claiming a reduced rate of, or
+exemption from, withholding under an income tax treaty
+you must enter the country where you are a resident for
+income tax treaty purposes and check the box to certify
+that you are a resident of that country.
+Line 14b. If you are claiming a reduced rate of, or
+exemption from, withholding under an income tax treaty
+you must check the box to certify that you:
+• Derive the item of income for which the treaty benefit is
+claimed, and
+• Meet the limitation on benefits provision contained in
+the treaty, if any.
+An item of income may be derived by either the entity
+receiving the item of income or by the interest holders in
+the entity or, in certain circumstances, both. An item of
+income paid to an entity is considered to be derived by the
+entity only if the entity is not fiscally transparent under the
+laws of the entity’s jurisdiction with respect to the item of
+income. An item of income paid to an entity shall be
+considered to be derived by the interest holder in the
+entity only if:
+• The interest holder is not fiscally transparent in its
+jurisdiction with respect to the item of income, and
+-10-
+
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+• The entity is considered to be fiscally transparent under
+the laws of the interest holder’s jurisdiction with respect to
+the item of income. An item of income paid directly to a
+type of entity specifically identified in a treaty as a resident
+of a treaty jurisdiction is treated as derived by a resident of
+that treaty jurisdiction.
+Limitation on benefits treaty provisions. If you are a
+resident of a foreign country that has entered into an
+income tax treaty with the United States that contains a
+limitation on benefits (LOB) article, you must complete
+one of the checkboxes on line 14b. You must also
+complete the applicable checkbox on line 14b if you are a
+resident of a foreign country that has entered into an
+income tax treaty with the United States that does not
+contain an LOB article. You may only check a box if the
+LOB article in that treaty includes a provision that
+corresponds to the checkbox on which you are relying to
+claim treaty benefits. A particular treaty might not include
+every type of test for which a checkbox is provided. For
+example, “Company that meets the derivative benefits
+test” is generally not available to a company resident in a
+treaty country that is not a member of the EU, EEA, or
+USMCA. In addition, each treaty LOB article that contains
+a specific test listed below may have particular
+requirements that must be met that differ from the
+requirements in another treaty with regard to the same
+test. Accordingly, you must check the relevant treaty LOB
+article for the particular requirements associated with
+each test. In general, only one LOB checkbox is required
+to claim a treaty exemption even if more than one
+checkbox would suffice to claim the benefits of the treaty
+for that item of income.
+Each of the tests is summarized below for your general
+convenience but may not be relied upon for making a final
+determination that you meet an LOB test. Rather you must
+check the text of the LOB article itself to determine which
+tests are available under that treaty and the particular
+requirements of those tests. See Table 4, Limitation on
+Benefits, at IRS.gov/Individuals/International-Taxpayers/
+Tax-Treaty-Tables, for a summary of the major tests
+within the Limitation on Benefits article that are relevant
+for documenting any entity's claim for treaty benefits.
+• Government—this test is met if the entity is the
+Contracting State, political subdivision, or local authority.
+• Tax-exempt pension trust or pension fund—this test
+generally requires that more than half the beneficiaries or
+participants in the trust or fund be residents of the country
+of residence of the trust or fund itself.
+• Other tax-exempt organization—this test generally
+requires that more than half the beneficiaries, members,
+or participants of religious, charitable, scientific, artistic,
+cultural, or educational organizations be residents of the
+country of residence of the organization.
+• Publicly-traded corporation—this test generally requires
+the corporation's principal class of shares to be primarily
+and regularly traded on a recognized stock exchange in
+its country of residence, while other treaties may permit
+trading in either the United States or the treaty country, or
+in certain third countries if the primary place of
+management is the country of residence.
+• Subsidiary of publicly-traded corporation—this test
+generally requires that more than 50% of the vote and
+value of the company's shares be owned, directly or
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+indirectly, by five or fewer companies that are
+publicly-traded corporations and that themselves meet the
+publicly-traded corporation test, as long as all companies
+in the chain of ownership are resident in either the United
+States or the same country of residence as the subsidiary.
+• Company that meets the ownership and base erosion
+test—this test generally requires that more than 50% of
+the vote and value of the company's shares be owned,
+directly or indirectly, by individuals, governments,
+tax-exempt entities, and publicly-traded corporations
+resident in the same country as the company, as long as
+all companies in the chain of ownership are resident in the
+same country of residence, and less than 50% of the
+company's gross income is accrued or paid, directly or
+indirectly, to persons who would not be good
+shareholders for purposes of the ownership test.
+• Company that meets the derivative benefits test—this
+test is generally limited to USMCA, EU, and EEA country
+treaties, and may apply to all benefits or only to certain
+items of income (interest, dividends, and royalties). It
+generally requires that more than 95% of the aggregate
+vote and value of the company's shares be owned,
+directly or indirectly, by seven or fewer equivalent
+beneficiaries (ultimate owners who are resident in an EU,
+EEA, or USMCA country and are entitled to identical
+benefits under their own treaty with the United States
+under one of the ownership tests included within the LOB
+article (other than the stock ownership and base erosion
+test)). In addition, this test requires that less than 50% of
+the company's gross income be paid or accrued, directly
+or indirectly, to persons who would not be equivalent
+beneficiaries.
+• Company with an item of income that meets the active
+trade or business test—this test generally requires that the
+company be engaged in an active trade or business in its
+country of residence, that its activities in that country be
+substantial in relation to its U.S. activities, if the payer is a
+related party, and the income be derived in connection to
+or incidental to that trade or business.
+• No LOB article in treaty—this generally requires that the
+entity is a resident in a foreign country that has entered
+into an income tax treaty with the United States that does
+not contain an LOB article.
+• Other—for other LOB tests that are not listed above (for
+example, a headquarters test). Identify the other test
+relied upon. For example, if you meet the headquarters
+test under the United States-Netherlands income tax
+treaty, you should write “Headquarters test, Article 26(5)”
+in the space provided.
+• Favorable discretionary determination received—this
+test requires that the company obtain a favorable
+determination granting benefits from the U.S. competent
+authority that, despite the company's failure to meet a
+specific objective LOB test in the applicable treaty, it may
+nonetheless claim the requested benefits. Unless a treaty
+or technical explanation specifically provides otherwise,
+you may not claim discretionary benefits while your claim
+for discretionary benefits is pending.
+If an entity is claiming treaty benefits on its own behalf,
+it should complete Form W-8BEN-E. If an interest holder
+in an entity that is considered fiscally transparent in the
+interest holder’s jurisdiction is claiming a treaty benefit,
+the interest holder should complete Form W-8BEN (if an
+-11-
+
+individual) or Form W-8BEN-E (if an entity) on its own
+behalf as the appropriate treaty resident, and the fiscally
+transparent entity should associate the interest holder’s
+Form W-8BEN or Form W-8BEN-E with a Form W-8IMY
+completed by the fiscally transparent entity (see Hybrid
+Entity Making a Claim of Treaty Benefits under Special
+Instructions, later).
+An income tax treaty may not apply to reduce the
+amount of any tax on an item of income received
+CAUTION by an entity that is treated as a domestic
+corporation for U.S. tax purposes. Therefore, neither the
+domestic corporation nor its shareholders are entitled to
+the benefits of a reduction of U.S. income tax on an item
+of income received from U.S. sources by the corporation.
+
+!
+
+If you are an entity that derives the income as a
+
+TIP resident of a treaty country, you must check the
+
+box “No LOB article in treaty” if the applicable
+income tax treaty does not contain a “limitation on
+benefits” provision.
+
+Line 14c. If you are a foreign corporation claiming treaty
+benefits under an income tax treaty that entered into force
+before January 1, 1987 (and has not been renegotiated)
+on (1) U.S. source dividends paid to you by another
+foreign corporation or (2) U.S. source interest paid to you
+by a U.S. trade or business of another foreign corporation,
+you must generally be a “qualified resident” of a treaty
+country. See section 884 for the definition of interest paid
+by a U.S. trade or business of a foreign corporation
+(“branch interest”) and other applicable rules.
+In general, a foreign corporation is a qualified resident
+of a country if any of the following apply:
+• It meets a 50% ownership and base erosion test.
+• It is primarily and regularly traded on an established
+securities market in its country of residence or the United
+States.
+• It carries on an active trade or business in its country of
+residence.
+• It gets a ruling from the IRS that it is a qualified resident.
+See Regulations section 1.884-5 for the requirements that
+must be met to satisfy each of these tests.
+If you are claiming treaty benefits under an
+income tax treaty entered into force after
+CAUTION December 31, 1986, do not check the line on
+box 14c. Instead, check the boxes for line 14b.
+
+!
+
+Line 15. Line 15 must be used only if you are claiming
+treaty benefits that require that you meet conditions not
+covered by the representations you make on line 14 (or
+other certifications on the form). This line is generally not
+applicable to claiming treaty benefits under an interest or
+dividends (other than dividends subject to a preferential
+rate based on ownership) article of a treaty or other
+income article, unless such article requires additional
+representations. For example, certain treaties allow for a
+zero rate on dividends for certain qualified residents
+provided that additional requirements are met, such as
+ownership percentage, ownership period, and that the
+resident meet a combination of tests under an applicable
+LOB article. You should indicate the specific treaty article
+and paragraph or subparagraph, as applicable. You
+
+should also use this space to set out the requirements you
+meet under the identified treaty article.
+The following are examples of persons who should
+complete this line:
+• Exempt organizations claiming treaty benefits under the
+exempt organization articles of the treaties with Canada,
+Mexico, Germany, and the Netherlands.
+• Foreign corporations that are claiming a preferential
+rate applicable to dividends based on ownership of a
+specific percentage of stock in the entity paying the
+dividend and owning the stock for a specified period of
+time. Such persons should provide the percentage of
+ownership and the period of time they owned the stock.
+For example, under the United States-Italy treaty, to claim
+the 5% dividend rate, the Italian corporation must own
+25% of the voting stock for a 12-month period.
+In addition, for example, if you qualify for and are
+claiming a zero rate on dividend payments under Article
+10(3) of the United States-Germany income tax treaty,
+you should fill out line 15 with “Article 10(3),” “0,” and
+“dividends” in the spaces provided. In the space provided
+for an explanation, you may write that you are the
+beneficial owner of the dividends, you are a resident of
+Germany, you have directly owned shares representing
+80% or more of the voting power of the company paying
+the dividends for the 12-month period ending on the date
+the entitlement to the dividend is determined, and that you
+satisfy the conditions of Article 28(2)(f)(aa) and (bb) and
+Article 28(4) of the treaty with respect to the dividends.
+• Persons claiming treaty benefits on royalties if the treaty
+contains different withholding rates for different types of
+royalties.
+• Persons claiming treaty benefits on interest other than
+the generally applicable rate. For example, under the
+United States-Australia treaty, the generally applicable
+interest rate is 10% under Article 11(2). However, interest
+may be exempt from withholding if the specific conditions
+under Article 11(3) are met.
+• Persons claiming treaty benefits on business profits not
+attributable to a permanent establishment or on gains
+arising from the alienation of property (other than real
+property) that does not form all or part of a permanent
+establishment (including gains that do not arise from the
+alienation of a permanent establishment). For example, a
+foreign partner that derives gains subject to tax under
+section 864(c)(8) upon the transfer of an interest in a
+partnership that conducts a trade or business within the
+United States may claim treaty benefits on this form with
+respect to the withholding required under section 1446(f)
+by stating that the gains are not attributable to a
+permanent establishment and by including the relevant
+gains article of the treaty. Additionally, for a claim that gain
+or income with respect to a PTP interest is not attributable
+to a permanent establishment in the United States, you
+must identify the name of each PTP to which the claim
+relates. See, however, Regulations section 1.864(c)
+(8)-1(f) (providing that gain or loss on the alienation of a
+partnership interest is gain or loss attributable to the
+alienation of assets forming part of a permanent
+establishment to the extent that the assets deemed sold
+under section 864(c)(8) form part of a permanent
+establishment of the partnership).
+-12-
+
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+Parts IV Through XXVIII –
+Certification of Chapter 4 Status
+
+You should complete only one part of Parts IV through
+XXVIII certifying to your chapter 4 status (if required). You
+are not required to complete a chapter 4 status
+certification if you are not the payee of withholdable
+payment or you do not hold an account with an FFI
+requesting this form. Identify which part (if any) you should
+complete by reference to the box you checked on line 5.
+An entity that selects nonparticipating FFI, participating
+FFI, registered deemed-compliant FFI (other than a
+sponsored FFI), reporting Model 1 FFI, reporting Model 2
+FFI, or direct reporting NFFE (other than a sponsored
+direct reporting NFFE) on line 5 is not required to
+complete any of the certifications in Parts IV through
+XXVIII.
+
+IGA. In lieu of the certifications contained in Parts IV
+through XXVIII of Form W-8BEN-E, in certain cases you
+may provide an alternate certification to a withholding
+agent. See Entities Providing Certifications Under an
+Applicable IGA under Special Instructions, later.
+
+Part IV – Sponsored FFI
+Line 16. If you are a sponsored FFI described in
+Regulations section 1.1471-5(f)(1)(i)(F), enter the name of
+the sponsoring entity that has agreed to fulfill the due
+diligence, reporting, and withholding obligations (as
+applicable) on behalf of the sponsored FFI identified on
+line 1. You must provide your GIIN on line 9.
+Line 17. You must check the applicable box to certify that
+you are either a sponsored investment entity or sponsored
+controlled foreign corporation (within the meaning of
+section 957(a)) and that you satisfy the other relevant
+requirements for this status.
+
+Part V – Certified Deemed-Compliant
+Nonregistering Local Bank
+Line 18. If you are a certified deemed-compliant
+nonregistering local bank, you must check the box to
+certify that you meet all of the requirements for this
+certified deemed-compliant status.
+
+Part VI – Certified Deemed-Compliant
+FFI With Only Low-Value Accounts
+Line 19. If you are a certified deemed-compliant FFI with
+only low-value accounts, you must check the box to certify
+that you meet all of the requirements for this certified
+deemed-compliant classification.
+
+Part VII – Certified Deemed-Compliant
+Sponsored, Closely
+Held Investment Vehicle
+Line 20. Enter the name of your sponsoring entity that
+has agreed to fulfill the due diligence, reporting, and
+withholding obligations of the entity identified on line 1 as
+if the entity on line 1 were a participating FFI. You must
+also enter the GIIN of your sponsoring entity on line 9a.
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+Line 21. If you are a sponsored, closely held investment
+vehicle, you must check the box to certify that you meet all
+of the requirements for this certified deemed-compliant
+status.
+
+Part VIII – Certified
+Deemed-Compliant
+Limited Life Debt
+Investment Company
+Line 22. If you are a limited life debt investment entity,
+you must check the box to certify that you meet all of the
+requirements for this certified deemed-compliant status.
+
+Part IX – Certain Investment Entities
+That Do Not Maintain Financial
+Accounts
+Line 23. If you are an FFI that is a financial institution
+solely because you are described in Regulations section
+1.1471-5(e)(4)(i)(A) and you do not maintain financial
+accounts, you must check the box to certify that you meet
+all of the requirements for this certified deemed-compliant
+status.
+
+Part X – Owner-Documented FFI
+Line 24a. If you are an owner-documented FFI, you must
+check the box to certify that you meet all of the
+requirements for this status and are providing this form to
+a U.S. financial institution, participating FFI, reporting
+Model 1 FFI, or reporting Model 2 FFI that agrees to act as
+a designated withholding agent with respect to you. See
+Regulations section 1.1471-5(f)(3) for more information
+about an owner-documented FFI, including with respect to
+a designated withholding agent.
+Line 24b. Check the box to certify that you have provided
+or will provide the documentation set forth in the
+certifications, including the FFI owner reporting statement
+and the valid documentation for each person identified on
+the FFI owner reporting statement described on line 24b.
+Line 24c. Check the box to certify that you have provided
+or will provide the auditor’s letter (in lieu of the information
+required by line 24b) that satisfies the requirements
+reflected on this line.
+Check either line 24b or line 24c. Do not check
+
+TIP both boxes.
+
+Line 24d. Check the box if you do not have any
+contingent beneficiaries or designated classes with
+unidentified beneficiaries. While this certification is not
+required, an owner reporting statement provided by an
+owner-documented FFI will remain valid indefinitely for
+chapter 4 purposes absent a change in circumstances
+with respect to offshore obligations (as defined in
+Regulations section 1.6049-5(c)(1)) only if this
+certification is provided and the account balance of all
+accounts held by the owner-documented FFI with the
+withholding agent does not exceed $1,000,000 on the
+later of June 30, 2014, or the last day of the calendar year
+in which the account was opened, and the last day of
+-13-
+
+each subsequent calendar year preceding the payment,
+applying the account aggregation rules of Regulations
+section 1.1471-5(b)(4)(iii).
+
+Part XI – Restricted Distributor
+Line 25a. If you are a restricted distributor you must
+check the box to certify that you meet all of the
+requirements for this status.
+
+If you are a foreign government or political
+
+TIP subdivision of a foreign government (including
+
+wholly owned agencies and instrumentalities
+thereof), government of a U.S. possession, or foreign
+central bank of issue, you should only complete Form
+W-8BEN-E for payments for which you are not claiming
+the applicability of section(s) 115(2), 892, or 895;
+otherwise you should use Form W-8EXP.
+
+Lines 25b and 25c. Check the appropriate box to certify
+your status. Do not check both boxes.
+
+Part XIV – International Organization
+
+A restricted distributor may certify only with
+respect to an account it maintains in connection
+CAUTION with a distribution agreement with a restricted
+fund. A restricted distributor that, in connection with such
+a distribution agreement, receives a payment subject to
+chapter 3 withholding or a withholdable payment should
+complete Form W-8IMY and not this form except to the
+extent it holds interests in connection with such an
+agreement as a beneficial owner.
+
+Line 28a. Check this box to certify that you are an
+international organization described in section 7701(a)
+(18).
+
+TIP an international organization by executive order
+
+Part XII – Nonreporting IGA FFI
+
+Line 28b. If you are an international organization other
+than an international organization described on line 28a,
+you must check the box to certify that you satisfy all of the
+requirements for this status.
+
+!
+
+Line 26. Check the box to indicate that you are treated as
+a nonreporting IGA FFI. You must identify the IGA by
+entering the name of the jurisdiction that has the IGA
+treated as in effect with the United States, and indicate
+whether it is a Model 1 or Model 2 IGA. You must also
+provide the withholding agent with the specific category of
+FFI described in Annex II of the IGA. In providing the
+specific category of FFI described in Annex II, you should
+use the language from Annex II that best and most
+specifically describes your status. For example, indicate
+“investment entity wholly owned by exempt beneficial
+owners” rather than “exempt beneficial owner.” If you are
+a nonreporting IGA FFI claiming a deemed-compliant
+status under the regulations, you must instead indicate on
+this line which section of the regulations you qualify under.
+If you are a nonreporting financial institution under an
+applicable IGA because you qualify as an
+owner-documented FFI under the regulations, do not
+check “Nonreporting IGA FFI.” Instead, you must check
+“Owner-documented FFI” and complete Part X rather than
+this Part XII.
+See instructions for Line 9a for when a GIIN is required
+for a nonreporting IGA FFI (including a trustee of a
+trustee-documented trust that is a foreign person).
+
+Part XIII – Foreign Government,
+Government of a U.S. Possession, or
+Foreign Central Bank of Issue
+Line 27. If you are a foreign government or political
+subdivision of a foreign government (including wholly
+owned agencies and instrumentalities thereof),
+government of a U.S. possession, or foreign central bank
+of issue (each as defined in Regulations section 1.1471-6)
+you must check the box and certify that you meet all of the
+requirements for this status (including that you do not
+engage in the type of commercial financial activities
+described on this line except to the extent permitted under
+Regulations section 1.1471-6(h)(2)).
+
+If you are an entity that has been designated as
+
+(pursuant to 22 U.S.C. 288 through 288f), check
+box 28a. If you are claiming an exemption from
+withholding for purposes of chapter 3, however, use Form
+W-8EXP.
+
+Part XV – Exempt Retirement Plans
+Lines 29a, b, c, d, e, and f. ,
+If you are an exempt retirement plan you must check
+the appropriate box to certify that you meet all of the
+requirements for this status.
+
+Part XVI – Entity Wholly Owned
+by Exempt Beneficial Owners
+Line 30. If you are an entity wholly owned by exempt
+beneficial owners you must check the box to certify that
+you meet all of the requirements for this status. You must
+also provide the owner documentation described in this
+line establishing that each of your direct owners or debt
+holders is an exempt beneficial owner described in
+Regulations section 1.1471-6(b).
+
+Part XVII – Territory
+Financial Institution
+Line 31. If you are a territory financial institution you must
+check the box to certify that you meet all of the
+requirements for this status.
+
+Part XVIII – Excepted
+Nonfinancial Group Entity
+Line 32. If you are an excepted nonfinancial group entity
+you must check the box to certify that you meet all of the
+requirements for this status.
+
+Part XIX – Excepted Nonfinancial
+Start-Up Company
+Line 33. If you are an excepted nonfinancial start-up
+company you must check the box to certify that you meet
+all of the requirements for this status. You must also
+-14-
+
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+provide the date you were formed or your board passed a
+resolution (or equivalent measure) approving a new line of
+business (which cannot be that of a financial institution or
+passive NFFE).
+
+Part XX – Excepted Nonfinancial
+Entity in Liquidation or Bankruptcy
+Line 34. If you are an excepted nonfinancial group entity
+in liquidation or bankruptcy you must check the box to
+certify that you meet all of the requirements for this status.
+You must also provide the date that you filed a plan of
+liquidation, plan of reorganization, or bankruptcy petition.
+
+Part XXI – 501(c) Organization
+Line 35. If you are an entity claiming chapter 4 status as
+a section 501(c) organization pursuant to Regulations
+section 1.1471-5(e)(5)(v) you must check the box and
+provide the date that the IRS issued you a determination
+letter or provide a copy of an opinion from U.S. counsel
+certifying that you qualify as a section 501(c) organization
+(without regard to whether you are a foreign private
+foundation).
+If you are a section 501(c) organization claiming
+TIP an exemption from withholding for purposes of
+chapter 3, however, use Form W-8EXP.
+
+Part XXII – Nonprofit Organization
+Line 36. If you are a nonprofit organization (other than an
+entity claiming chapter 4 status as a section 501(c)
+organization pursuant to Regulations section 1.1471-5(e)
+(5)(v)) you must check the box to certify that you meet all
+of the requirements for this status.
+Nonprofit organization under an IGA. If you are an
+entity that is established and maintained in a jurisdiction
+that is treated as having in effect an IGA and you are
+described in Annex I as a nonprofit organization that is an
+Active NFFE, see Entities Providing Certifications Under
+an Applicable IGA under Special Instructions, later.
+
+Part XXIII – Publicly-Traded
+NFFE or NFFE Affiliate of
+a Publicly-Traded Corporation
+Line 37a. If you are a publicly-traded NFFE you must
+check the box to certify that you are not a financial
+institution and provide the name of a securities exchange
+on which your stock is publicly traded.
+Line 37b. If you are an NFFE that is a member of the
+same expanded affiliated group as a publicly-traded U.S.
+or foreign entity you must check this box, provide the
+name of the publicly-traded entity, and identify the
+securities market on which the stock of the publiclytraded entity is traded. See Regulations section
+1.1472-1(c)(1)(i) to determine if the stock of an entity is
+regularly traded on an established securities market
+(substituting the term “U.S. entity” for “NFFE,” as
+appropriate, for purposes of testing whether an entity is
+publicly traded).
+
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+Part XXIV – Excepted Territory NFFE
+Line 38. If you are an excepted territory NFFE you must
+check the box to certify that you meet all of the
+requirements for this classification. See Regulations
+section 1.1472-1(c)(1)(iii) for the definition of an excepted
+territory NFFE.
+
+Part XXV – Active NFFE
+Line 39. If you are an active NFFE you must check the
+box to certify that you meet all of the requirements for this
+status, including the assets and passive income test
+described in the certification for this part. For purposes of
+applying this test, passive income includes dividends,
+interest, rents, royalties, annuities, and certain other forms
+of passive income. See Regulations section 1.1472-1(c)
+(1)(iv)(A) for additional detail for the definition of passive
+income. Also see Regulations section 1.1472-1(c)(1)(iv)
+(B) for exceptions from the definition of passive income for
+certain types of income.
+
+Part XXVI – Passive NFFE
+Line 40a. If you are a passive NFFE you must check the
+box to certify that you are not a financial institution and are
+not certifying your status as a publicly-traded NFFE, NFFE
+affiliate of a publicly-traded company, excepted territory
+NFFE, active NFFE, direct reporting NFFE, or sponsored
+direct reporting NFFE.
+Note. If you would be a passive NFFE but for the fact that
+you are managed by certain types of financial institutions
+(see Regulations section 1.1471-5(e)(4)(i)(B)), you should
+not complete line 40a as you would be considered a
+financial institution and not a passive NFFE.
+If you are an NFFE that may qualify as an active
+
+TIP NFFE (or other NFFE described in another part of
+
+this form), you may still check line 40a and
+disclose your substantial U.S. owners or certify that you
+have no substantial U.S. owners.
+Line 40b. Check this box to certify that you have no
+substantial U.S. owners.
+
+Line 40c. If you do not check the box and make the
+certification on line 40b, you must check this box 40c and
+complete Part XXIX to identify and provide the name,
+address, and TIN of each of your substantial U.S. owners.
+Note. If you are an NFFE that is providing Form
+W-8BEN-E to an FFI treated as a reporting Model 1 FFI or
+reporting Model 2 FFI, you may also use Part XXIX to
+report controlling U.S. persons (as defined in an
+applicable IGA). The references to “controlling U.S.
+persons” in this part and Part XXIX apply only if the form is
+being provided to an FFI treated as a reporting Model 1
+FFI or reporting Model 2 FFI.
+
+Part XXVII – Excepted
+Inter-Affiliate FFI
+Line 41. If you are an excepted inter-affiliate FFI you
+must check the box to certify that you meet all of the
+requirements of this classification. This classification will
+only apply for an excepted inter-affiliate FFI that holds
+-15-
+
+deposit accounts described in the certification for this part
+and that is documenting itself to the financial institution
+that maintains the deposit account. You are not eligible for
+this classification if you receive or make withholdable
+payments to or from any person other than a member of
+your expanded affiliated group, other than the depository
+institution described in the previous sentence. See
+Regulations section 1.1471-5(e)(5)(iv) for all the
+requirements of this status.
+
+date stamp and statement that the form has been
+electronically signed). Simply typing your name into the
+signature line is not an electronic signature. A withholding
+agent may also rely on an electronically signed
+withholding certificate if you provide any additional
+information or documentation requested by the
+withholding agent to support that the form was signed by
+you or other person authorized to do so. See Regulations
+section 1.1441-1(e)(4)(i)(B).
+
+Part XXVIII – Sponsored
+Direct Reporting NFFEs
+
+Broker transactions or barter exchanges. Income
+from transactions with a broker or a barter exchange is
+subject to reporting rules and backup withholding unless
+Form W-8BEN-E or a substitute form is filed to notify the
+broker or barter exchange that you are an exempt foreign
+person.
+You are an exempt foreign person for a calendar year
+in which:
+• You are a foreign corporation, partnership, estate, or
+trust; and
+• You are neither engaged, nor plan to be engaged
+during the year, in a U.S. trade or business that has
+effectively connected gains from transactions with a
+broker or barter exchange.
+
+Lines 42 and 43. If you are a sponsored direct reporting
+NFFE you must enter the name of the sponsoring entity
+on line 42 and check the box to certify that you meet all of
+the requirements for this classification. You must also
+provide your GIIN on line 9a.
+
+Part XXIX – Substantial U.S.
+Owners of Passive NFFE
+
+If you identified yourself as a passive NFFE (including an
+investment entity that is a territory NFFE but is not an
+excepted territory NFFE under Regulations section
+1.1472-1(c)) with one or more substantial U.S. owners in
+Part XXVI, you must identify each substantial U.S. owner.
+Provide the name, address, and TIN of each substantial
+U.S. owner in the relevant column. You may attach this
+information on a separate statement, which remains
+subject to the same perjury statement and other
+certifications made in Part XXX. If you are reporting
+controlling U.S. persons (as defined in an applicable IGA)
+to a Model 1 FFI or reporting Model 2 FFI with which you
+maintain an account that requests such ownership
+information with this form, you may use this space or
+attach a separate statement to report such persons.
+
+Part XXX – Certification
+
+Form W-8BEN-E must be signed and dated by an
+authorized representative or officer of the beneficial
+owner, participating payee (for purposes of section
+6050W), or account holder of an FFI requesting this form.
+You must check the box to certify that you have the legal
+capacity to sign for the entity identified on line 1 that is the
+beneficial owner of the income. If Form W-8BEN-E is
+completed by an agent acting under a duly authorized
+power of attorney, the form must be accompanied by the
+power of attorney in proper form or a copy thereof
+specifically authorizing the agent to represent the principal
+in making, executing, and presenting the form. Form
+2848, Power of Attorney and Declaration of
+Representative, may be used for this purpose. The agent,
+as well as the beneficial owner, payee, or account holder
+(as applicable), may incur liability for the penalties
+provided for an erroneous, false, or fraudulent form. By
+signing Form W-8BEN-E, the authorized representative,
+officer, or agent of the entity also agrees to provide a new
+form within 30 days following a change in circumstances
+affecting the correctness of the form.
+A withholding agent may allow you to provide this form
+with an electronic signature. The electronic signature must
+indicate that the form was electronically signed by a
+person authorized to do so (for example, with a time and
+
+Special Instructions
+Hybrid Entity Making a Claim of Treaty Benefits
+
+If you are a hybrid entity making a claim for treaty benefits
+as a resident on your own behalf, you may do so as
+permitted under an applicable tax treaty. You should
+complete this Form W-8BEN-E to claim treaty benefits in
+the manner described in the instructions for Part III and
+complete Part I to the extent indicated below. Note that
+you should not complete line 5 indicating your chapter 4
+status unless you are a disregarded entity that is treated
+as the payee for chapter 4 purposes.
+If you are a flow-through entity claiming treaty benefits
+on a payment that is a withholdable payment, you should
+also provide Form W-8IMY along with a withholding
+statement (if required) establishing the chapter 4 status of
+each of your partners or owners. Allocation information is
+not required on this withholding statement unless one or
+more partners or owners are subject to chapter 4
+withholding (such as a nonparticipating FFI). If you are a
+disregarded entity claiming treaty benefits on a payment
+that is a withholdable payment, unless you are treated as
+the payee for chapter 4 purposes and have your own
+GIIN, your single owner should provide Form W-8BEN-E
+or Form W-8BEN (as applicable) to the withholding agent
+along with this form. You or the withholding agent may use
+line 10 to inform the withholding agent to associate the
+two forms.
+Line 1. Enter your legal name (determined by reference
+to your legal identity in your country of incorporation or
+organization).
+Line 2. Enter the country under whose laws you are
+created, organized, or governed.
+Line 3. Leave this line blank. For purposes of completing
+this form as a hybrid entity making a treaty claim
+
+-16-
+
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+(including a disregarded entity), you are treated as the
+beneficial owner and should be identified on line 1.
+
+of the Country B IGA in order to fulfil its due diligence and
+documentation requirements under the Country B IGA.
+
+Line 4. Check the box that applies among disregarded
+entity, partnership, grantor trust, or simple trust. You must
+also check the box indicating that you are a hybrid making
+a treaty claim and complete Part III.
+
+You may also provide with this form an applicable IGA
+certification if you are determining your chapter 4 status
+under the definitions provided in an applicable IGA and
+your certification identifies the jurisdiction that is treated
+as having an IGA in effect and describes your status as an
+NFFE or FFI in accordance with the applicable IGA.
+However, if you determine your status under an applicable
+IGA as an NFFE, you must still determine if you are an
+excepted NFFE under the Regulations in order to
+complete this form unless you are provided an alternative
+certification by an FFI described in the preceding
+paragraph that covers your certification as an NFFE (such
+as “active NFFE”) as defined in an applicable IGA.
+Additionally, you are required to comply with the
+conditions of your status under the law of the IGA
+jurisdiction to which you are subject if you are determining
+your status under that IGA. If you cannot provide the
+certifications in Parts IV through XXVIII, or if you are a
+nonprofit entity that meets the definition of “active NFFE”
+under the applicable IGA, do not check a box on line 5.
+However, if you determine your status under the
+definitions of the IGA and can certify to a chapter 4 status
+included on this form, you do not need to provide the
+certifications described in this paragraph unless required
+by the FFI to whom you are providing this form.
+
+Line 5. Leave this line blank, except in the circumstances
+described above.
+Lines 6, 7, and 8. Complete lines 6, 7, and 8 as provided
+in the specific instructions, earlier.
+Line 9b. If your country of residence for tax purposes has
+issued you a tax identifying number, enter it here. Do not
+enter the tax identifying number of your owner(s).
+Line 10. This reference line is used to associate this
+Form W-8BEN-E with another applicable withholding
+certificate or other documentation provided for purposes
+of chapter 4. For example, if you are a partnership making
+a treaty claim, you may want to provide information for the
+withholding agent to associate this Form W-8BEN-E with
+the Form W-8IMY and owner documentation you provide
+for purposes of establishing the chapter 4 status of your
+owner(s).
+You must complete Parts III and XXX in accordance
+with the specific instructions above. Complete Part II if
+applicable.
+
+Any certifications provided under an applicable IGA
+remain subject to the penalty of perjury statement and
+other certifications made in Part XXX.
+
+Foreign Reverse Hybrid Entities
+
+A foreign reverse hybrid entity should only file a Form
+W-8BEN-E for payments for which it is not claiming treaty
+benefits on behalf of its owners and must provide a
+chapter 4 status when it is receiving a withholdable
+payment. A foreign reverse hybrid entity claiming treaty
+benefits on behalf of its owners should provide the
+withholding agent with Form W-8IMY (including its
+chapter 4 status when receiving a withholdable payment)
+along with a withholding statement and Forms W-8BEN or
+W-8BEN-E (or documentary evidence to the extent
+permitted) on behalf of each of its owners claiming treaty
+benefits. See Form W-8IMY and accompanying
+instructions for more information.
+
+Entities Providing Certifications
+Under an Applicable IGA
+
+Entities Providing Alternate or Additional
+Certifications Under Regulations
+
+An FFI in an IGA jurisdiction with which you have an
+account may provide you with a chapter 4 status
+certification other than as shown in Parts IV through XXVIII
+in order to satisfy its due diligence requirements under the
+applicable IGA. In such a case, you may attach the
+alternative certification to this Form W-8BEN-E in lieu of
+completing a certification otherwise required in Parts IV
+through XXVIII provided that you: (1) determine that the
+certification accurately reflects your status for chapter 4
+purposes or under an applicable IGA; and (2) the
+withholding agent provides a written statement to you that
+it has provided the certification to meet its due diligence
+requirements as a participating FFI or registered
+deemed-compliant FFI under an applicable IGA. For
+example, Entity A organized in Country A holds an
+account with an FFI in Country B. Country B has a Model
+1 IGA in effect. The FFI in Country B may ask Entity A to
+provide a chapter 4 status certification based on the terms
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+If you qualify for a status that is not shown on this form,
+you may attach applicable certifications for such status
+from any other Form W-8 on which the relevant
+certifications appear. If the applicable certifications do not
+appear on any Form W-8 (if, for example, new regulations
+provide for an additional status and this form has not been
+updated to incorporate the status) then you may provide
+an attachment certifying that you qualify for the applicable
+status described in a particular Regulations section.
+Include a citation to the applicable provision in the
+Regulations. Any such attached certification becomes an
+integral part of this Form W-8BEN-E and is subject to the
+penalty of perjury statement and other certifications made
+in Part XXX.
+Paperwork Reduction Act Notice. We ask for the
+information on this form to carry out the Internal Revenue
+laws of the United States. You are required to provide the
+information. We need it to ensure that you are complying
+with these laws and to allow us to figure and collect the
+right amount of tax.
+You are not required to provide the information
+requested on a form that is subject to the Paperwork
+Reduction Act unless the form displays a valid OMB
+control number. Books or records relating to a form or its
+instructions must be retained as long as their contents
+may become material in the administration of any Internal
+Revenue law. Generally, tax returns and return
+information are confidential, as required by section 6103.
+
+-17-
+
+The time needed to complete and file this form will vary
+depending on individual circumstances. The estimated
+average time is: Recordkeeping, 12 hr., 40 min.;
+Learning about the law or the form, 4 hr., 17 min.;
+Preparing and sending the form, 8 hr., 16 min.
+If you have comments concerning the accuracy of
+these time estimates or suggestions for making this form
+
+simpler, we would be happy to hear from you. You can
+send us comments from IRS.gov/FormComments. You
+can write to the Internal Revenue Service, Tax Forms and
+Publications, 1111 Constitution Ave. NW, IR-6526,
+Washington, DC 20224. Do not send Form W-8IMY to this
+office. Instead, give it to your withholding agent.
+
+-18-
+
+Instructions for Form W-8BEN-E (Rev. 10-2021)
+
+Index
+A
+Account That Is Not a Financial
+Account 8
+Line 10 10
+Line 6 9
+Line 7 9
+Line 8 9
+Line 9a 9
+Line 9b 9
+Line 9c 10
+B
+Broker transactions or barter
+exchanges 16
+D
+Definitions 4
+Account holder 4
+Amount realized 4
+Beneficial owner 4
+Chapter 3 5
+Chapter 4 5
+Chapter 4 status 5
+Deemed-compliant FFI 5
+Disregarded entity 5
+Financial account 5
+Financial institution 5
+Fiscally transparent entity 5
+Flow-through entity 6
+Foreign financial institution (FFI) 5
+Foreign person 6
+GIIN 6
+Hybrid entity 6
+Intergovernmental agreement
+(IGA) 6
+Nonparticipating FFI 6
+Nonreporting IGA FFI 6
+Participating FFI 6
+Participating payee 6
+Payee 6
+Payment settlement entity
+(PSE) 6
+PTP interest 6
+Publicly Traded Partnership
+(PTP) 6
+Qualified intermediary (QI) 6
+Recalcitrant account holder. 6
+Reverse hybrid entity 7
+Specified U.S. person 7
+Substantial U.S. owner 7
+Transfer 7
+Transferee 7
+Transferor 7
+U.S. person 7
+Withholdable payment 7
+
+Withholding agent 7
+E
+Entities Providing Alternate or
+Additional
+Certifications Under
+Regulations 17
+Entities Providing Certifications
+Under an Applicable IGA 17
+F
+FFIs Covered by an IGA and Related
+Entities 8
+Foreign Reverse Hybrid Entities 17
+G
+General Instructions 1
+Purpose of Form 1
+H
+Hybrid Entity Making a Claim of
+Treaty Benefits:
+Line 1 16
+Line 10 17
+Line 2 16
+Line 3 16
+Line 4 17
+Line 5 17
+Line 9b 17
+Lines 6, 7, and 8 17
+N
+Non-Profit Organizations Covered by
+an IGA 8
+P
+Paperwork Reduction Act Notice. 17
+Part I Identification
+of Beneficial Owner 7
+Part I Identification of Beneficial
+Owner:
+Line 1 7
+Line 2 7
+Line 3 8
+Line 4 8
+Line 5 8
+Part II – Disregarded Entity
+or Branch Receiving Payment 10
+Line 12 10
+Line 13 10
+
+-19-
+
+Part III – Claim of Tax Treaty
+Benefits 10
+Limitation on benefits treaty
+provisions 11
+Line 14a 10
+Line 14b 10
+Line 14c 12
+Line 15 12
+Part IV – Sponsored FFI 13
+Line 16 13
+Line 17 13
+Part IX – Certain Investment Entities
+That Do Not Maintain Financial
+Accounts 13
+Line 23 13
+Parts IV Through XXVIII –
+Certification of Chapter 4
+Status 13
+IGA 13
+Part V – Certified Deemed-Compliant
+Nonregistering Local Bank 13
+Line 18 13
+Part VI – Certified
+Deemed-Compliant FFI With Only
+Low-Value Accounts 13
+Line 19 13
+Part VII – Certified
+Deemed-Compliant Sponsored,
+Closely
+Held Investment Vehicle 13
+Line 20 13
+Line 21 13
+Part VIII – Certified
+Deemed-Compliant
+Limited Life Debt
+Investment Company 13
+Line 22 13
+Part XIII – Foreign Government,
+Government of a U.S. Possession,
+or Foreign Central Bank of
+Issue 14
+Line 27 14
+Part XII – Nonreporting IGA FFI 14
+Line 26 14
+Part XI – Restricted Distributor 14
+Line 25a 14
+Lines 25b and 25c 14
+Part XIV – International
+Organization 14
+Line 28a 14
+Line 28b. 14
+Part XIX – Excepted Nonfinancial
+Start-Up Company 14
+Line 33 14
+Part X – Owner-Documented FFI 13
+Line 24a 13
+Line 24b. 13
+
+Part X – Owner-Documented FFI (Cont.)
+
+Line 24c 13
+Line 24d. 13
+Part XV – Exempt Retirement
+Plans 14
+Lines 29a, b, c, d, e, and f. 14
+Part XVI – Entity Wholly Owned
+by Exempt Beneficial Owners 14
+Line 30 14
+Part XVIII – Excepted
+Nonfinancial Group Entity 14
+Line 32 14
+Part XVII – Territory
+Financial Institution 14
+Line 31 14
+Part XX – Excepted Nonfinancial
+Entity in Liquidation or
+Bankruptcy 15
+Line 34 15
+Part XXI – 501(c) Organization 15
+Line 35 15
+Part XXIII – Publicly-Traded
+NFFE or NFFE Affiliate of
+a Publicly-Traded Corporation 15
+Line 37a 15
+Line 37b 15
+Part XXII – Nonprofit
+Organization 15
+Line 36 15
+
+Part XXIV – Excepted Territory
+NFFE 15
+Line 38 15
+Part XXIX – Substantial U.S.
+Owners of Passive NFFE 16
+Part XXV – Active NFFE 15
+Line 39 15
+Part XXVII – Excepted
+Inter-Affiliate FFI 15
+Line 41 15
+Part XXVIII – Sponsored
+Direct Reporting NFFEs 16
+Lines 42 and 43 16
+Part XXVI – Passive NFFE 15
+Line 40a 15
+Note 15
+Line 40b 15
+Line 40c 15
+Note 15
+Part XXX – Certification 16
+Purpose of Form:
+Additional information 2
+R
+Reminder 1
+
+-20-
+
+S
+Special Instructions 16
+Hybrid Entity Making a Claim of
+Treaty Benefits 16
+W
+What's New 1
+Electronic signature 1
+Guidance under section 1446(f) 1
+Line 14, claim of tax treaty
+benefits 1
+Line 15, special rates and
+conditions 1
+New Line 9c 1
+Section 6050Y reporting 1
+Who Must Provide Form
+W-8BEN-E 2
+Change in circumstances 4
+Do not use Form W-8BEN-E 3
+Expiration of Form W-8BEN-E 4
+Giving Form W-8BEN-E to the
+withholding agent 3
+When to provide Form W-8BEN-E
+to the withholding agent 3
+Note 4
+
+

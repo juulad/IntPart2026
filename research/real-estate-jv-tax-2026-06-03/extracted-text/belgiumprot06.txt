@@ -1,0 +1,369 @@
+1
+PROTOCOL
+At the signing of the Convention between the Government of the United States of
+America and the Government of the Kingdom of Belgium for the Avoidance of Double
+Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income (hereinafter
+referred to as “the Convention”), the Government of the United States of America and the
+Government of the Kingdom of Belgium have agreed on the following provisions. This
+Protocol shall form an integral part of the Convention.
+
+1.
+
+In reference to Article 7 (Business Profits)
+
+It is understood that the business profits to be attributed to a permanent establishment
+shall include only the profits derived from the assets used, risks assumed and activities
+performed by the permanent establishment. The principles of the OECD Transfer Pricing
+Guidelines will apply for purposes of determining the profits attributable to a permanent
+establishment, taking into account the different economic and legal circumstances of a single
+entity. Accordingly, any of the methods described therein as acceptable methods for
+determining an arm’s length result may be used to determine the income of a permanent
+establishment so long as those methods are applied in accordance with the Guidelines. In
+particular, in determining the amount of attributable profits, the permanent establishment shall
+be treated as having the same amount of capital that it would need to support its activities if it
+were a distinct and separate enterprise engaged in the same or similar activities. With respect
+to financial institutions other than insurance companies, a Contracting State may determine the
+amount of capital to be attributed to a permanent establishment by allocating the institution’s
+total equity between its various offices on the basis of the proportion of the financial
+institution’s risk-weighted assets attributable to each of them. In the case of an insurance
+company, there shall be attributed to a permanent establishment not only premiums earned
+through the permanent establishment, but that portion of the insurance company's overall
+investment income from reserves and surplus that supports the risks assumed by the permanent
+establishment.
+
+2.
+
+In reference to Article 14 (Income from Employment)
+
+With respect to paragraphs 1 and 2 of Article 14 (Income from Employment), where
+remuneration is derived by a resident of one of the States in respect of an employment,
+employment is exercised in the place where the employee is physically present when
+performing the activities for which the remuneration is paid, irrespective of the residence of the
+payer, the place in which the contract of employment was made, the residence of the employer,
+the place or time of payment, or the place where the results of the work were exploited.
+
+2
+3.
+
+In reference to Article 15 (Directors' Fees)
+
+a)
+
+Article 15 (Directors' Fees) also shall apply to fees received by a
+
+"gerant"/"zaakvoerder" of a company, other than a company with share capital, in his
+capacity as such.
+b)
+
+i)
+
+Remuneration derived by a person referred to in Article 15 from a
+
+company which is a resident of a Contracting State in respect of the discharge of
+day-to-day functions of a managerial or technical, commercial or financial
+nature shall be taxable in accordance with the provisions of Article 14 (Income
+from Employment), and not Article 15; to the extent that the company is a
+Belgian company, Article 14 shall be applied as if such remuneration were
+remuneration derived by an employee in respect of an employment and as if
+references to the "employer" were references to the company.
+ii)
+
+Remuneration received by a resident of a Contracting State in respect of
+
+his day-to-day activity as a partner of a company that is a resident of Belgium,
+other than a company with share capital, shall be taxable in accordance with the
+provisions of Article 14, as if such remuneration were remuneration derived by
+an employee in respect of an employment and as if references to the "employer"
+were references to the company.
+iii)
+
+Article 7 (Business Profits), and not Article 14 or 15, shall apply to a
+
+partner's distributive share of the income of an entity that is treated as fiscally
+transparent, such as a U.S. partnership.
+
+4.
+
+In reference to Article 17 (Pensions, Social Security, Annuities, Alimony, and
+
+Child Support)
+
+The term "similar legislation” is intended to refer to United States tier 1
+Railroad Retirement benefits.
+
+5.
+
+In reference to paragraph 1 of Article 24 (Mutual Agreement Procedure)
+
+The term "first notification of the action resulting in taxation not in accordance with the
+provisions of the Convention" shall mean:
+a)
+
+in the case of Belgium, the date on which the notice of assessment containing an
+
+assessment or supplementary assessment is sent to the person who considers that the
+taxation provided for in such assessment or supplementary assessment is contrary to the
+provisions of the Convention; and
+
+3
+b)
+
+in the case of the United States, the date on which the taxpayer receives a notice
+
+of proposed adjustment or of assessment, whichever is earlier.
+
+6.
+
+In reference to paragraphs 7 and 8 of Article 24 (Mutual Agreement Procedure)
+
+In respect of any case where the competent authorities have endeavored but are
+unable to reach an agreement under Article 24 regarding the application of the Convention,
+binding arbitration shall be used to determine such application, unless the competent authorities
+agree that the particular case is not suitable for determination by arbitration. If an arbitration
+proceeding (the Proceeding) under paragraph 7 of Article 24 commences, the following rules
+and procedures will apply.
+a)
+
+The Proceeding will be conducted in the manner prescribed by, and
+
+subject to the requirements of, paragraphs 7 and 8 of Article 24 and these rules
+and procedures, as modified or supplemented by any other rules and procedures
+agreed upon by the competent authorities pursuant to subparagraph q) below.
+b)
+
+The determination reached by an arbitration board in the Proceeding shall
+
+be limited to a determination regarding the amount of income, expense or tax
+reportable to the Contracting States.
+c)
+
+Notwithstanding the initiation of the Proceeding, the competent authorities
+
+may reach a mutual agreement to resolve a case and terminate the Proceeding.
+Correspondingly, a concerned person may withdraw a request for the competent
+authorities to engage in the Mutual Agreement Procedure (and thereby terminate
+the Proceeding) at any time.
+d)
+
+The requirements of subparagraph d) of paragraph 8 of Article 24 will be
+
+met when the competent authorities have each received from each concerned
+person a statement agreeing that the concerned person and each person acting on
+the concerned person’s behalf will not disclose to any other person any
+information received during the course of the Proceeding from either Contracting
+State or the arbitration board, other than the determination of the Proceeding. A
+concerned person that has the legal authority to bind any other concerned
+person(s) on this matter may do so in a comprehensive statement.
+e)
+
+Each Contracting State will have 60 days from the date on which the
+
+Proceeding begins to send a written communication to the other Contracting State
+appointing one member of the arbitration board. Within 60 days of the date on
+which the second such communication is sent, the two members appointed by the
+Contracting States will appoint a third member, who will serve as Chair of the
+board. If either Contracting State fails to appoint a member, or if the members
+appointed by the Contracting States fail to agree upon the third member in the
+manner prescribed by this paragraph, the remaining member(s) will be appointed
+
+4
+by the highest-ranking member of the Secretariat at the Centre for Tax Policy and
+Administration of the Organisation for Economic Co-operation and Development
+(OECD) who is not a citizen of either Contracting State, by written notice to both
+Contracting States within 60 days of the date of such failure. The competent
+authorities will develop a non-exclusive list of individuals with familiarity in
+international tax matters who may potentially serve as the Chair of the board. In
+any case, the Chair shall not be a citizen of either Contracting State.
+f)
+
+The arbitration board may adopt any procedures necessary for the conduct
+
+of its business, provided that the procedures are not inconsistent with any
+provision of Article 24 or the Protocol to the Convention.
+g)
+
+Each of the Contracting States will be permitted to submit, within 60 days
+
+of the appointment of the Chair of the arbitration board, a Proposed Resolution
+describing the proposed disposition of the specific monetary amounts of income,
+expense or taxation at issue in the case, and a supporting Position Paper, for
+consideration by the arbitration board. Copies of the Proposed Resolution and
+supporting Position Paper shall be provided by the board to the other Contracting
+State on the date on which the later of the submissions is submitted to the board.
+In the event that only one Contracting State submits a Proposed Resolution within
+the allotted time, then that Proposed Resolution shall be deemed to be the
+determination of the board in that case and the Proceeding shall be terminated.
+Each of the Contracting States may, if it so desires, submit a Reply Submission to
+the board within 120 days of the appointment of its Chair, to address any points
+raised by the Proposed Resolution or Position Paper submitted by the other
+Contracting State. Additional information may be submitted to the arbitration
+board only at its request, and copies of the board’s request and the Contracting
+State’s response shall be provided to the other Contracting State on the date on
+which the request or the response is submitted. Except for logistical matters such
+as those identified in subparagraphs l), n) and o) below, all communications from
+the Contracting States to the arbitration board, and vice versa, shall take place
+only through written communications between the designated competent
+authorities and the Chair of the board.
+h)
+
+The arbitration board will deliver a determination in writing to the
+
+Contracting States within six months of the appointment of its Chair. The board
+will adopt as its determination one of the Proposed Resolutions submitted by the
+Contracting States.
+i)
+
+In making its determination, the arbitration board will apply, as necessary
+
+and in descending order of priority:
+i)
+
+the provisions of the Convention;
+
+5
+ii)
+
+any agreed commentaries or explanations of the Contracting States
+
+concerning the Convention;
+iii)
+
+the laws of the Contracting States to the extent they are not inconsistent
+
+with each other; and
+iv)
+
+any OECD Commentary, Guidelines or Reports regarding relevant
+
+analogous portions of the OECD Model Tax Convention.
+j)
+
+The determination of the arbitration board in a particular case shall be
+
+binding on the Contracting States. The determination of the board will not state a
+rationale. It will have no precedential value.
+k)
+
+As provided in subparagraph e) of paragraph 8 of Article 24, the
+
+determination of an arbitration board shall constitute a resolution by mutual
+agreement under Article 24. Each concerned person must, within 30 days of
+receiving the determination of the board from the competent authority to which
+the case was first presented, advise that competent authority whether that
+concerned person accepts the determination of the board. In the event the case is
+in litigation, each concerned person who is a party to the litigation must also
+advise, within the same time frame, the relevant court of its acceptance of the
+determination of the board as the resolution by mutual agreement and withdraw from
+the consideration of the court the issues resolved through the Proceeding. If any
+concerned person fails to so advise the relevant competent authority and relevant court
+within this time frame, the determination of the board will be considered not to have
+been accepted in that case. Where the determination of the board is not accepted, the
+case may not subsequently be the subject of a Proceeding.
+l)
+
+Any meeting(s) of the arbitration board shall be in facilities provided by
+
+the Contracting State whose competent authority initiated the mutual agreement
+proceedings in the case.
+m)
+
+The treatment of any associated interest or penalties will be determined by
+
+applicable domestic law of the Contracting State(s) concerned.
+n)
+
+No information relating to the Proceeding (including the board's
+
+determination) may be disclosed by the members of the arbitration board or their
+staffs or by either competent authority, except as permitted by the Convention and
+the domestic laws of the Contracting States. In addition, all material prepared in
+the course of, or relating to, the Proceeding shall be considered to be information
+exchanged between the Contracting States. All members of the arbitration board
+and their staffs must agree in statements sent to each of the Contracting States in
+confirmation of their appointment to the arbitration board to abide by and be
+subject to the confidentiality and nondisclosure provisions of Article 25
+(Exchange of Information and Administrative Assistance) of the Convention and
+the applicable domestic laws of the Contracting States. In the event those
+
+6
+provisions conflict, the most restrictive condition shall apply.
+o)
+
+The fees and expenses will be borne equally by the Contracting States. In
+
+general, the fees of members of the arbitration board will be set at the fixed
+amount of $2,000 (two thousand United States dollars) per day or the equivalent
+amount in euro, subject to modification by the competent authorities. In general,
+the expenses of members of the arbitration board will be set in accordance with
+the International Centre for Settlement of Investment Disputes (ICSID) Schedule
+of Fees for arbitrators (as in effect on the date on which the arbitration
+proceedings begin), subject to modification by the competent authorities. Any fees for
+language translation will also be borne equally by the Contracting States. Meeting
+facilities, related resources, financial management, other logistical support, and general
+administrative coordination of the Proceeding will be provided, at its own cost, by the
+Contracting State whose competent authority initiated the mutual agreement
+proceedings in the case. Any other costs shall be borne by the Contracting State that
+incurs them.
+p)
+
+For purposes of paragraphs 7 and 8 of Article 24 and this paragraph, each
+
+competent authority will confirm in writing to the other competent authority and
+to the concerned person(s) the date of its receipt of the information necessary to
+undertake substantive consideration for a mutual agreement. Such information
+will be:
+i)
+
+in the United States, the information required to be submitted to the
+
+United States competent authority under Revenue Procedure 2002-52, section
+4.05 (or any applicable successor provisions) and, for cases initially submitted
+as a request for an Advance Pricing Agreement, the information required to be
+submitted to the Internal Revenue Service under Revenue Procedure 2006-9,
+section 4 (or any applicable successor provisions), and
+ii)
+
+in Belgium, any information that would be required under instructions or
+
+commentaries published by the Federal Public Service Finance.
+However, this information shall not be considered received until both competent
+authorities have received copies of all materials submitted to either Contracting
+State by the concerned person(s) in connection with the mutual agreement
+procedure.
+q)
+
+The competent authorities of the Contracting States may modify or
+
+supplement the above rules and procedures as necessary to more effectively
+implement the intent of paragraph 7 of Article 24 to eliminate double taxation.
+
+7
+7.
+
+In reference to Article 25 (Exchange of Information and Administrative Assistance)
+Banking records will be exchanged only upon request. If the request does not identify
+
+both a specific taxpayer and a specific bank or financial institution, the competent authority of
+the requested State may decline to obtain any information that it does not already possess.
+
+IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their
+respective Governments, have signed this Protocol.
+
+DONE at Brussels in duplicate, in the English language, this twenty-seventh day of
+November, 2006.
+
+FOR THE GOVERNMENT OF
+
+FOR THE GOVERNMENT OF
+
+THE UNITED STATES OF AMERICA:
+
+THE KINGDOM OF BELGIUM:
+
+Tom C. Korologos
+Ambassador to Belgium
+
+Didier Reynders
+Deputy Prime Minister Minister of Finance
+
+

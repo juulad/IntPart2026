@@ -1,0 +1,398 @@
+706-NA
+
+Form
+(Rev. August 2025)
+Department of the Treasury
+Internal Revenue Service
+
+United States Estate (and Generation-Skipping Transfer) Tax Return
+Estate of Nonresident Not a Citizen of the United States
+
+OMB No. 1545-0015
+
+To be filed for decedents dying after December 31, 2024.
+Go to www.irs.gov/Form706NA for instructions and the latest information.
+
+Attach supplemental documents and translations. Show amounts in U.S. dollars.
+
+Part I
+
+Decedent, Executor, and Attorney
+
+1a Decedent’s first (given) name and middle initial
+
+1b Decedent’s last (family) name
+
+2 U.S. taxpayer ID number (if any)
+
+3 Place of death
+
+4 Domicile at time of death
+
+5 Citizenship (nationality)
+
+7b Place of birth
+
+8 Business or occupation
+
+6 Date of death
+
+7a Date of birth
+
+9a Name of executor
+
+9b Telephone number
+
+9e Address of executor (number and street)
+
+9f Apt. or suite no.
+
+9h State
+
+9j Foreign country name
+
+9i ZIP code
+
+10a Name of attorney for estate
+
+9c Fax number
+
+9d Email address
+
+9g City, town, or post office. For foreign addresses, also complete lines 9j, 9k, and 9l.
+
+10b Telephone number
+
+9k Foreign province/state/county
+10c Fax number
+
+9l Foreign postal code
+
+10d Email address
+
+10e Address of attorney for estate (number and street) 10f Apt. or suite no. 10g City, town, or post office. For foreign addresses, also complete lines 10j, 10k, and 10l.
+10h State
+
+11
+12
+
+Part II
+
+10i ZIP code
+
+10j Foreign country name
+
+10k Foreign province/state/county 10l Foreign postal code
+
+Check here if there are multiple executors or attorneys. Attach a list of the names, addresses, telephone numbers, fax numbers,
+and email addresses of the additional executors or attorneys.
+Check here if a supplemental return.
+
+Tax Computation (see instructions)
+
+1
+2
+
+Taxable estate from Part IV, line 10 . . . . . . . . . . . . . . . . . . . . . .
+Total taxable gifts of tangible or intangible property located in the U.S., transferred (directly or indirectly)
+by the decedent after December 31, 1976, and not included in the gross estate (see section 2511) . .
+3
+Total. Add lines 1 and 2 . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+Tentative tax on the amount on line 3
+. . . . . . . . . . . . . . . . . . . . .
+5
+Tentative tax on the amount on line 2
+. . . . . . . . . . . . . . . . . . . . .
+6
+Gross estate tax. Subtract line 5 from line 4 . . . . . . . . . . . . . . . . . . .
+7
+Unified credit. Enter smaller of line 6 amount or maximum allowed . . . . . . . . . . . .
+8
+Balance. Subtract line 7 from line 6 . . . . . . . . . . . . . . . . . . . . . .
+9
+Credit for pre-1977 federal gift taxes under section 2012 . . . . . . .
+9
+10
+Marital credit under the 1995 Canadian Protocol . . . . . . . . . .
+10
+11
+Credit for tax on prior transfers. Attach Schedule Q (Form 706) . . . . .
+11
+12
+Total. Add lines 9, 10, and 11 . . . . . . . . . . . . . . . . . . . . . . . .
+13
+Net estate tax. Subtract line 12 from line 8 . . . . . . . . . . . . . . . . . . . .
+14
+Total generation-skipping transfer tax. Attach Schedule R (Form 706) . . . . . . . . . . .
+15
+Total transfer taxes. Add lines 13 and 14 . . . . . . . . . . . . . . . . . . . .
+16
+Earlier payments. See instructions and attach explanation . . . . . . . . . . . . . . .
+17
+Tax due. If the amount on line 15 is more than the amount on line 16, subtract line 16 from line 15.
+For details on how to pay, go to www.irs.gov/Payments or see the instructions . . . . . . . .
+18 a Overpayment. If the amount on line 16 is more than the amount on line 15, subtract line 15 from line
+16. Complete lines 18b, 18c, and 18d . . . . . . . . . . . . . . . . . . . . .
+b Routing number
+c Type:
+Checking
+Savings
+d Account number
+
+Sign
+Here
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+12
+13
+14
+15
+16
+17
+18a
+
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief,
+it is true, correct, and complete. I understand that a complete return requires listing all property constituting the part of the decedent’s gross estate (as defined by the
+statute) situated in the United States. Declaration of preparer (other than the executor) is based on all information of which preparer has any knowledge.
+
+Date
+
+Signature of executor
+Preparer’s name
+
+Paid
+Preparer
+Firm’s name
+Use Only Firm’s address
+
+May the IRS discuss this return
+with the preparer shown below?
+See instructions.
+Yes
+No
+
+Date
+
+Signature of executor
+
+Preparer’s signature
+
+For Privacy Act and Paperwork Reduction Act Notice, see the Instructions for Form 706.
+
+Date
+
+Check
+if PTIN
+self-employed
+Firm’s EIN
+Phone no.
+
+Cat. No. 10145K
+
+Form 706-NA (Rev. 8-2025) Created 8/11/25
+
+Page 2
+
+Form 706-NA (Rev. 8-2025)
+
+Part III
+
+General Information (see instructions)
+
+Answer each of the following questions. Attach additional information as described.
+1a Did the decedent die testate? . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+b Were letters testamentary or of administration granted for the estate? If granted to persons other than those filing
+the return, include names and addresses on page 1 . . . . . . . . . . . . . . . . . . . . .
+2a At the date of death, did the decedent own any real property located in the United States? . . . . . . . .
+b At the date of death, did the decedent own any U.S. corporate stock? . . . . . . . . . . . . . . .
+c At the date of death, did the decedent own any debt obligations of (1) a U.S. person; or (2) the United States, a
+state or any political subdivision, or the District of Columbia? . . . . . . . . . . . . . . . . . .
+d At the date of death, did the decedent own any other property located in the United States? . . . . . . .
+3
+At the date of death, was the decedent engaged in business in the United States? . . . . . . . . . . .
+4
+At the date of death, did the decedent have access, personally or through an agent, to a safe deposit box located
+in the United States? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+At the date of death, did the decedent own any property located in the United States as a joint tenant with right of
+survivorship; as a tenant by the entirety; or, with surviving spouse, as community property? If “Yes,” attach
+Schedule E (Form 706) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6a Was the decedent ever a citizen or resident of the United States? If “Yes,” complete lines 6b and 6c . . . . .
+b If “Yes” to line 6a, did the decedent lose U.S. citizenship or residency within 10 years of death? . . . . . .
+c If “Yes” to line 6a, was the decedent a covered expatriate under section 877A? . . . . . . . . . . . .
+7
+Did the decedent make any transfer (of property that was located in the United States at either the time of the
+transfer or the time of death) described in section 2035, 2036, 2037, or 2038? See the Instructions for Form 706,
+Schedule G. If “Yes,” attach Schedule G (Form 706) . . . . . . . . . . . . . . . . . . . . .
+8
+
+Yes No
+
+At the date of death, were there any trusts in existence that were created by the decedent and that included
+property located in the United States either when the trust was created or when the decedent died? If “Yes,”
+attach Schedule G (Form 706) . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+9
+
+At the date of death, did the decedent:
+a Have a general power of appointment over any property located in the United States?
+b Or, at any time, exercise or release the power? . . . . . . . . . . . . .
+If “Yes” to either line 9a or 9b, attach Schedule H (Form 706)
+10a Have federal gift tax returns ever been filed? . . . . . . . . . . . . . .
+If “Yes,” provide the following information.
+b Period(s) covered
+c IRS office(s) where filed
+11
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Does the gross estate in the United States include any interests in property transferred to a “skip person” as
+defined in the instructions for Schedule R (Form 706)? If “Yes,” attach Schedule R (Form 706) and/or Schedule R-1
+(Form 706) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Part IV
+
+Taxable Estate (see instructions)
+
+Caution: You must document lines 2 and 4 for the deduction on line 6 to be allowed.
+1
+Gross estate in the United States. Part V, line 3 . . . . . . . . . . . . . . . . . .
+2
+Gross estate outside the United States . . . . . . . . . . . . . . . . . . . . .
+3
+Entire gross estate wherever located. Add lines 1 and 2 . . . . . . . . . . . . . . .
+4
+Amount of funeral expenses, administration expenses, decedent’s debts, mortgages and liens, and
+losses during administration. Attach itemized schedule(s) . . . . . . . . . . . . . . .
+5
+Divide line 1 by line 3 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+Deduction for expenses, claims, etc. Multiply line 5 by line 4 . . . . . . . . . . . . . .
+7
+Charitable deduction (attach Schedule O (Form 706)) and marital deduction (attach Schedule M (Form
+706) and computation) . . . . . . . . . . . . . . . . . . . . . . . . . .
+8
+State death tax deduction . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+Total deductions. Add lines 6, 7, and 8 . . . . . . . . . . . . . . . . . . . . .
+10
+Taxable estate. Subtract line 9 from line 1. Enter here and on Part II, line 1 . . . . . . . . .
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Form 706-NA (Rev. 8-2025)
+
+Page 3
+
+Form 706-NA (Rev. 8-2025)
+
+Part V
+
+Gross Estate in the United States (see instructions)
+Yes No
+
+1 Do you elect to value the decedent’s gross estate at a date or dates after the decedent’s death (as authorized
+by section 2032)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+• To make the election, you must check ‘‘Yes.’’
+• If you check ‘‘Yes,’’ complete all columns.
+• If you check ‘‘No,’’ complete columns (a), (b), (c), and (f); leave columns (d) and (e) blank.
+• Attach additional sheets, if necessary.
+(a)
+Item
+no.
+
+(b)
+Description of property and securities
+
+(c)
+For securities, give
+CUSIP number
+
+(d)
+Alternate
+valuation date
+
+(e)
+Alternate value in
+U.S. dollars
+
+1
+
+(f)
+Value at date of
+death in U.S. dollars
+
+1
+
+2
+3
+
+Total from attachment, if necessary . . . . . . . . . . . . . . . .
+Total. Add all amounts from column (e) or column (f), as applicable. Enter here and
+on Part IV, line 1 . . . . . . . . . . . . . . . . . . . . . .
+
+2
+3
+Form 706-NA (Rev. 8-2025)
+
+

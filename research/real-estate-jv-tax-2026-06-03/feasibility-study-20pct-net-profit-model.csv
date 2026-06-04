@@ -1,0 +1,66 @@
+Section,Line Item,Formula/Assumption,Amount
+Target,Capital base used for model,Given,2000000
+Target,Total modeled net-profit target,30% x 2000000,600000
+Target,Total modeled net-profit target as % of capital,600000 / 2000000,0.30
+Ownership,Jason profit share,Given,0.20
+Ownership,Adam profit share,Given,0.05
+Ownership,Ben profit share,Given,0.375
+Ownership,Abraham profit share,Given,0.375
+Ownership,Ben and Abraham combined profit share,0.375 + 0.375,0.75
+Tax assumptions,Wisconsin corporate tax rate,Assumed,0.079
+Tax assumptions,Federal corporate tax rate,Assumed,0.21
+Tax assumptions,Dividend withholding on foreign distributions,Assumed no treaty reduction,0.30
+Tax assumptions,UAE / Dubai corporate tax on Dubai-bound money,Assumed,0.09
+Tax assumptions,Effective U.S. corporate tax rate,0.079 + 0.21 x (1 - 0.079),0.27241
+Workback,Jason net factor,20%,0.20
+Workback,Adam net factor,5%,0.05
+Workback,Ben net factor,37.5% x 70% x 91%,0.238875
+Workback,Abraham net factor,37.5% x 70% x 91%,0.238875
+Workback,Total modeled net factor,0.20 + 0.05 + 0.238875 + 0.238875,0.72775
+Workback,Required after-U.S.-corporate-tax distributable profit,600000 / 0.72775,824459
+Workback,Required pre-tax U.S. corporate profit,824459 / (1 - 0.27241),1133137
+Workback,Required pre-tax profit as % of capital,1133137 / 2000000,0.5666
+Hypothetical P&L,Property acquisition cost,Assumed,1490000
+Hypothetical P&L,Renovation and contractor costs,Assumed,350000
+Hypothetical P&L,Acquisition closing costs title recording,Assumed,30000
+Hypothetical P&L,Holding costs property tax insurance utilities maintenance,Assumed,70000
+Hypothetical P&L,Legal accounting entity administration,Assumed,30000
+Hypothetical P&L,Pre-sale cash deployed,Sum above excluding selling costs,1970000
+Hypothetical P&L,Selling costs broker title transfer concessions,Assumed,169628
+Hypothetical P&L,Total project cost before income tax,Pre-sale cash deployed + selling costs,2139628
+Hypothetical P&L,Gross sale proceeds required,Total project cost + required pre-tax profit,3272765
+Hypothetical P&L,Pre-tax U.S. corporate profit required,Gross sale proceeds - total project cost,1133137
+Corporate tax,Wisconsin corporate tax,1133137 x 7.9%,89518
+Corporate tax,Federal taxable income after state deduction,1133137 - 89518,1043619
+Corporate tax,Federal corporate tax,1043619 x 21%,219160
+Corporate tax,Total U.S. corporate tax,89518 + 219160,308678
+Corporate tax,After-U.S.-corporate-tax distributable profit,1133137 - 308678,824459
+Distribution,Jason share before individual tax,824459 x 20%,164892
+Distribution,Adam share before individual tax,824459 x 5%,41223
+Distribution,Ben share before withholding,824459 x 37.5%,309172
+Distribution,Abraham share before withholding,824459 x 37.5%,309172
+Withholding,Ben U.S. dividend withholding,309172 x 30%,92752
+Withholding,Abraham U.S. dividend withholding,309172 x 30%,92752
+UAE tax,Ben Dubai tax base after U.S. withholding,309172 - 92752,216420
+UAE tax,Abraham Dubai tax base after U.S. withholding,309172 - 92752,216420
+UAE tax,Ben UAE corporate tax,216420 x 9%,19478
+UAE tax,Abraham UAE corporate tax,216420 x 9%,19478
+Result,Jason net before U.S. individual tax,No individual tax modeled,164892
+Result,Adam net before U.S. individual tax,No individual tax modeled,41223
+Result,Ben net after modeled U.S. withholding and UAE tax,309172 - 92752 - 19478,196943
+Result,Abraham net after modeled U.S. withholding and UAE tax,309172 - 92752 - 19478,196943
+Result,Total modeled net profit,164892 + 41223 + 196943 + 196943,600000
+Result,Total modeled net-profit return on capital,600000 / 2000000,0.30
+Exact after-tax split alternative,Jason target net,600000 x 20%,120000
+Exact after-tax split alternative,Adam target net,600000 x 5%,30000
+Exact after-tax split alternative,Ben target net,600000 x 37.5%,225000
+Exact after-tax split alternative,Abraham target net,600000 x 37.5%,225000
+Exact after-tax split alternative,Ben required distribution before withholding and UAE tax,225000 / (70% x 91%),353218
+Exact after-tax split alternative,Abraham required distribution before withholding and UAE tax,225000 / (70% x 91%),353218
+Exact after-tax split alternative,Total required distributable profit for exact after-tax split,120000 + 30000 + 353218 + 353218,856436
+Tax leakage,Wisconsin corporate tax,Modeled,89518
+Tax leakage,U.S. federal corporate tax,Modeled,219160
+Tax leakage,U.S. withholding on Ben and Abraham,92752 + 92752,185503
+Tax leakage,UAE corporate tax on Ben and Abraham,19478 + 19478,38956
+Tax leakage,Total modeled tax before Jason and Adam personal tax,89518 + 219160 + 185503 + 38956,533137
+
