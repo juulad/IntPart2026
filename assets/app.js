@@ -1,7 +1,7 @@
 const defaults = {
   mode: "legal",
   capital: 2000000,
-  targetNetPct: 30,
+  targetNetPct: 20,
   stateTax: 7.9,
   federalTax: 21,
   withholdingTax: 30,
