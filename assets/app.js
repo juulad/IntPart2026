@@ -61,7 +61,7 @@ const debtDefaults = {
   devSaleProceeds: 2600000,
   debtOperatingProfitPct: 27,
   interestWithholdingRate: 30,
-  debtDividendWithholdingRate: 0,
+  debtDividendWithholdingRate: 30,
   debtUaeTaxRate: 9,
   preferredReturnRate: 8,
   preferredParticipationPct: 75,
